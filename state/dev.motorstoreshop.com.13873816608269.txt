@@ -1,0 +1,6 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/motorstoreshop/hermes/upload/MAGMI-import_product_demo.csv
+DEBUG:Running semantic analyzer import
+SUCCESS:The lexical analysis has successfully passed all validations for the import profile.<br>Time taken: 0.0031440258026123 seconds<br>The semantic analysis has successfully passed all validations for the import profile.<br>Time taken: 0.018182992935181 seconds<br>
+SUCCESS:Example of the data that would be ingested (first row):
+SUCCESS:Array<br>(<br>    [sku] => skuSIMPLE<br>    [name] => Producto simple<br>    [attribute_set] => Default<br>    [visibility] => 4<br>    [type] => simple<br>    [store] => admin<br>    [category_ids] => 54<br>    [short_description] => Descripción corta<br>    [description] => Descripción larga<br>    [status] => Habilitado<br>    [price] => 20<br>    [special_price] => <br>    [weight] => 0.1<br>    [tax_class_id] => IVA 21%<br>    [qty] => 10<br>    [image] => image3.jpg<br>    [small_image_label] => Producto simple<br>    [thumbnail_label] => Producto simple<br>    [image_label] => Producto simple<br>)<br>
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>

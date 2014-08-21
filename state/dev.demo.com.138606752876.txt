@@ -1,0 +1,3 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/demo2/hermes/upload/2_Style BARCELONA - Cambra de Comerç de Barcelona - Lista de PRODUCTOS-1.csv
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>
+ERROR:Error found at item LC:<br>Column: price, required field, numeric value between 0.01 and 9999999, but "14.21 €" provided.<br>

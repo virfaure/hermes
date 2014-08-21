@@ -1,0 +1,8 @@
+DEBUG:Running lexical analyzer: update  on file: /var/www/clickonfashion/hermes/upload/test.csv
+DEBUG:Running semantic analyzer update
+SUCCESS:The lexical analysis has successfully passed all validations for the update profile.<br>Time taken: 0.00081396102905273 seconds<br>The semantic analysis has successfully passed all validations for the update profile.<br>Time taken: 0.0013959407806396 seconds<br>
+SUCCESS:Example of the data that would be ingested (first row):
+SUCCESS:Array<br>(<br>    [sku] => TORRAS_A45710R<br>    [name] => Jersey fantasía de piel y punto<br>    [attribute_set] => Producto con talla y color<br>    [visibility] => 4<br>    [type] => configurable<br>    [store] => admin<br>    [categories] => Marcas/Torras/Hombre/Jerseys;;Hombre/Jerseys<br>    [short_description] => dd<br>    [description] => dd<br>    [status] => Habilitado<br>    [price] => 240<br>    [special_price] => 240<br>    [weight] => 0.600000<br>    [tax_class_id] => IVA 21%<br>    [image] => torras/photos/noimage.jpg<br>    [configurable_attributes] => talla,color<br>    [marca] => Torras<br>    [small_image_label] => Jersey fantasía de piel y punto<br>    [thumbnail_label] => Jersey fantasía de piel y punto<br>    [image_label] => Jersey fantasía de piel y punto<br>)<br>
+SUCCESS:
+SUCCESS:
+DEBUG:Strategy sku (Lexical_SkuUpdate) is not implemented for the lexical analizer <br>

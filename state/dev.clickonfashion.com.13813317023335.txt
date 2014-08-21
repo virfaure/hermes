@@ -1,0 +1,1 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/clickonfashion/hermes/upload/MAGMI-import_product_demo.csv

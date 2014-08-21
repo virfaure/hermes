@@ -1,0 +1,3 @@
+DEBUG:Running lexical analyzer: update  on file: /var/www/demo2/hermes/upload/MAGMI-import_product_demo (copy).csv
+DEBUG:Strategy sku (Lexical_SkuUpdate) is not implemented for the lexical analizer <br>
+ERROR:Error found at item sku00S1:<br>Column: category_ids, required field, format: CategoryId1, CategoryId2, CategoryId3... (comma separated integer numbers) but "" provided.<br>

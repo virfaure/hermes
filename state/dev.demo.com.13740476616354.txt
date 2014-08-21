@@ -1,0 +1,3 @@
+DEBUG:Running lexical analyzer
+DEBUG:Running semantic analyzer
+ERROR:Error found at column category_id<br>CategoryId(s) "18, 19, 21, 22, 24" must exist on the database.

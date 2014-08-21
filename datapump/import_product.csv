@@ -1,0 +1,6 @@
+"sku";"name";"attribute_set";"visibility";"type";"store";"website";"categories";"short_description";"description";"status";"price";"special_price";"weight";"tax_class_id";"qty";"ean";"image";"re_skus";"configurable_attributes";"talla";"color"
+"sku00S1";"balsam therapy cream 200ml";"Producto con talla y color";1;"simple";"admin";"base";"Categoria 1/Subcategoria 1;;Categoria 2/Subcategoria 2";"Descripción corta";"Descripción larga";1;10;;0,3;"IVA 21%";5;;"image1.jpg, image2.jpg";;"talla,color";"S";"Blanco"
+"sku00S2";"balsam therapy cream 200ml";"Producto con talla y color";1;"simple";"admin";"base";"Categoria 1/Subcategoria 1;;Categoria 2/Subcategoria 2";"Descripción corta";"Descripción larga";1;10;;0,3;"IVA 21%";5;;"image1.jpg, image2.jpg";;"talla,color";"XL";"Azul"
+"sku00C";"tonic makeup removal 200ml";"Producto con talla y color";4;"configurable";"admin";"base";"Categoria 1/Subcategoria 1;;Categoria 2/Subcategoria 2";"Descripción corta";"Descripción larga";1;10;;0,3;"IVA 21%";5;;"image1.jpg, image2.jpg";;"talla,color";;
+;;;;;;;;;;;;;;;;;;;;;
+"skuSIMPLE";"Producto simple";"Default";4;"simple";"admin";"base";"Categoria 1/Subcategoria 1;;Categoria 2/Subcategoria 2";"Descripción corta";"Descripción larga";1;20;;0,1;"IVA 21%";5;;"image3.jpg";;;;

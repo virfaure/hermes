@@ -1,0 +1,120 @@
+DEBUG:Running lexical analyzer: update  on file: /var/www/aitastore/hermes/upload/add_new_season.csv
+DEBUG:Running semantic analyzer update
+SUCCESS:The lexical analysis has successfully passed all validations for the update profile.<br>Time taken: 0.41412806510925 seconds<br>The semantic analysis has successfully passed all validations for the update profile.<br>Time taken: 0.9538779258728 seconds<br>
+DEBUG:Importing...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Import Report Mail Notifier-1.0.0-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Import_report_mail_notifier 
+PLUGINHELLO:Magmi Optimizer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Optimizer 
+PLUGINHELLO:Automatic Product Processor-0.0.1-Javier- 
+PLUGINHELLO:On the fly category creator/importer-0.1.7-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_category_creator/importer 
+PLUGINHELLO:Image attributes processor-1.0.22-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Image_attributes_processor 
+STD:Image attributes processor v1.0.22 - IMG SOURCE FOLDER:../ftp/media
+PLUGINHELLO:On the fly indexer-0.1.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_indexer 
+PLUGINHELLO:Generic mapper-0.0.6a-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Generic_mapper 
+PLUGINHELLO:Configurable Item processor-1.3.6-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Configurable_Item_processor 
+PLUGINHELLO:Cross/Upsell Importer-1.0.3-Dweeves-https://sourceforge.net/apps/mediawiki/magmi/index.php?title=Cross/Upsell_Importer 
+PLUGINHELLO:Product relater-1.0.3-Dweeves,jwtechniek-https://sourceforge.net/apps/mediawiki/magmi/index.php?title=Product_relater 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CT02059PS</b>, image 'noimg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:100 - 5.8458120822906 - 5.8458120822906
+DBTIME:2406 - 0.92661833763123 - 0.92661833763123 - 2406
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:200 - 12.50413608551 - 6.6582469940186
+DBTIME:4872 - 2.0832982063293 - 1.1566798686981 - 4872
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:300 - 18.843899965286 - 6.3396439552307
+DBTIME:7289 - 2.9425904750824 - 0.85929226875305 - 7289
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:400 - 25.767683029175 - 6.9236569404602
+DBTIME:9697 - 4.1298706531525 - 1.1872801780701 - 9697
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:500 - 32.668127059937 - 6.9003698825836
+DBTIME:12069 - 5.2551414966583 - 1.1252708435059 - 12069
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:600 - 39.204579114914 - 6.5362451076508
+DBTIME:14425 - 6.1946320533752 - 0.93949055671692 - 14425
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:700 - 46.224889993668 - 7.0202348232269
+DBTIME:16819 - 7.3256981372833 - 1.1310660839081 - 16819
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:800 - 53.2199010849 - 6.9949309825897
+DBTIME:19270 - 8.2174324989319 - 0.89173436164856 - 19270
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:900 - 59.944128990173 - 6.7240998744965
+DBTIME:21662 - 9.4185824394226 - 1.2011499404907 - 21662
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:1000 - 66.850805044174 - 6.9066009521484
+DBTIME:24401 - 10.785106658936 - 1.3665242195129 - 24401
+ITIME:1100 - 73.600104093552 - 6.7491691112518
+DBTIME:27633 - 12.193804264069 - 1.4086976051331 - 27633
+ITIME:1200 - 80.958290100098 - 7.3580551147461
+DBTIME:30804 - 13.779503583908 - 1.5856993198395 - 30804
+ITIME:1300 - 88.489673137665 - 7.531289100647
+DBTIME:34003 - 15.284283399582 - 1.5047798156738 - 34003
+ITIME:1369 - 93.313266992569 - 4.8234620094299
+DBTIME:36233 - 16.18020606041 - 0.89592266082764 - 36233
+SUCCESS:Skus imported OK:1369/1369
+INFO:Import Report Mail Notifier v1.0.0 - Sending report to : tecnico@theetailers.com ([DEV][aitastore] Hermes Update report)
+INFO:Automatic Product Processor v0.0.1 - Automatic Product Processor
+DEBUG:Strategy sku (Lexical_SkuUpdate) is not implemented for the lexical analizer <br>Strategy size (Lexical_Size) is not implemented for the lexical analizer <br>Strategy altura (Lexical_Altura) is not implemented for the lexical analizer <br>Strategy caracteristicas (Lexical_Caracteristicas) is not implemented for the lexical analizer <br>Strategy shipping_return (Lexical_ShippingReturn) is not implemented for the lexical analizer <br>Strategy volumen (Lexical_Volumen) is not implemented for the lexical analizer <br>Strategy composition_cares (Lexical_CompositionCares) is not implemented for the lexical analizer <br>Strategy filtro_composicion (Lexical_FiltroComposicion) is not implemented for the lexical analizer <br>Strategy season (Lexical_Season) is not implemented for the lexical analizer <br>

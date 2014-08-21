@@ -1,0 +1,4 @@
+DEBUG:Running lexical analyzer: update  on file: /var/www/microfusa/hermes/upload/Products_PROD_Image.csv
+DEBUG:Running semantic analyzer update
+DEBUG:Strategy sku (Lexical_SkuUpdate) is not implemented for the lexical analizer <br>
+ERROR:Error found at column image<br>Image(s) "http://www.microfusatienda.com/media/catalog/product/c/m/cms40_1.jpg" must exist.

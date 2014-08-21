@@ -1,0 +1,4 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/bcnmarket/hermes/upload/calestevet.csv
+DEBUG:Running semantic analyzer import
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>Strategy unidad_caja (Lexical_UnidadCaja) is not implemented for the lexical analizer <br>Strategy pais (Lexical_Pais) is not implemented for the lexical analizer <br>Strategy denominación de origen (Lexical_DenominaciónDeOrigen) is not implemented for the lexical analizer <br>Strategy variedad (Lexical_Variedad) is not implemented for the lexical analizer <br>Strategy zona (Lexical_Zona) is not implemented for the lexical analizer <br>Strategy capacidad (Lexical_Capacidad) is not implemented for the lexical analizer <br>
+ERROR:Error found at column attribute_set<br>AttributeSet(s) "Embutidos" must exist on the database.

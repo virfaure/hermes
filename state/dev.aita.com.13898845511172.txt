@@ -1,0 +1,4 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/aita/hermes/upload/HERMES_import_product_TEST.csv
+DEBUG:Running semantic analyzer import
+SUCCESS:The lexical analysis has successfully passed all validations for the import profile.<br>Time taken: 0.0010449886322021 seconds<br>The semantic analysis has successfully passed all validations for the import profile.<br>Time taken: 0.0014798641204834 seconds<br>
+DEBUG:Importing...

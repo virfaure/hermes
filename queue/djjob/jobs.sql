@@ -1,0 +1,22 @@
+
+CREATE TABLE `jobs` (
+`id` INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+`handler` MEDIUMTEXT NOT NULL,
+`queue` VARCHAR(355) NOT NULL DEFAULT 'default',
+`project` VARCHAR(100) NULL,
+`percentage` VARCHAR(3) NULL,
+`attempts` INT UNSIGNED NOT NULL DEFAULT 0,
+`run_at` DATETIME NULL,
+`locked_at` DATETIME NULL,
+`locked_by` VARCHAR(255) NULL,
+`failed_at` DATETIME NULL,
+`error` TEXT NULL,
+`created_at` DATETIME NOT NULL
+) ENGINE = INNODB;
+
+
+CREATE TABLE `stats` (
+`project` VARCHAR(100) NOT NULL PRIMARY KEY,
+`product_save` VARCHAR(255)  NULL,
+`reindex` VARCHAR(255)  NULL
+) ENGINE = INNODB;

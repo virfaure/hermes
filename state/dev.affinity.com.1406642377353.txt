@@ -1,0 +1,4 @@
+DEBUG:Running lexical analyzer: update  on file: /var/www/affinity/hermes/upload/aff-test-1.csv
+DEBUG:Running semantic analyzer update
+DEBUG:Strategy sku (Lexical_SkuUpdate) is not implemented for the lexical analizer <br>
+ERROR:Error found at column type<br>simples_skus field is required if any configurable product is specified.

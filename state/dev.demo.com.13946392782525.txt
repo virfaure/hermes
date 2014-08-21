@@ -1,0 +1,99 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/demo2/hermes/upload/import_product_v2_20140310.csv
+DEBUG:Running semantic analyzer import
+SUCCESS:The lexical analysis has successfully passed all validations for the import profile.<br>Time taken: 0.02220892906189 seconds<br>The semantic analysis has successfully passed all validations for the import profile.<br>Time taken: 0.13918018341064 seconds<br>
+DEBUG:Importing...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Import Report Mail Notifier-1.0.0-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Import_report_mail_notifier 
+PLUGINHELLO:Magmi Optimizer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Optimizer 
+PLUGINHELLO:Magmi Magento Reindexer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Magento_Reindexer 
+PLUGINHELLO:On the fly category creator/importer-0.2.4-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_category_creator/importer 
+PLUGINHELLO:Image attributes processor-1.0.22-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Image_attributes_processor 
+STD:Image attributes processor v1.0.22 - IMG SOURCE FOLDER:../ftp/media
+PLUGINHELLO:On the fly indexer-0.1.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_indexer 
+PLUGINHELLO:Generic mapper-0.0.6a-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Generic_mapper 
+PLUGINHELLO:Configurable Item processor-1.3.6-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Configurable_Item_processor 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066DB30</b>, image 'W1F066DB_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066DB30</b>, image 'W1F066DB_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066DB30</b>, image 'W1F066DB_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066DB40</b>, image 'W1F066DB_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066DB40</b>, image 'W1F066DB_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066DB40</b>, image 'W1F066DB_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066DB50</b>, image 'W1F066DB_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066DB50</b>, image 'W1F066DB_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066DB50</b>, image 'W1F066DB_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066DB60</b>, image 'W1F066DB_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066DB60</b>, image 'W1F066DB_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066DB60</b>, image 'W1F066DB_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066DB70</b>, image 'W1F066DB_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066DB70</b>, image 'W1F066DB_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066DB70</b>, image 'W1F066DB_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DB20</b>, image 'W1F070DB_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DB20</b>, image 'W1F070DB_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DB20</b>, image 'W1F070DB_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DB30</b>, image 'W1F070DB_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DB30</b>, image 'W1F070DB_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DB30</b>, image 'W1F070DB_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DB40</b>, image 'W1F070DB_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DB40</b>, image 'W1F070DB_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DB40</b>, image 'W1F070DB_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DB50</b>, image 'W1F070DB_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DB50</b>, image 'W1F070DB_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DB50</b>, image 'W1F070DB_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DB60</b>, image 'W1F070DB_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DB60</b>, image 'W1F070DB_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DB60</b>, image 'W1F070DB_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DC20</b>, image 'W1F070DC_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DC20</b>, image 'W1F070DC_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DC20</b>, image 'W1F070DC_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DC30</b>, image 'W1F070DC_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DC30</b>, image 'W1F070DC_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DC30</b>, image 'W1F070DC_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DC40</b>, image 'W1F070DC_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DC40</b>, image 'W1F070DC_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DC40</b>, image 'W1F070DC_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DC50</b>, image 'W1F070DC_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DC50</b>, image 'W1F070DC_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DC50</b>, image 'W1F070DC_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DC60</b>, image 'W1F070DC_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DC60</b>, image 'W1F070DC_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070DC60</b>, image 'W1F070DC_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037DD30</b>, image 'W2F037DD_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037DD30</b>, image 'W2F037DD_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037DD30</b>, image 'W2F037DD_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037DD40</b>, image 'W2F037DD_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037DD40</b>, image 'W2F037DD_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037DD40</b>, image 'W2F037DD_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037DD50</b>, image 'W2F037DD_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037DD50</b>, image 'W2F037DD_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037DD50</b>, image 'W2F037DD_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037DD60</b>, image 'W2F037DD_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037DD60</b>, image 'W2F037DD_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037DD60</b>, image 'W2F037DD_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037DD70</b>, image 'W2F037DD_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037DD70</b>, image 'W2F037DD_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037DD70</b>, image 'W2F037DD_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066D</b>, image 'W1F066DB_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066D</b>, image 'W1F066DB_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F066D</b>, image 'W1F066DB_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070D</b>, image 'W1F070DB_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070D</b>, image 'W1F070DB_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W1F070D</b>, image 'W1F070DB_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037D</b>, image 'W2F037DD_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037D</b>, image 'W2F037DD_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: W2F037D</b>, image 'W2F037DD_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+ITIME:23 - 9.7735450267792 - 9.7735450267792
+DBTIME:1121 - 3.0607788562775 - 3.0607788562775 - 1121
+SUCCESS:Skus imported OK:23/23
+INFO:Import Report Mail Notifier v1.0.0 - Sending report to : tecnico@theetailers.com ([DEV][demo] Hermes Import report)
+INFO:Magmi Magento Reindexer v1.0.5 - running indexer
+INFO:On the fly category creator/importer v0.2.4 - Updating Category children count....
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>Strategy color2 (Lexical_Color2) is not implemented for the lexical analizer <br>Strategy codi_color (Lexical_CodiColor) is not implemented for the lexical analizer <br>Strategy codi_color2 (Lexical_CodiColor2) is not implemented for the lexical analizer <br>Strategy tecnologia1 (Lexical_Tecnologia1) is not implemented for the lexical analizer <br>Strategy tecnologia2 (Lexical_Tecnologia2) is not implemented for the lexical analizer <br>Strategy activitat (Lexical_Activitat) is not implemented for the lexical analizer <br>Strategy videos (Lexical_Videos) is not implemented for the lexical analizer <br>Strategy relacionats (Lexical_Relacionats) is not implemented for the lexical analizer <br>Strategy from date (Lexical_FromDate) is not implemented for the lexical analizer <br>Strategy to date (Lexical_ToDate) is not implemented for the lexical analizer <br>

@@ -1,0 +1,127 @@
+DEBUG:Running lexical analyzer
+DEBUG:Running semantic analyzer
+SUCCESS:The lexical analysis has successfully passed all validations for the import_category profile.<br>Time taken: 0.074831962585449 seconds<br>The semantic analysis has successfully passed all validations for the import_category profile.<br>Time taken: 0.0080840587615967 seconds<br>
+DEBUG:Actualizando...
+STARTUP:Import Mode:import_category
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+WARNING:No text Attributes created for category 55
+WARNING:No text Attributes created for category 58
+WARNING:No text Attributes created for category 59
+WARNING:No text Attributes created for category 60
+WARNING:No text Attributes created for category 61
+WARNING:No text Attributes created for category 62
+WARNING:No text Attributes created for category 63
+WARNING:No text Attributes created for category 64
+WARNING:No text Attributes created for category 65
+WARNING:No text Attributes created for category 66
+WARNING:No text Attributes created for category 67
+WARNING:No text Attributes created for category 68
+WARNING:No text Attributes created for category 69
+WARNING:No text Attributes created for category 70
+WARNING:No text Attributes created for category 71
+WARNING:No text Attributes created for category 72
+WARNING:No text Attributes created for category 73
+WARNING:No text Attributes created for category 74
+WARNING:No text Attributes created for category 85
+WARNING:No text Attributes created for category 86
+WARNING:No text Attributes created for category 87
+WARNING:No text Attributes created for category 88
+WARNING:No text Attributes created for category 89
+WARNING:No text Attributes created for category 90
+WARNING:No text Attributes created for category 91
+WARNING:No text Attributes created for category 92
+WARNING:No text Attributes created for category 93
+WARNING:No text Attributes created for category 94
+WARNING:No text Attributes created for category 95
+WARNING:No text Attributes created for category 96
+WARNING:No text Attributes created for category 97
+WARNING:No text Attributes created for category 98
+WARNING:No text Attributes created for category 99
+WARNING:No text Attributes created for category 100
+WARNING:No text Attributes created for category 101
+WARNING:No text Attributes created for category 102
+WARNING:No text Attributes created for category 103
+ITIME:100 - 5.590204000473 - 5.590204000473
+DBTIME:660 - 0.18004012107849 - 0.18004012107849 - 660
+WARNING:No text Attributes created for category 104
+WARNING:No text Attributes created for category 105
+WARNING:No text Attributes created for category 106
+WARNING:No text Attributes created for category 107
+WARNING:No text Attributes created for category 108
+WARNING:No text Attributes created for category 109
+WARNING:No text Attributes created for category 110
+WARNING:No text Attributes created for category 111
+WARNING:No text Attributes created for category 112
+WARNING:No text Attributes created for category 113
+WARNING:No text Attributes created for category 114
+WARNING:No text Attributes created for category 120
+WARNING:No text Attributes created for category 121
+WARNING:No text Attributes created for category 122
+WARNING:No text Attributes created for category 141
+WARNING:No text Attributes created for category 143
+WARNING:No text Attributes created for category 144
+WARNING:No text Attributes created for category 145
+WARNING:No text Attributes created for category 146
+WARNING:No text Attributes created for category 147
+WARNING:No text Attributes created for category 148
+WARNING:No text Attributes created for category 149
+WARNING:No text Attributes created for category 150
+WARNING:No text Attributes created for category 151
+WARNING:No text Attributes created for category 152
+WARNING:No text Attributes created for category 154
+WARNING:No text Attributes created for category 155
+WARNING:No text Attributes created for category 156
+WARNING:No text Attributes created for category 157
+WARNING:No text Attributes created for category 168
+WARNING:No text Attributes created for category 184
+WARNING:No text Attributes created for category 197
+ITIME:200 - 11.73391699791 - 6.14359998703
+DBTIME:1328 - 0.64175486564636 - 0.46171474456787 - 1328
+WARNING:No text Attributes created for category 211
+WARNING:No text Attributes created for category 212
+WARNING:No text Attributes created for category 213
+WARNING:No text Attributes created for category 216
+WARNING:No text Attributes created for category 218
+WARNING:No text Attributes created for category 220
+WARNING:No text Attributes created for category 244
+WARNING:No text Attributes created for category 260
+WARNING:No text Attributes created for category 280
+WARNING:No text Attributes created for category 303
+ITIME:300 - 17.199913024902 - 5.4659178256989
+DBTIME:2018 - 0.82751655578613 - 0.18576169013977 - 2018
+WARNING:No text Attributes created for category 348
+WARNING:No text Attributes created for category 349
+WARNING:No text Attributes created for category 350
+WARNING:No text Attributes created for category 351
+WARNING:No text Attributes created for category 352
+WARNING:No text Attributes created for category 353
+ITIME:400 - 23.459474086761 - 6.2594759464264
+DBTIME:2712 - 1.2151706218719 - 0.38765406608582 - 2712
+WARNING:No text Attributes created for category 469
+WARNING:No text Attributes created for category 471
+WARNING:No text Attributes created for category 491
+WARNING:No text Attributes created for category 510
+ITIME:500 - 28.63378405571 - 5.1741058826447
+DBTIME:3408 - 1.4053049087524 - 0.19013428688049 - 3408
+WARNING:No text Attributes created for category 517
+WARNING:No text Attributes created for category 610
+ITIME:600 - 34.875804185867 - 6.2418880462646
+DBTIME:4106 - 1.6837935447693 - 0.27848863601685 - 4106
+WARNING:No text Attributes created for category 645
+WARNING:No text Attributes created for category 646
+WARNING:No text Attributes created for category 648
+WARNING:No text Attributes created for category 649
+WARNING:No text Attributes created for category 650
+WARNING:No text Attributes created for category 651
+WARNING:No text Attributes created for category 652
+WARNING:No text Attributes created for category 653
+WARNING:No text Attributes created for category 654
+WARNING:No text Attributes created for category 672
+WARNING:No text Attributes created for category 673
+ITIME:662 - 39.094921112061 - 4.2189819812775
+DBTIME:4536 - 1.791365146637 - 0.10757160186768 - 4536
+SUCCESS:Categories imported OK:662/662
+WARNING:Strategy path (Lexical_Path) is not implemented for the lexical analizer <br>Strategy meta_title (Lexical_MetaTitle) is not implemented for the lexical analizer <br>Strategy meta_description (Lexical_MetaDescription) is not implemented for the lexical analizer <br>Strategy meta_keywords (Lexical_MetaKeywords) is not implemented for the lexical analizer <br>

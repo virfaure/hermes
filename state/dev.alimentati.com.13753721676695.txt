@@ -1,0 +1,2 @@
+DEBUG:Running lexical analyzer: update  on file: /var/www/alimentati/hermes/upload/test_hermes.csv
+ERROR:The following columns are missing on the CSV: "brand" or "marca".<br>

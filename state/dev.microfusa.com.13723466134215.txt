@@ -1,0 +1,1209 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/microfusa/hermes/upload/Products_PROD_OK.csv
+DEBUG:Running semantic analyzer import
+SUCCESS:The lexical analysis has successfully passed all validations for the import profile.<br>Time taken: 1.8106980323792 seconds<br>The semantic analysis has successfully passed all validations for the import profile.<br>Time taken: 0.22836303710938 seconds<br>
+DEBUG:Importing...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Import Report Mail Notifier-1.0.0-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Import_report_mail_notifier 
+PLUGINHELLO:Magmi Optimizer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Optimizer 
+PLUGINHELLO:Magmi Magento Reindexer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Magento_Reindexer 
+PLUGINHELLO:On the fly category creator/importer-0.1.7-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_category_creator/importer 
+PLUGINHELLO:Image attributes processor-1.0.22-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Image_attributes_processor 
+STD:Image attributes processor v1.0.22 - IMG SOURCE FOLDER:../ftp/media
+PLUGINHELLO:On the fly indexer-0.1.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_indexer 
+PLUGINHELLO:Generic mapper-0.0.6a-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Generic_mapper 
+PLUGINHELLO:Configurable Item processor-1.3.6-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Configurable_Item_processor 
+PLUGINHELLO:Cross/Upsell Importer-1.0.3-Dweeves-https://sourceforge.net/apps/mediawiki/magmi/index.php?title=Cross/Upsell_Importer 
+PLUGINHELLO:Product relater-1.0.3-Dweeves,jwtechniek-https://sourceforge.net/apps/mediawiki/magmi/index.php?title=Product_relater 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: soncod410</b>, image 'noimage.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 8847
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku CM9371
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 8408
+WARNING:Product relater v1.0.3 - Unknown related sku 8408
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11019
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10133
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku PR/00649
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 9411
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 4454
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 5467
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:100 - 7.6895940303802 - 7.6895940303802
+DBTIME:3069 - 1.3799700737 - 1.3799700737 - 3069
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10912
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 0772
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 0772
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:200 - 15.758821964264 - 8.0690948963165
+DBTIME:6003 - 2.6208815574646 - 1.2409114837646 - 6003
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11087
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:300 - 23.537955999374 - 7.7790479660034
+DBTIME:8909 - 3.925922870636 - 1.3050413131714 - 8909
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Product relater v1.0.3 - Unknown related sku 11630gr
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11629
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10133
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 8278
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11483
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11483
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:400 - 30.185398101807 - 6.6473941802979
+DBTIME:11813 - 5.0553901195526 - 1.1294672489166 - 11813
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Product relater v1.0.3 - Unknown related sku 9900-65326-00
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10133
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10890
+WARNING:Product relater v1.0.3 - Unknown related sku 10133
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10133
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10890
+WARNING:Product relater v1.0.3 - Unknown related sku 10133
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10895
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:500 - 37.965851068497 - 7.7802741527557
+DBTIME:14701 - 6.3322448730469 - 1.2768547534943 - 14701
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:600 - 45.945202112198 - 7.97926902771
+DBTIME:17653 - 7.787650346756 - 1.4554054737091 - 17653
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 8408
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11595
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11595
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 4793
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:700 - 52.789060115814 - 6.84375
+DBTIME:20578 - 9.0821397304535 - 1.2944893836975 - 20578
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 996358051
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:800 - 60.18211889267 - 7.3928728103638
+DBTIME:23518 - 10.443642377853 - 1.3615026473999 - 23518
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10957
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10956
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11514
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11544
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 0247
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:900 - 67.643182992935 - 7.4609708786011
+DBTIME:26366 - 11.772752761841 - 1.3291103839874 - 26366
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Product relater v1.0.3 - Unknown related sku 11342
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11971
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 0442
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:1000 - 74.670248985291 - 7.0269870758057
+DBTIME:29272 - 13.023195981979 - 1.2504432201385 - 29272
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11973
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10133
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku nocode
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:1100 - 82.295840978622 - 7.6254959106445
+DBTIME:32076 - 14.35663318634 - 1.333437204361 - 32076
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:1200 - 91.549994945526 - 9.254077911377
+DBTIME:34908 - 15.905243396759 - 1.5486102104187 - 34908
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:1300 - 98.40246796608 - 6.8523659706116
+DBTIME:37760 - 17.126342773438 - 1.2210993766785 - 37760
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:1400 - 106.11217093468 - 7.7090108394623
+DBTIME:40574 - 18.493444442749 - 1.3671016693115 - 40574
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Product relater v1.0.3 - Unknown related sku 11848
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:1500 - 113.47011494637 - 7.3578479290009
+DBTIME:43469 - 19.855159282684 - 1.3617148399353 - 43469
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:1600 - 120.72881603241 - 7.2585690021515
+DBTIME:46275 - 21.294199705124 - 1.4390404224396 - 46275
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Product relater v1.0.3 - Unknown related sku 0630
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 331KG251C
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11350
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 5548
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 14036
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 207KG010
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 0771
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 15949
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 15949
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 7839
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 7780
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:1700 - 128.39130496979 - 7.6624119281769
+DBTIME:49176 - 22.68389415741 - 1.3896944522858 - 49176
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:1800 - 137.29501008987 - 8.9036290645599
+DBTIME:52003 - 24.067388772964 - 1.3834946155548 - 52003
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 010600
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 7779
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 1473
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 221118
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11213
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:1900 - 145.63904809952 - 8.3439581394196
+DBTIME:54894 - 25.576247692108 - 1.5088589191437 - 54894
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Product relater v1.0.3 - Unknown related sku MA4090482
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Product relater v1.0.3 - Unknown related sku Y9020AG
+WARNING:Product relater v1.0.3 - Unknown related sku Y9020AG
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 4793
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:2000 - 152.87475705147 - 7.2356259822845
+DBTIME:57821 - 26.769436120987 - 1.1931884288788 - 57821
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 4793
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku Y9020AG
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11412
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11412
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11412
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 223397
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11923
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11041
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 7779
+WARNING:Product relater v1.0.3 - Unknown related sku 11041
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11514
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 7779
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 7526
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10777
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:2100 - 160.42958307266 - 7.5547749996185
+DBTIME:60753 - 28.284865856171 - 1.5154297351837 - 60753
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10895
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11110
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 223618
+WARNING:Product relater v1.0.3 - Unknown related sku 223618
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku U9012
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10441
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku N2286521
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku N2290021
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10756
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11645
+WARNING:Product relater v1.0.3 - Unknown related sku 10756
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11440
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11440
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11543
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 9645
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:2200 - 169.625207901 - 9.1955418586731
+DBTIME:63639 - 29.578815460205 - 1.2939496040344 - 63639
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10956
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11425
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10956
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11425
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11511
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11511
+WARNING:Product relater v1.0.3 - Unknown related sku PR/00013
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11511
+WARNING:Product relater v1.0.3 - Unknown related sku DDJ-WECAI/XZIWLA
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 1022063
+WARNING:Product relater v1.0.3 - Unknown related sku DDJ-WECAI/XZIWLA
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Product relater v1.0.3 - Unknown related sku DDJ-WECAI/XZIWLA
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11510
+WARNING:Product relater v1.0.3 - Unknown related sku DDJ-WECAI/XZIWLA
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 0255
+WARNING:Product relater v1.0.3 - Unknown related sku DDJ-WECAI/XZIWLA
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11425
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 0605
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:2300 - 177.52464389801 - 7.899365901947
+DBTIME:66433 - 30.541372060776 - 0.96255660057068 - 66433
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 8407
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 220770
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 8407
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 220770
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 8407
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 220770
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:2400 - 184.98507809639 - 7.4603610038757
+DBTIME:69166 - 31.647156953812 - 1.1057848930359 - 69166
+ITIME:2500 - 192.54555988312 - 7.5604038238525
+DBTIME:71866 - 33.025078058243 - 1.3779211044312 - 71866
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Product relater v1.0.3 - Unknown related sku 10133
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10912
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11154
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 7760
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11155
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 0635
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 5467
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 6827
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10882
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 7779
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:2600 - 199.68393707275 - 7.1382601261139
+DBTIME:74711 - 34.056593894958 - 1.0315158367157 - 74711
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 8133
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:2700 - 207.16648507118 - 7.4818360805511
+DBTIME:77424 - 35.322404623032 - 1.2658107280731 - 77424
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 223397
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 7626
+ITIME:2800 - 215.48000407219 - 8.3134059906006
+DBTIME:80333 - 36.554713726044 - 1.2323091030121 - 80333
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 13231
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 13231
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 0397
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Product relater v1.0.3 - Unknown related sku 0397
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:2900 - 224.49321103096 - 9.0130770206451
+DBTIME:83211 - 37.923345088959 - 1.368631362915 - 83211
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 8407
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 7419
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 4385
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku U8075
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku U8075
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku U8075
+ITIME:3000 - 234.02861905098 - 9.5353100299835
+DBTIME:86157 - 38.985833644867 - 1.0624885559082 - 86157
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 9024
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 4385
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 6549
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Product relater v1.0.3 - Unknown related sku 11865
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 12105
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:3100 - 242.19875192642 - 8.1699869632721
+DBTIME:89101 - 40.559391498566 - 1.5735578536987 - 89101
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 11270
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku PR/00459
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 0435
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10748
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 0431
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:3200 - 249.75312995911 - 7.5542469024658
+DBTIME:92025 - 41.944177389145 - 1.3847858905792 - 92025
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku U8010BL
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 7437
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Product relater v1.0.3 - Unknown related sku 11203
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:3300 - 257.16093397141 - 7.4076709747314
+DBTIME:94881 - 43.125861167908 - 1.1816837787628 - 94881
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:3400 - 264.50402998924 - 7.3430190086365
+DBTIME:97724 - 44.097974061966 - 0.97211289405823 - 97724
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Cross/Upsell Importer v1.0.3 - Unknown related sku 10552
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:3500 - 273.37364196777 - 8.869518995285
+DBTIME:100462 - 45.326756954193 - 1.2287828922272 - 100462
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:3600 - 281.14235091209 - 7.768611907959
+DBTIME:103311 - 46.623776912689 - 1.2970199584961 - 103311
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:3621 - 282.57964491844 - 1.4371838569641
+DBTIME:103947 - 46.83944106102 - 0.21566414833069 - 103947
+SUCCESS:Skus imported OK:3621/3621
+INFO:Import Report Mail Notifier v1.0.0 - Sending report to : tecnico@theetailers.com ([DEV][microfusa] Hermes Import report)
+INFO:Magmi Magento Reindexer v1.0.5 - running indexer
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>Strategy automatic_stock (Lexical_AutomaticStock) is not implemented for the lexical analizer <br>Strategy auto_instock (Lexical_AutoInstock) is not implemented for the lexical analizer <br>Strategy auto_instock_proveidor (Lexical_AutoInstockProveidor) is not implemented for the lexical analizer <br>Strategy auto_outstock (Lexical_AutoOutstock) is not implemented for the lexical analizer <br>Strategy category_featured (Lexical_CategoryFeatured) is not implemented for the lexical analizer <br>Strategy codi_ean (Lexical_CodiEan) is not implemented for the lexical analizer <br>Strategy cod_proveidor (Lexical_CodProveidor) is not implemented for the lexical analizer <br>Strategy com_idwholesaler (Lexical_ComIdwholesaler) is not implemented for the lexical analizer <br>Strategy com_store (Lexical_ComStore) is not implemented for the lexical analizer <br>Strategy cost (Lexical_Cost) is not implemented for the lexical analizer <br>Strategy created_at (Lexical_CreatedAt) is not implemented for the lexical analizer <br>Strategy delivery (Lexical_Delivery) is not implemented for the lexical analizer <br>Strategy delivery_outstock (Lexical_DeliveryOutstock) is not implemented for the lexical analizer <br>Strategy enable_googlecheckout (Lexical_EnableGooglecheckout) is not implemented for the lexical analizer <br>Strategy gallery (Lexical_Gallery) is not implemented for the lexical analizer <br>Strategy home_page_featured (Lexical_HomePageFeatured) is not implemented for the lexical analizer <br>Strategy manufacturer (Lexical_Manufacturer) is not implemented for the lexical analizer <br>Strategy meta_description (Lexical_MetaDescription) is not implemented for the lexical analizer <br>Strategy meta_keyword (Lexical_MetaKeyword) is not implemented for the lexical analizer <br>Strategy meta_robots (Lexical_MetaRobots) is not implemented for the lexical analizer <br>Strategy meta_title (Lexical_MetaTitle) is not implemented for the lexical analizer <br>Strategy msrp_enabled (Lexical_MsrpEnabled) is not implemented for the lexical analizer <br>Strategy nombre_sage (Lexical_NombreSage) is not implemented for the lexical analizer <br>Strategy stock (Lexical_Stock) is not implemented for the lexical analizer <br>Strategy stock_proveidor (Lexical_StockProveidor) is not implemented for the lexical analizer <br>Strategy tiendas_externas (Lexical_TiendasExternas) is not implemented for the lexical analizer <br>Strategy url_key (Lexical_UrlKey) is not implemented for the lexical analizer <br>Strategy url_path (Lexical_UrlPath) is not implemented for the lexical analizer <br>Strategy use_config_min_qty (Lexical_UseConfigMinQty) is not implemented for the lexical analizer <br>Strategy is_qty_decimal (Lexical_IsQtyDecimal) is not implemented for the lexical analizer <br>Strategy backorders (Lexical_Backorders) is not implemented for the lexical analizer <br>Strategy use_config_backorders (Lexical_UseConfigBackorders) is not implemented for the lexical analizer <br>Strategy min_sale_qty (Lexical_MinSaleQty) is not implemented for the lexical analizer <br>Strategy use_config_min_sale_qty (Lexical_UseConfigMinSaleQty) is not implemented for the lexical analizer <br>Strategy is_in_stock (Lexical_IsInStock) is not implemented for the lexical analizer <br>Strategy use_config_notify_stock_qty (Lexical_UseConfigNotifyStockQty) is not implemented for the lexical analizer <br>Strategy manage_stock (Lexical_ManageStock) is not implemented for the lexical analizer <br>Strategy use_config_manage_stock (Lexical_UseConfigManageStock) is not implemented for the lexical analizer <br>Strategy use_config_enable_qty_inc (Lexical_UseConfigEnableQtyInc) is not implemented for the lexical analizer <br>Strategy re_skus (Lexical_ReSkus) is not implemented for the lexical analizer <br>Strategy cs_skus (Lexical_CsSkus) is not implemented for the lexical analizer <br>Strategy us_skus (Lexical_UsSkus) is not implemented for the lexical analizer <br>

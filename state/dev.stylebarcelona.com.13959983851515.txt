@@ -1,0 +1,66 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/stylebarcelona/hermes/upload/TORRAS_PV_14_CASTI.csv
+DEBUG:Running lexical analyzer: update  on file: /var/www/stylebarcelona/hermes/upload/TORRAS_PV_14_CASTU.csv
+DEBUG:Running semantic analyzer import
+DEBUG:Running semantic analyzer update
+SUCCESS:The lexical analysis has successfully passed all validations for the import profile.<br>Time taken: 0.067625999450684 seconds<br>The semantic analysis has successfully passed all validations for the import profile.<br>Time taken: 6.4379730224609 seconds<br>The lexical analysis has successfully passed all validations for the update profile.<br>Time taken: 0.18899607658386 seconds<br>The semantic analysis has successfully passed all validations for the update profile.<br>Time taken: 18.854001998901 seconds<br>
+DEBUG:Importing...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Import Report Mail Notifier-1.0.0-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Import_report_mail_notifier 
+PLUGINHELLO:Magmi Optimizer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Optimizer 
+PLUGINHELLO:Magmi Magento Reindexer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Magento_Reindexer 
+PLUGINHELLO:On the fly category creator/importer-0.2.4-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_category_creator/importer 
+PLUGINHELLO:Image attributes processor-1.0.22-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Image_attributes_processor 
+STD:Image attributes processor v1.0.22 - IMG SOURCE FOLDER:../ftp/media
+PLUGINHELLO:On the fly indexer-0.1.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_indexer 
+PLUGINHELLO:Custom Options-0.0.7-Pablo & Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Custom_Options 
+PLUGINHELLO:Generic mapper-0.0.6a-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Generic_mapper 
+PLUGINHELLO:Configurable Item processor-1.3.6-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Configurable_Item_processor 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:100 - 30.515248060226 - 30.515248060226
+DBTIME:4777 - 5.1424338817596 - 5.1424338817596 - 4777
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:184 - 52.896182060242 - 22.380753993988
+DBTIME:8998 - 8.2004272937775 - 3.0579934120178 - 8998
+SUCCESS:Skus imported OK:184/184
+INFO:Import Report Mail Notifier v1.0.0 - Sending report to : tecnico@theetailers.com ([DEV][stylebarcelona] Hermes Import report)
+INFO:Magmi Magento Reindexer v1.0.5 - running indexer
+INFO:On the fly category creator/importer v0.2.4 - Updating Category children count....
+DEBUG:Importing...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Import Report Mail Notifier-1.0.0-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Import_report_mail_notifier 
+PLUGINHELLO:Magmi Optimizer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Optimizer 
+PLUGINHELLO:Magmi Magento Reindexer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Magento_Reindexer 
+PLUGINHELLO:On the fly category creator/importer-0.2.4-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_category_creator/importer 
+PLUGINHELLO:Image attributes processor-1.0.22-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Image_attributes_processor 
+STD:Image attributes processor v1.0.22 - IMG SOURCE FOLDER:../ftp/media
+PLUGINHELLO:On the fly indexer-0.1.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_indexer 
+PLUGINHELLO:Custom Options-0.0.7-Pablo & Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Custom_Options 
+PLUGINHELLO:Generic mapper-0.0.6a-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Generic_mapper 
+PLUGINHELLO:Configurable Item processor-1.3.6-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Configurable_Item_processor 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:100 - 29.287415027618 - 29.287415027618
+DBTIME:4581 - 4.1755247116089 - 4.1755247116089 - 4581
+ITIME:200 - 58.194795131683 - 28.907269001007
+DBTIME:9102 - 6.8927128314972 - 2.7171881198883 - 9102
+ITIME:300 - 95.412137985229 - 37.217215061188
+DBTIME:13815 - 9.1209609508514 - 2.2282481193542 - 13815
+ITIME:400 - 117.4749379158 - 22.062713861465
+DBTIME:18382 - 11.933421611786 - 2.8124606609344 - 18382
+ITIME:500 - 146.12536001205 - 28.650289058685
+DBTIME:23021 - 14.35569858551 - 2.4222769737244 - 23021
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:537 - 152.89781713486 - 6.7723240852356
+DBTIME:24982 - 17.80291724205 - 3.4472186565399 - 24982
+SUCCESS:Skus imported OK:537/537
+INFO:Import Report Mail Notifier v1.0.0 - Sending report to : tecnico@theetailers.com ([DEV][stylebarcelona] Hermes Update report)
+INFO:Magmi Magento Reindexer v1.0.5 - running indexer
+INFO:On the fly category creator/importer v0.2.4 - Updating Category children count....
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>Strategy sku (Lexical_SkuUpdate) is not implemented for the lexical analizer <br>

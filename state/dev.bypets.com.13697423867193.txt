@@ -1,0 +1,50 @@
+DEBUG:Running lexical analyzer: update  on file: /var/www/bypets/hermes/upload/export_product_magmi.csv
+DEBUG:Running semantic analyzer update
+SUCCESS:The lexical analysis has successfully passed all validations for the update profile.<br>Time taken: 0.022831201553345 seconds<br>The semantic analysis has successfully passed all validations for the update profile.<br>Time taken: 0.020523071289062 seconds<br>
+DEBUG:Importing...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Import Report Mail Notifier-1.0.0-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Import_report_mail_notifier 
+PLUGINHELLO:Magmi Optimizer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Optimizer 
+PLUGINHELLO:Automatic Product Processor-0.0.1-Javier- 
+PLUGINHELLO:On the fly category creator/importer-0.1.7-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_category_creator/importer 
+PLUGINHELLO:Image attributes processor-1.0.22-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Image_attributes_processor 
+STD:Image attributes processor v1.0.22 - IMG SOURCE FOLDER:../ftp/media
+PLUGINHELLO:On the fly indexer-0.1.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_indexer 
+PLUGINHELLO:Generic mapper-0.0.6a-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Generic_mapper 
+PLUGINHELLO:Configurable Item processor-1.3.6-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Configurable_Item_processor 
+PLUGINHELLO:Cross/Upsell Importer-1.0.3-Dweeves-https://sourceforge.net/apps/mediawiki/magmi/index.php?title=Cross/Upsell_Importer 
+PLUGINHELLO:Product relater-1.0.3-Dweeves,jwtechniek-https://sourceforge.net/apps/mediawiki/magmi/index.php?title=Product_relater 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:100 - 12.060545921326 - 12.060545921326
+DBTIME:1480 - 4.5384800434113 - 4.5384800434113 - 1480
+ITIME:200 - 23.964317083359 - 11.903649091721
+DBTIME:2980 - 9.4421112537384 - 4.9036312103271 - 2980
+ITIME:300 - 33.245532035828 - 9.2811250686646
+DBTIME:4480 - 12.000751018524 - 2.5586397647858 - 4480
+ITIME:400 - 43.138334989548 - 9.8927030563354
+DBTIME:5980 - 15.836468219757 - 3.8357172012329 - 5980
+ITIME:500 - 52.56477189064 - 9.426353931427
+DBTIME:7465 - 19.435139417648 - 3.5986711978912 - 7465
+ITIME:600 - 61.474817037582 - 8.9099659919739
+DBTIME:8965 - 21.783114910126 - 2.3479754924774 - 8965
+ITIME:700 - 69.325809001923 - 7.8508610725403
+DBTIME:10460 - 23.63512301445 - 1.8520081043243 - 10460
+ITIME:800 - 78.099128961563 - 8.7731950283051
+DBTIME:11960 - 26.436241865158 - 2.801118850708 - 11960
+ITIME:900 - 85.258249044418 - 7.1590421199799
+DBTIME:13460 - 28.05602812767 - 1.6197862625122 - 13460
+ITIME:1000 - 92.099480867386 - 6.8411560058594
+DBTIME:14960 - 29.317912340164 - 1.2618842124939 - 14960
+ITIME:1100 - 100.70835804939 - 8.6088001728058
+DBTIME:16460 - 31.686480522156 - 2.3685681819916 - 16460
+ITIME:1179 - 107.3732419014 - 6.6647539138794
+DBTIME:17640 - 33.541090726852 - 1.8546102046967 - 17640
+SUCCESS:Skus imported OK:1179/1179
+INFO:Import Report Mail Notifier v1.0.0 - Sending report to : tecnico@theetailers.com ([DEV][bypets] Hermes Update report)
+INFO:Automatic Product Processor v0.0.1 - Automatic Product Processor
+DEBUG:Strategy sku (Lexical_SkuUpdate) is not implemented for the lexical analizer <br>Strategy show_in_uvinum (Lexical_ShowInUvinum) is not implemented for the lexical analizer <br>

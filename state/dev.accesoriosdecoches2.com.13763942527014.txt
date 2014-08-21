@@ -1,0 +1,134 @@
+DEBUG:Running lexical analyzer: super  on file: /var/www/accesoriosdecoches2/hermes/upload/3 - Import_Product_Enabled.csv
+DEBUG:Running semantic analyzer super
+SUCCESS:The lexical analysis has successfully passed all validations for the super profile.<br>Time taken: 0.84111094474792 seconds<br>The semantic analysis has successfully passed all validations for the super profile.<br>Time taken: 0.25581097602844 seconds<br>
+DEBUG:Importing...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Import Report Mail Notifier-1.0.0-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Import_report_mail_notifier 
+PLUGINHELLO:Magmi Optimizer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Optimizer 
+PLUGINHELLO:On the fly category creator/importer-0.1.7-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_category_creator/importer 
+PLUGINHELLO:Image attributes processor-1.0.22-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Image_attributes_processor 
+STD:Image attributes processor v1.0.22 - IMG SOURCE FOLDER:../ftp/media
+PLUGINHELLO:On the fly indexer-0.1.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_indexer 
+PLUGINHELLO:Generic mapper-0.0.6a-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Generic_mapper 
+PLUGINHELLO:Configurable Item processor-1.3.6-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Configurable_Item_processor 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:100 - 3.0809998512268 - 3.0809998512268
+DBTIME:2552 - 1.7639272212982 - 1.7639272212982 - 2552
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:200 - 5.198882818222 - 2.1178247928619
+DBTIME:5152 - 3.224634885788 - 1.4607076644897 - 5152
+ITIME:300 - 7.2630558013916 - 2.0641078948975
+DBTIME:7752 - 4.6988770961761 - 1.4742422103882 - 7752
+ITIME:400 - 9.3546028137207 - 2.0914359092712
+DBTIME:10345 - 6.1939971446991 - 1.4951200485229 - 10345
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:500 - 11.76868891716 - 2.4140129089355
+DBTIME:12920 - 7.6771020889282 - 1.4831049442291 - 12920
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:600 - 13.781968832016 - 2.0132029056549
+DBTIME:15454 - 9.0050477981567 - 1.3279457092285 - 15454
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:700 - 16.751442909241 - 2.9693629741669
+DBTIME:17968 - 11.07794380188 - 2.0728960037231 - 17968
+ITIME:800 - 18.690429925919 - 1.9389259815216
+DBTIME:20468 - 12.392495632172 - 1.3145518302917 - 20468
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:900 - 20.191788911819 - 1.5012509822845
+DBTIME:23065 - 13.362770795822 - 0.97027516365051 - 23065
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:1000 - 21.633983850479 - 1.4421298503876
+DBTIME:25665 - 14.295305013657 - 0.93253421783447 - 25665
+ITIME:1100 - 23.01744890213 - 1.3834040164948
+DBTIME:28265 - 15.197200298309 - 0.90189528465271 - 28265
+ITIME:1200 - 24.435038805008 - 1.4174818992615
+DBTIME:30865 - 16.128035068512 - 0.93083477020264 - 30865
+ITIME:1300 - 25.867944002151 - 1.4327800273895
+DBTIME:33465 - 17.061755657196 - 0.93372058868408 - 33465
+ITIME:1400 - 27.521008014679 - 1.6529550552368
+DBTIME:36065 - 18.150835514069 - 1.0890798568726 - 36065
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:1500 - 29.020072937012 - 1.4989850521088
+DBTIME:38664 - 19.105587244034 - 0.95475172996521 - 38664
+ITIME:1600 - 30.295532941818 - 1.2754039764404
+DBTIME:41188 - 19.87535238266 - 0.7697651386261 - 41188
+ITIME:1700 - 31.684962034225 - 1.3893201351166
+DBTIME:43688 - 20.735818386078 - 0.86046600341797 - 43688
+ITIME:1800 - 33.008757829666 - 1.3236479759216
+DBTIME:46188 - 21.518864631653 - 0.78304624557495 - 46188
+ITIME:1900 - 34.423827886581 - 1.4149608612061
+DBTIME:48688 - 22.406351566315 - 0.88748693466187 - 48688
+ITIME:2000 - 35.661113977432 - 1.2371690273285
+DBTIME:51188 - 23.130637645721 - 0.72428607940674 - 51188
+ITIME:2100 - 36.887101888657 - 1.2259230613708
+DBTIME:53688 - 23.843988656998 - 0.71335101127625 - 53688
+ITIME:2200 - 38.10931801796 - 1.2220990657806
+DBTIME:56188 - 24.571469068527 - 0.72748041152954 - 56188
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:2300 - 39.743871927261 - 1.634495973587
+DBTIME:58783 - 25.637112379074 - 1.0656433105469 - 58783
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:2354 - 45.107455968857 - 5.3634760379791
+DBTIME:60747 - 29.126213312149 - 3.489100933075 - 60747
+SUCCESS:Skus imported OK:2354/2354
+INFO:Import Report Mail Notifier v1.0.0 - Sending report to : tecnico@theetailers.com ([DEV][accesoriosdecoches2] Hermes Super report)
+DEBUG:Strategy entity_id (Lexical_EntityId) is not implemented for the lexical analizer <br>Strategy sku (Lexical_SkuSuper) is not implemented for the lexical analizer <br>Strategy name (Lexical_NameSuper) is not implemented for the lexical analizer <br>Strategy attribute_set (Lexical_AttributeSetSuper) is not implemented for the lexical analizer <br>Strategy price (Lexical_PriceSuper) is not implemented for the lexical analizer <br>Strategy qty (Lexical_QtySuper) is not implemented for the lexical analizer <br>Strategy is_in_stock (Lexical_IsInStock) is not implemented for the lexical analizer <br>Strategy barras (Lexical_Barras) is not implemented for the lexical analizer <br>Strategy code_erp (Lexical_CodeErp) is not implemented for the lexical analizer <br>Strategy comision (Lexical_Comision) is not implemented for the lexical analizer <br>Strategy cost (Lexical_Cost) is not implemented for the lexical analizer <br>Strategy diametro (Lexical_Diametro) is not implemented for the lexical analizer <br>Strategy distribuidor (Lexical_Distribuidor) is not implemented for the lexical analizer <br>Strategy fundas_cubrecoches (Lexical_FundasCubrecoches) is not implemented for the lexical analizer <br>Strategy fundas_cubrecoches_premium (Lexical_FundasCubrecochesPremium) is not implemented for the lexical analizer <br>Strategy fundatextil (Lexical_Fundatextil) is not implemented for the lexical analizer <br>Strategy internal_name (Lexical_InternalName) is not implemented for the lexical analizer <br>Strategy longitud (Lexical_Longitud) is not implemented for the lexical analizer <br>Strategy manufacturer (Lexical_Manufacturer) is not implemented for the lexical analizer <br>Strategy medida_cadena_nieve (Lexical_MedidaCadenaNieve) is not implemented for the lexical analizer <br>Strategy parasoles (Lexical_Parasoles) is not implemented for the lexical analizer <br>Strategy product_ean (Lexical_ProductEan) is not implemented for the lexical analizer <br>Strategy product_static_block (Lexical_ProductStaticBlock) is not implemented for the lexical analizer <br>Strategy share (Lexical_Share) is not implemented for the lexical analizer <br>Strategy talla_casco (Lexical_TallaCasco) is not implemented for the lexical analizer <br>Strategy transporte_gratuito (Lexical_TransporteGratuito) is not implemented for the lexical analizer <br>Strategy universal (Lexical_Universal) is not implemented for the lexical analizer <br>Strategy volumen (Lexical_Volumen) is not implemented for the lexical analizer <br>Strategy sku (Semantic_SkuSuper) is not implemented for the semantic analizer <br>Strategy attribute_set (Semantic_AttributeSetSuper) is not implemented for the semantic analizer <br>Strategy price (Semantic_PriceSuper) is not implemented for the semantic analizer <br>Strategy tax_class_id (Semantic_TaxClassIdSuper) is not implemented for the semantic analizer <br>Strategy configurable_attributes (Semantic_ConfigurableAttributesSuper) is not implemented for the semantic analizer <br>

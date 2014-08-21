@@ -1,0 +1,3 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/clickonfashion/hermes/upload/20130513_TORRAS.CSV
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>
+ERROR:Error found at item Unknown_>":<br>Column: visibility, allowed values: (Not Visible Individually | Catalogo | Catálogo | Busqueda | Búsqueda | Catalogo, Busqueda | Catálogo, Búsqueda | Catálogo Y Búsqueda), or numeric value between 1 and 4, but "560" provided.<br>Column: type, allowed values: (simple|configurable), but "0.600000" provided.<br>Column: status, allowed values: (Habilitado|Deshabilitado), numeric value between 1 and 2, but "Talla.color" provided.<br>Column: weight, numeric value between 0.001 and 9999, but "Marr&oacute;n" provided.<br>

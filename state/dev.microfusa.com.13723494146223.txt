@@ -1,0 +1,111 @@
+DEBUG:Running lexical analyzer: update  on file: /var/www/microfusa/hermes/upload/Products_PROD_Image.csv
+DEBUG:Running semantic analyzer update
+SUCCESS:The lexical analysis has successfully passed all validations for the update profile.<br>Time taken: 0.18880200386047 seconds<br>The semantic analysis has successfully passed all validations for the update profile.<br>Time taken: 15.31342291832 seconds<br>
+DEBUG:Importing...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Import Report Mail Notifier-1.0.0-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Import_report_mail_notifier 
+PLUGINHELLO:Magmi Optimizer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Optimizer 
+PLUGINHELLO:Automatic Product Processor-0.0.1-Javier- 
+PLUGINHELLO:On the fly category creator/importer-0.1.7-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_category_creator/importer 
+PLUGINHELLO:Image attributes processor-1.0.22-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Image_attributes_processor 
+STD:Image attributes processor v1.0.22 - IMG SOURCE FOLDER:../ftp/media
+PLUGINHELLO:On the fly indexer-0.1.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_indexer 
+PLUGINHELLO:Generic mapper-0.0.6a-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Generic_mapper 
+PLUGINHELLO:Configurable Item processor-1.3.6-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Configurable_Item_processor 
+PLUGINHELLO:Cross/Upsell Importer-1.0.3-Dweeves-https://sourceforge.net/apps/mediawiki/magmi/index.php?title=Cross/Upsell_Importer 
+PLUGINHELLO:Product relater-1.0.3-Dweeves,jwtechniek-https://sourceforge.net/apps/mediawiki/magmi/index.php?title=Product_relater 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:100 - 10.211442947388 - 10.211442947388
+DBTIME:3060 - 1.1158497333527 - 1.1158497333527 - 3060
+ITIME:200 - 18.455982923508 - 8.244372844696
+DBTIME:6106 - 2.5325021743774 - 1.4166524410248 - 6106
+ITIME:300 - 31.706617116928 - 13.250529050827
+DBTIME:9252 - 3.918045759201 - 1.3855435848236 - 9252
+ITIME:400 - 41.927276134491 - 10.220578193665
+DBTIME:12289 - 5.2124848365784 - 1.2944390773773 - 12289
+ITIME:500 - 56.281518936157 - 14.354110956192
+DBTIME:15497 - 6.7123103141785 - 1.4998254776001 - 15497
+ITIME:600 - 72.058216094971 - 15.776607036591
+DBTIME:18843 - 7.9161810874939 - 1.2038707733154 - 18843
+ITIME:700 - 102.47988605499 - 30.421538114548
+DBTIME:22263 - 9.4581463336945 - 1.5419652462006 - 22263
+ITIME:800 - 118.45410108566 - 15.974107980728
+DBTIME:25576 - 10.750686883926 - 1.2925405502319 - 25576
+ITIME:900 - 149.02055215836 - 30.566325187683
+DBTIME:29223 - 12.093672275543 - 1.3429853916168 - 29223
+ITIME:1000 - 183.1308619976 - 34.110175848007
+DBTIME:33941 - 13.774383544922 - 1.6807112693787 - 33941
+ITIME:1100 - 194.39690804482 - 11.265960931778
+DBTIME:38941 - 15.717558145523 - 1.9431746006012 - 38941
+ITIME:1200 - 205.38175106049 - 10.984762907028
+DBTIME:43705 - 17.729653120041 - 2.0120949745178 - 43705
+ITIME:1300 - 215.01774811745 - 9.6358239650726
+DBTIME:47805 - 19.267149448395 - 1.5374963283539 - 47805
+ITIME:1400 - 224.66551303864 - 9.647686958313
+DBTIME:51905 - 20.882753610611 - 1.6156041622162 - 51905
+ITIME:1500 - 234.0031850338 - 9.3375298976898
+DBTIME:56010 - 22.53001832962 - 1.6472647190094 - 56010
+ITIME:1600 - 244.29099297523 - 10.28767490387
+DBTIME:60110 - 24.132566452026 - 1.602548122406 - 60110
+ITIME:1700 - 256.08123707771 - 11.790107965469
+DBTIME:64210 - 25.699933767319 - 1.5673673152924 - 64210
+ITIME:1800 - 265.52114796638 - 9.4397158622742
+DBTIME:68310 - 27.475129365921 - 1.7751955986023 - 68310
+ITIME:1900 - 276.67228293419 - 11.15099978447
+DBTIME:72410 - 29.186879873276 - 1.7117505073547 - 72410
+ITIME:2000 - 285.86269402504 - 9.1902799606323
+DBTIME:76510 - 30.696751117706 - 1.5098712444305 - 76510
+ITIME:2100 - 295.68261194229 - 9.8197219371796
+DBTIME:80610 - 32.291197061539 - 1.5944459438324 - 80610
+ITIME:2200 - 305.43848013878 - 9.7557771205902
+DBTIME:84710 - 33.99195098877 - 1.7007539272308 - 84710
+ITIME:2300 - 315.6901049614 - 10.251543998718
+DBTIME:88810 - 35.467908143997 - 1.4759571552277 - 88810
+ITIME:2400 - 328.02388811111 - 12.333702087402
+DBTIME:92344 - 36.742656946182 - 1.2747488021851 - 92344
+ITIME:2500 - 339.27990007401 - 11.25587105751
+DBTIME:95389 - 38.116385936737 - 1.3737289905548 - 95389
+ITIME:2600 - 370.50578904152 - 31.225800991058
+DBTIME:99262 - 39.576560497284 - 1.4601745605469 - 99262
+ITIME:2700 - 411.17273902893 - 40.666862010956
+DBTIME:102985 - 41.019263267517 - 1.4427027702332 - 102985
+ERROR:1:SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction - DELETE FROM core_url_rewrite WHERE product_id=? AND is_system=1
+ERROR:2:SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction - ERROR ON RECORD #2771
+ERROR:3:SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction - ERROR ON RECORD #2772
+ERROR:4:SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction - ERROR ON RECORD #2773
+ERROR:5:SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction - ERROR ON RECORD #2774
+ERROR:6:SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction - ERROR ON RECORD #2775
+ERROR:7:SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction - ERROR ON RECORD #2776
+ITIME:2800 - 732.78811502457 - 321.61526799202
+DBTIME:106448 - 53.511194705963 - 12.491931438446 - 106448
+ITIME:2900 - 795.03959012032 - 62.251351118088
+DBTIME:110297 - 54.80953168869 - 1.2983369827271 - 110297
+ITIME:3000 - 819.38809204102 - 24.34837603569
+DBTIME:113778 - 56.412095308304 - 1.6025636196136 - 113778
+ITIME:3100 - 854.38977408409 - 35.001601934433
+DBTIME:117290 - 58.269505500793 - 1.8574101924896 - 117290
+ERROR:8:SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction - DELETE FROM catalog_category_product_index WHERE product_id=?
+ERROR:9:SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction - ERROR ON RECORD #3195
+ITIME:3200 - 885.88012695312 - 31.490273952484
+DBTIME:120806 - 59.97119641304 - 1.7016909122467 - 120806
+ERROR:10:SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction - DELETE FROM catalog_category_product_index WHERE product_id=?
+ERROR:11:SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction - ERROR ON RECORD #3275
+ITIME:3300 - 917.74745798111 - 31.867197990417
+DBTIME:124473 - 61.877778291702 - 1.9065818786621 - 124473
+ITIME:3400 - 948.46445894241 - 30.716874837875
+DBTIME:127834 - 63.87450838089 - 1.9967300891876 - 127834
+ERROR:12:SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction - DELETE FROM catalog_category_product_index WHERE product_id=?
+ERROR:13:SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction - ERROR ON RECORD #3446
+ITIME:3500 - 963.26912403107 - 14.804589986801
+DBTIME:131023 - 65.499613523483 - 1.6251051425934 - 131023
+ITIME:3562 - 972.46281003952 - 9.1936070919037
+DBTIME:132954 - 66.231912374496 - 0.73229885101318 - 132954
+SUCCESS:Skus imported OK:3553/3562
+WARNING:Skus imported KO:9/3562
+INFO:Import Report Mail Notifier v1.0.0 - Sending report to : tecnico@theetailers.com ([DEV][microfusa] Hermes Update report)
+INFO:Automatic Product Processor v0.0.1 - Automatic Product Processor
+DEBUG:Strategy sku (Lexical_SkuUpdate) is not implemented for the lexical analizer <br>

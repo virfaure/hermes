@@ -1,0 +1,2 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/demo2/hermes/upload/test.csv
+ERROR:The following columns are missing on the CSV: "name", "status", "visibility", "description", "short_description", "price", "tax_class_id", "qty", "type", "attribute_set", "weight" and "categories" or "category_ids".<br>

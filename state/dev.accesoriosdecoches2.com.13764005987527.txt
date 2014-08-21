@@ -1,0 +1,4 @@
+DEBUG:Running lexical analyzer: update  on file: /var/www/accesoriosdecoches2/hermes/upload/Import_Product_Image_Enabled.csv
+DEBUG:Running semantic analyzer update
+DEBUG:Strategy sku (Lexical_SkuUpdate) is not implemented for the lexical analizer <br>Strategy small_image (Lexical_SmallImage) is not implemented for the lexical analizer <br>Strategy thumbnail (Lexical_Thumbnail) is not implemented for the lexical analizer <br>Strategy gallery (Lexical_Gallery) is not implemented for the lexical analizer <br>
+ERROR:Error found at column image<br>Image(s) "http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000108-F01_4.jpg" must exist.

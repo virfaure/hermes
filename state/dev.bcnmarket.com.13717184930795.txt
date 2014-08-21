@@ -1,0 +1,1 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/bcnmarket/hermes/upload/calestevet.csv

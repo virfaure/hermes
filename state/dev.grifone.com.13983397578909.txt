@@ -1,0 +1,4 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/grifone/hermes/upload/test.csv
+DEBUG:Running semantic analyzer import
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>
+ERROR:Error found at column image<br>Image field can't be empty at product(s) TESTTALLA

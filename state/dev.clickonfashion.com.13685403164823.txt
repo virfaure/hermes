@@ -1,0 +1,5 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/clickonfashion/hermes/upload/import_torras_CAS_12_04_13_cofI.csv
+DEBUG:Running lexical analyzer: update  on file: /var/www/clickonfashion/hermes/upload/import_torras_CAS_12_04_13_cofU.csv
+DEBUG:Running semantic analyzer import
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>Strategy xre_skus (Lexical_XreSkus) is not implemented for the lexical analizer <br>Strategy sku (Lexical_SkuUpdate) is not implemented for the lexical analizer <br>Strategy xre_skus (Lexical_XreSkus) is not implemented for the lexical analizer <br>
+ERROR:Error found at column image<br>Image field can't be empty at product(s) Unknown_A27605R_23red_S, Unknown_A27605R_23red_M, Unknown_A27605R_23red_L, Unknown_A27605R_23red_XL, Unknown_A27605R_23red_2XL, Unknown_A27605R_26navy_S, Unknown_A27605R_26navy_M, Unknown_A27605R_26navy_L, Unknown_A27605R_26navy_XL, Unknown_A27605R_26navy_2XL, TORRAS_B83623_2553beige_50, TORRAS_B83623_2553beige_52, TORRAS_B83623_2553beige_54

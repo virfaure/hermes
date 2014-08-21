@@ -1,0 +1,2 @@
+DEBUG:Running lexical analyzer
+ERROR:The following columns are missing on the CSV: "categories" or "category_ids".<br>

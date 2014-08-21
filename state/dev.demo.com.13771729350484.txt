@@ -1,0 +1,4 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/demo2/hermes/upload/MAGMI-import_product_demo.csv
+DEBUG:Running semantic analyzer import
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>
+ERROR:Error found at column configurable_attributes<br>Configurable attribute(s): "talla" must belong to the Attribute Set specified: Producto con color, at product: sku02S1

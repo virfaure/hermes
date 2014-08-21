@@ -1,0 +1,17 @@
+DEBUG:Running lexical analyzer
+DEBUG:Running semantic analyzer
+SUCCESS:The lexical analysis has successfully passed all validations for the update profile.<br>Time taken: 0.00040006637573242 seconds<br>The semantic analysis has successfully passed all validations for the update profile.<br>Time taken: 0.00083494186401367 seconds<br>
+DEBUG:Actualizando...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+ERROR:1:SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`demo`.`catalog_category_entity_varchar`, CONSTRAINT `FK_CAT_CTGR_ENTT_VCHR_ENTT_ID_CAT_CTGR_ENTT_ENTT_ID` FOREIGN KEY (`entity_id`) REFERENCES `catalog_category_entity` (`entity_id`) ON DELET) - INSERT INTO catalog_category_entity_varchar<br>			(`entity_type_id`, `attribute_id`, `store_id`, `entity_id`, `value`)<br>			VALUES (?,?,?,?,?) ON DUPLICATE KEY UPDATE `value`=VALUES(`value`)
+ERROR:2:SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`demo`.`catalog_category_entity_varchar`, CONSTRAINT `FK_CAT_CTGR_ENTT_VCHR_ENTT_ID_CAT_CTGR_ENTT_ENTT_ID` FOREIGN KEY (`entity_id`) REFERENCES `catalog_category_entity` (`entity_id`) ON DELET) - ERROR ON RECORD #1
+ERROR:3:SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`demo`.`catalog_category_entity_varchar`, CONSTRAINT `FK_CAT_CTGR_ENTT_VCHR_ENTT_ID_CAT_CTGR_ENTT_ENTT_ID` FOREIGN KEY (`entity_id`) REFERENCES `catalog_category_entity` (`entity_id`) ON DELET) - INSERT INTO catalog_category_entity_varchar<br>			(`entity_type_id`, `attribute_id`, `store_id`, `entity_id`, `value`)<br>			VALUES (?,?,?,?,?) ON DUPLICATE KEY UPDATE `value`=VALUES(`value`)
+ERROR:4:SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`demo`.`catalog_category_entity_varchar`, CONSTRAINT `FK_CAT_CTGR_ENTT_VCHR_ENTT_ID_CAT_CTGR_ENTT_ENTT_ID` FOREIGN KEY (`entity_id`) REFERENCES `catalog_category_entity` (`entity_id`) ON DELET) - ERROR ON RECORD #2
+ITIME:2 - 192.34458804131 - 192.34458804131
+DBTIME:7 - 0.0024254322052002 - 0.0024254322052002 - 7
+SUCCESS:Categories imported OK:0/2
+WARNING:Categories imported KO:2/2

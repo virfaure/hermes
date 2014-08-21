@@ -1,0 +1,3 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/clickonfashion/hermes/upload/CLICKONFASHION-IMPORTACION_TorrasI.csv
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>
+ERROR:Error found at item Unknown_B85736_2475cognac_62:<br>Column: weight, numeric value between 0.001 and 9999, but "" provided.<br>Column: tax_class_id, required field, format: "IVA|VAT (any number between 1 and 99)%", but "" provided.<br>

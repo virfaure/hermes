@@ -1,0 +1,1709 @@
+DEBUG:Running lexical analyzer: super  on file: /var/www/microfusa/hermes/upload/export_all_etailers_inactive_without_cat.csv
+DEBUG:Running semantic analyzer super
+SUCCESS:The lexical analysis has successfully passed all validations for the super profile.<br>Time taken: 0.78927707672119 seconds<br>The semantic analysis has successfully passed all validations for the super profile.<br>Time taken: 0.04003381729126 seconds<br>
+DEBUG:Importing...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Import Report Mail Notifier-1.0.0-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Import_report_mail_notifier 
+PLUGINHELLO:Magmi Optimizer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Optimizer 
+PLUGINHELLO:On the fly category creator/importer-0.1.7-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_category_creator/importer 
+PLUGINHELLO:Image attributes processor-1.0.22-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Image_attributes_processor 
+STD:Image attributes processor v1.0.22 - IMG SOURCE FOLDER:../ftp/media
+PLUGINHELLO:On the fly indexer-0.1.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_indexer 
+PLUGINHELLO:Generic mapper-0.0.6a-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Generic_mapper 
+PLUGINHELLO:Configurable Item processor-1.3.6-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Configurable_Item_processor 
+PLUGINHELLO:Cross/Upsell Importer-1.0.3-Dweeves-https://sourceforge.net/apps/mediawiki/magmi/index.php?title=Cross/Upsell_Importer 
+PLUGINHELLO:Product relater-1.0.3-Dweeves,jwtechniek-https://sourceforge.net/apps/mediawiki/magmi/index.php?title=Product_relater 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 8409</b>, image '/U/l/Ultrasone_icans.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 8039</b>, image '/l/i/liq_21.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7889</b>, image '/S/a/Samson-Auro-5.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7888</b>, image '/S/a/Samson-Auro-3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7838</b>, image '/R/o/Roland-E-09.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7826</b>, image '/S/a/Samson-Auro8.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7825</b>, image '/S/a/Samson-Auro6.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7821</b>, image '/T/C/TC-HeliconVoiceDoubler_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7700</b>, image '/V/2/V2_black.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7657</b>, image '/T/C/TC-ELECTRONIC-VINTAGE-DISTO.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7339</b>, image '/R/S/RS12-PA.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7307</b>, image '/p/h/ph60.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7306</b>, image '/r/h/rh600.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7305</b>, image '/r/h/rh300.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7304</b>, image '/r/h/rh100.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7303</b>, image '/C/H/CH700.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7292</b>, image '/R/S/RS15-PA.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7274</b>, image '/x/-/x-station49.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 6881</b>, image '/f/i/file_2.JPG' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 6729</b>, image '/v/e/vestaxvcm002uxlp.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 6534</b>, image '/V/I/VI-42.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 6531</b>, image '/V/i/Vieta-VISERIESg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 6182</b>, image '/a/x/ax_series.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 6173</b>, image '/Y/a/Yamaha-XM6150.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 6161</b>, image '/f/i/file_53_25.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 6150</b>, image '/G/R/GR-20.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 6054</b>, image '/m/i/microkontrol.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 6052</b>, image '/p/m/pmc06pro.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 5592</b>, image '/f/i/file_38.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 5432</b>, image '/B/A/BAGCR202BIG.JPG' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 5406</b>, image '/f/i/file_50.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 5246</b>, image '/G/I/GI20g.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 5061</b>, image '/v/o/voiceworks.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 4897</b>, image '/h/o/hosacablecra845.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 3728</b>, image '/t/_/t.c._electronics_m3000.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 221376</b>, image '/i/n/in2ear.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 221264</b>, image '/r/e/recordbagsup_olive.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 220833</b>, image '/i/b/ibizaloungetablewh.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 220268</b>, image '/d/r/dropboxwh.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 220267</b>, image '/d/r/dropboxbk.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 219442</b>, image '/C/O/COCKPITDELUXEXSwh.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 219441</b>, image '/C/O/COCKPITDELUXEXSGLAS.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 219357</b>, image '/G/l/GloriousIlluminationKitXL.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 219150</b>, image '/g/l/gloriousslipmat.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 219140</b>, image '/i/b/ibizaloungechairwh.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 219139</b>, image '/i/b/ibizaloungecoughwhite.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 219127</b>, image '/r/e/recordboxadv110white.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 219125</b>, image '/r/e/recordboxadv110black.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 219103</b>, image '/m/i/mixstationwh.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 219102</b>, image '/r/e/recordbox230white.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 219101</b>, image '/G/l/Glorious_-_Record_Box_110_White.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 219100</b>, image '/r/e/recordbox55white.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 218721</b>, image '/1/9/19mixerdustcover.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 218720</b>, image '/1/9/19mixerdustcover_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 218719</b>, image '/t/u/turntabledustcover.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 218669</b>, image '/G/l/GloriousCockpitDeluxeXL.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 218423</b>, image '/G/l/GloriousIlluminationKitXL_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 217966</b>, image '/r/e/recordbox110black.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 217964</b>, image '/r/e/recordbox55black.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 217962</b>, image '/r/e/recordbox230black.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 217947</b>, image '/v/i/vinyldividerwh.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 217946</b>, image '/v/i/vinyldividerbk.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 200390</b>, image '/c/d/cdpvcsleeve100.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 1814</b>, image '/p/u/pulsarii.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 1768</b>, image '/g/7/g7g.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 1765</b>, image '/P/h/Photoscore_ult.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 170.734</b>, image '/p/a/pabox300.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 1549</b>, image '/s/t/studiopadckg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 130849</b>, image '/f/i/file_60.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 105161</b>, image '/f/i/file_87.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10515</b>, image '/a/d/adama5blackglossy_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 103853</b>, image '/f/i/file_93.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10310</b>, image '/j/a/jamvox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq10249</b>, image '/B/I/BIASPEAK6BI.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10158</b>, image '/n/o/novation25compact.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10132</b>, image '/L/i/Live-615.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10131</b>, image '/L/i/Live-612.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10129</b>, image '/N/C/NC900.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10123</b>, image '/t/a/tascam_mp_vt1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10051</b>, image '/f/i/file_96.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10036</b>, image '/k/o/korgpitchblackgb1red.png' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10029</b>, image '/4/0/402-VLZ3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10005</b>, image '/y/T/yTenoriOn.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10005
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7377</b>, image '/D/i/Digidesign-Digipack_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 7377
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 8143</b>, image '/S/t/Stanton-Jetsetter_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 8143
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 8773</b>, image '/S/H/SHCBIG_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 8773
+WARNING:No datetime Attributes created for sku 9418
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10117</b>, image '/C/i/CitriQ-ProDawQ_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10117
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10168</b>, image '/L/X/LX215_1.JPG' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10168
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10175</b>, image '/f/i/file_41_42.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10175
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10328</b>, image '/m/i/minirack.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10328
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10352</b>, image '/v/e/vestaxvda1000.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10352
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10479</b>, image '/P/h/Photoscore_ult_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10479
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10528</b>, image '/M/o/Moog-moogerfooger-rack_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10528
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10624</b>, image '/P/H/PHAZERBIG_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10624
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10713</b>, image '/f/i/file_51_16.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10716</b>, image '/f/i/file_224.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10716
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11011</b>, image '/f/i/file_142.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11011
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 173.504</b>, image '/g/o/gooseneckled_G.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 173.504
+ITIME:100 - 6.1601738929749 - 6.1601738929749
+DBTIME:2278 - 0.83793497085571 - 0.83793497085571 - 2278
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0011</b>, image '/b/o/bodyglovestringg_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0011
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0012</b>, image '/b/o/bodyglovestringg_4.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0012
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0013</b>, image '/b/o/bodyglovestringg_5.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0013
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0014</b>, image '/b/o/bodyglovecrashg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0014
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0015</b>, image '/b/o/bodyglovecrashg_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0015
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0020</b>, image '/C/i/Citriq-MovilQ2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0020
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0031</b>, image '/C/i/CitriQ-ProDawQ_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0031
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0049</b>, image '/V/i/VinylV2B_orange.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0049
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0050</b>, image '/H/D/HDCD_audio.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0050
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0063</b>, image '/u/d/udgcreatormobile_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0063
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0064</b>, image '/u/d/udgcreatormobile_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0064
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0065</b>, image '/f/i/file_8.JPG' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0065
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0067</b>, image '/s/y/symmobileg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0067
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0071</b>, image '/f/i/file_14_19.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0071
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0099</b>, image '/L/A/LA_3A_front.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0099
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0179</b>, image '/f/i/file_16_6.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0179
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0180</b>, image '/V/S/VSM_200P_XT.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0180
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0181</b>, image '/V/S/VSM_200_XT.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0181
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7919</b>, image '/V/S/VSM-300_XT.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 7919
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: NCSA-0277</b>, image '/f/i/file_158.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku NCSA-0277
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11224</b>, image '/f/i/file_197.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11224
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11915</b>, image '/a/k/akai_mpc5000.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11915
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: U9400</b>, image '/f/i/file_2_7.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku U9400
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC024Y/A</b>, image '/m/a/mac_lacie.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC024Y/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MB535Y/A</b>, image '/m/a/mac-pro.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MB535Y/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC238Y/A</b>, image '/a/p/apple-mac-mini.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC238Y/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC239Y/A</b>, image '/a/p/apple-mac-mini_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC239Y/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC015Y/A</b>, image '/f/i/file_4_23.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC015Y/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MB952Y/A</b>, image '/f/i/file_4_26.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MB952Y/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 112237</b>, image '/f/i/file_4_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 112237
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11239</b>, image '/f/i/file_4_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11239
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11240</b>, image '/f/i/file_4_4.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11240
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11241</b>, image '/f/i/file_4_5.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11241
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10893</b>, image '/s/i/sibelius6box.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10893
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: ex9853</b>, image '/u/6/u6176.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku ex9853
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MB449Z/A</b>, image '/x/s/xserve.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MB449Z/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC008PY/A</b>, image '/i/p/ipod-touch_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC008PY/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC011PY/A</b>, image '/i/p/ipod-touch_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC011PY/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC340Z/A</b>, image '/a/p/apple-airport-extreme-4gk-460.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC340Z/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MB321Z/A</b>, image '/e/x/express.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MB321Z/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MB397G/A</b>, image '/f/i/file_4_29.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MB397G/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC264E/A</b>, image '/f/i/file_4_36.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC264E/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC258E/A</b>, image '/a/p/applecare.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC258E/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC259E/A</b>, image '/a/p/applecare_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC259E/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC256E/A</b>, image '/a/p/applecare_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC256E/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC257E/A</b>, image '/a/p/applecare_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC257E/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC262E/A</b>, image '/a/p/applecare_4.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC262E/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC260E/A</b>, image '/a/p/applecare_5.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC260E/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC223E/A</b>, image '/f/i/file_4_37.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC223E/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC224E/A</b>, image '/f/i/file_4_38.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC224E/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MB942E/A</b>, image '/i/w/iwork.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MB942E/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MB966E/A</b>, image '/f/i/file_4_40.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MB966E/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MB788E/A</b>, image '/f/i/file_4_41.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MB788E/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MB792E/A</b>, image '/f/i/file_4_42.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MB792E/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MB798E/A</b>, image '/f/i/file_4_43.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MB798E/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MB642Z/A</b>, image '/f/i/finalcutstudio.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MB642Z/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MB278Z/A</b>, image '/f/i/file_4_44.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MB278Z/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MB957Z/A</b>, image '/f/i/file_4_45.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MB957Z/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 9054</b>, image '/f/i/file_4_46.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 9054
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7675</b>, image '/m/a/mackiecontrolc4_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 7675
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: ex8589</b>, image '/f/i/file_4_55.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku ex8589
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 9048</b>, image '/f/i/file_4_58.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 9048
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7438</b>, image '/f/i/file_4_59.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 7438
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10521</b>, image '/m/a/mackie_u420d_1_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10521
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: mf1</b>, image '/m/i/micropack03.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku mf1
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11318</b>, image '/o/n/onyx1640i.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11318
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11319</b>, image '/o/n/onyx1620i.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11319
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11320</b>, image '/o/n/onyx1220i.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11320
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11321</b>, image '/f/i/file_4_61.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11321
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincod4</b>, image '/f/i/file_4_62.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincod4
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincod12</b>, image '/b/m/bmc-2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincod12
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincod30</b>, image '/f/i/file_5_11.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincod30
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincod31</b>, image '/t/c/tc_tdm_bundles.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincod31
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincod39</b>, image '/c/4/c400xl.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincod39
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11364</b>, image '/c/s/cs5.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11364
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10771</b>, image '/b/l/blow5-5.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10771
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11363</b>, image '/d/c/dc2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11262</b>, image '/s/i/sibelius6box_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11262
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11075</b>, image '/s/i/sibelius6box_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11075
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11157</b>, image '/s/i/sibelius6box_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11157
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11186</b>, image '/a/-/a-800pro.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11186
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11180</b>, image '/r/o/roland-vp-7.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11180
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MC508Y/A</b>, image '/f/i/file_4_23_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MC508Y/A
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 223239</b>, image '/g/l/glorious_workbench_black.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 223239
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11216</b>, image '/s/r/sr1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11216
+WARNING:No datetime Attributes created for sku new
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 201173</b>, image '/7/l/7lpsleeve.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 201173
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 8249</b>, image '/f/i/file_14_53.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 8249
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11288</b>, image '/s/i/sibelius6box_5.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11288
+WARNING:No datetime Attributes created for sku 11381
+WARNING:No datetime Attributes created for sku 11175
+WARNING:No datetime Attributes created for sku 11575
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: OF10669</b>, image '/f/i/file_83_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku OF10669
+WARNING:No datetime Attributes created for sku 220920
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 5821</b>, image '/m/s/ms400.gif' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 5821
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11614</b>, image '/n/u/numark_x1usb_01.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11614
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11613</b>, image '/n/u/numark_v7_b.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11613
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11612</b>, image '/f/i/file_14_6.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11612
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11601</b>, image '/f/i/file_14_38.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11601
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincodmixv</b>, image '/f/i/file_14_12.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincodmixv
+ITIME:200 - 14.076226949692 - 7.9158890247345
+DBTIME:4522 - 2.0666589736938 - 1.2287240028381 - 4522
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10829</b>, image '/c/r/crosspack.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10829
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincod smx311</b>, image '/s/t/stanton_smx311.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincod smx311
+WARNING:No datetime Attributes created for sku sincodm207
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: BC01</b>, image '/8/7/8755.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku BC01
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0615</b>, image '/p/r/protools9crossm.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 0615
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: BC15</b>, image '/8/8/8892.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku BC15
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: BC16</b>, image '/2/0/201447.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku BC16
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 221013</b>, image '/2/2/221012_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 221013
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: bc28</b>, image '/m/3/m32da.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku bc28
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11095</b>, image '/b/a/bandinaboxwin20105.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11095
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 5168</b>, image '/f/i/file_14_42.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 5168
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10706</b>, image '/a/l/allen-heath-xone-2d.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10706
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sin cod xone S2</b>, image '/f/i/file_14_44.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sin cod xone S2
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincodtech1</b>, image '/f/i/file_14_52.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincodtech1
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincodufx2</b>, image '/u/x/ux2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincodufx2
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincodkb37</b>, image '/k/b/kb3701.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincodkb37
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11683</b>, image '/f/i/file_14_54.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11683
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0266</b>, image '/f/i/file_15_21.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 0266
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincod relooppa</b>, image '/2/2/223748_reloop_pp.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincod relooppa
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 218127</b>, image '/r/a/rabs15a_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 218127
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 218125</b>, image '/r/e/relooprabs12a.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 218125
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 223010</b>, image '/f/i/file_15_24.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 223010
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 222708</b>, image '/f/i/file_15_25.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 222708
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 223414</b>, image '/d/3/d360.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 223414
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 220263</b>, image '/f/i/file_15_33.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 220263
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 220264</b>, image '/f/i/file_16_15.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 220264
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 220266</b>, image '/f/i/file_16_16.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 220266
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 220265</b>, image '/f/i/file_16_17.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 220265
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincod protool9</b>, image '/f/i/file_16_19.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincod protool9
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincodmac1</b>, image '/m/a/macbookpro1.png' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincodmac1
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincodmac2</b>, image '/m/a/macbookpro1_1.png' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincodmac2
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincodmac3</b>, image '/m/a/macbookpro1_2.png' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincodmac3
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincodmac5</b>, image '/m/a/macbookpro1_3.png' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincodmac5
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincodmac6</b>, image '/m/a/macbookpro1_4.png' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincodmac6
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 222466</b>, image '/f/i/file_16_28.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 222466
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincod dsm2</b>, image '/m/a/maudio-dsm2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincod dsm2
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 12175</b>, image '/m/-/m-audio_studiophile_dsm3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 12175
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: m1fm1n0300</b>, image '/f/i/file_16_44.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku m1fm1n0300
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: m1fm1n0500</b>, image '/f/i/file_16_45.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku m1fm1n0500
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0777</b>, image '/a/i/aiaiai-tracks-headset-petrol-blue.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 0777
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0779</b>, image '/a/i/aiaiai_track_black__80910_zoom.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 0779
+WARNING:No datetime Attributes created for sku 11746
+WARNING:No datetime Attributes created for sku 11747
+WARNING:No datetime Attributes created for sku 11748
+WARNING:No datetime Attributes created for sku PORTES_V
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11710</b>, image '/m/i/mixvibes_umix_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11710
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincodzed10x</b>, image '/z/e/zed10_3quarter.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincodzed10x
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincods2</b>, image '/f/i/file_41_22.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincods2
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: e11615</b>, image '/n/u/numark_x5.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku e11615
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: esonar1</b>, image '/f/i/file_51_8.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku esonar1
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sonar4</b>, image '/K/A/KAOSSILATOR_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sonar4
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: Sonar7</b>, image '/i/s/istage-black-view_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku Sonar7
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: Sonar9</b>, image '/f/i/file_26_4_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku Sonar9
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincodsub8</b>, image '/s/u/sub8.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincodsub8
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11901</b>, image '/f/i/file_51_6.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11901
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: e11215</b>, image '/k/a/kaossilator_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku e11215
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: e0266</b>, image '/f/i/file_15_21_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku e0266
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: e10007</b>, image '/m/a/maudioq-40_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku e10007
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: e7944</b>, image '/P/r/Presonus-HP4_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku e7944
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: e223618</b>, image '/r/e/reloop-mixage-ie_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku e223618
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: e221791</b>, image '/r/m/rmx40ltd_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku e221791
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: e11840</b>, image '/a/r/arturia_spark_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku e11840
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: e223396</b>, image '/c/o/contour_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku e223396
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 5546</b>, image '/f/i/file_53_6.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 5546
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10035</b>, image '/k/o/korgpitchblackgb1white.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10035
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 6888</b>, image '/r/o/roalndcm30.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 6888
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 11523</b>, image '/r/o/roland-fs-1-pedal.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 11523
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: Bundle1</b>, image '/p/a/packmini32yreason6.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku Bundle1
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: Bundle2</b>, image '/a/k/akaimpkminireason6.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku Bundle2
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: bundle3</b>, image '/i/m/impulse49reason6.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku bundle3
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq1769</b>, image '/i/n/instrumentsg_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq1769
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq1776</b>, image '/m/u/musitiong_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq1776
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: bundlembergo</b>, image '/f/i/file_61_20.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku bundlembergo
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10836</b>, image '/f/i/file_61_25.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10836
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: SINCODCUBE30</b>, image '/c/u/cube-30xbig_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku SINCODCUBE30
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 6774</b>, image '/r/o/rolandtd3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 6774
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 9554</b>, image '/t/l/tlaudioebonya2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 9554
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10841</b>, image '/f/i/file_61_29.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10841
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 170.510</b>, image '/c/i/citronic_pd1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 170.510
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 171.129</b>, image '/c/i/citronicsmfx500.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 171.129
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7967</b>, image '/g/a/gatorg-mix-b-1212.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 7967
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7968</b>, image '/g/a/gator_g-mix-b-1515.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 7968
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9582</b>, image '/C/M/CM9582-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9582
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9583</b>, image '/C/M/CM9583-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9583
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9584</b>, image '/C/M/CM9584-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9584
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9585</b>, image '/C/M/CM9585-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9585
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9586</b>, image '/C/M/CM9586-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9586
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9587</b>, image '/C/M/CM9587-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9587
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9588</b>, image '/C/M/CM9588-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9588
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9635</b>, image '/C/M/CM9635-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9635
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8268</b>, image '/C/M/CM8268-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8268
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8269</b>, image '/C/M/CM8269-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8269
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8270</b>, image '/C/M/CM8270-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8270
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8271</b>, image '/C/M/CM8271-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8271
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8272</b>, image '/C/M/CM8272-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8272
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8273</b>, image '/C/M/CM8273-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8273
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8274</b>, image '/C/M/CM8274-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8274
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8275</b>, image '/C/M/CM8275-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8275
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8276</b>, image '/C/M/CM8276-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8276
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8277</b>, image '/C/M/CM8277-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8277
+ITIME:300 - 22.168072938919 - 8.0917630195618
+DBTIME:6798 - 3.7113847732544 - 1.6447257995605 - 6798
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8278</b>, image '/C/M/CM8278-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8278
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8279</b>, image '/C/M/CM8279-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8279
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8280</b>, image '/C/M/CM8280-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8280
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8281</b>, image '/C/M/CM8281-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8281
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8282</b>, image '/C/M/CM8282-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8282
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8286</b>, image '/C/M/CM8286-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8286
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8287</b>, image '/C/M/CM8287-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8287
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8288</b>, image '/C/M/CM8288-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8288
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8289</b>, image '/C/M/CM8289-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8289
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8290</b>, image '/C/M/CM8290-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8290
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8291</b>, image '/C/M/CM8291-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8291
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8292</b>, image '/C/M/CM8292-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8292
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8293</b>, image '/C/M/CM8293-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8293
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8294</b>, image '/C/M/CM8294-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8294
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8295</b>, image '/C/M/CM8295-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8295
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8296</b>, image '/C/M/CM8296-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8296
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM8297</b>, image '/C/M/CM8297-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM8297
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9376</b>, image '/C/M/CM9376-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9376
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9393</b>, image '/C/M/CM9393-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9393
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9394</b>, image '/C/M/CM9394-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9394
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9395</b>, image '/C/M/CM9395-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9395
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9396</b>, image '/C/M/CM9396-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9396
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9397</b>, image '/C/M/CM9397-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9397
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9442</b>, image '/C/M/CM9442-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9442
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9443</b>, image '/C/M/CM9443-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9443
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9445</b>, image '/C/M/CM9445-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9445
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9446</b>, image '/C/M/CM9446-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9446
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9447</b>, image '/C/M/CM9447-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9447
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9448</b>, image '/C/M/CM9448-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9448
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9450</b>, image '/C/M/CM9450-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9450
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9451</b>, image '/C/M/CM9451-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9451
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9452</b>, image '/C/M/CM9452-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9452
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9453</b>, image '/C/M/CM9453-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9453
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9454</b>, image '/C/M/CM9454-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9454
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9455</b>, image '/C/M/CM9455-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9455
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9456</b>, image '/C/M/CM9456-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9456
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9457</b>, image '/C/M/CM9457-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9457
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9458</b>, image '/C/M/CM9458-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9458
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9459</b>, image '/C/M/CM9459-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9459
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9460</b>, image '/C/M/CM9460-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9460
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9461</b>, image '/C/M/CM9461-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9461
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9462</b>, image '/C/M/CM9462-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9462
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9463</b>, image '/C/M/CM9463-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9463
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9464</b>, image '/C/M/CM9464-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9464
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9465</b>, image '/C/M/CM9465-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9465
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9466</b>, image '/C/M/CM9466-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9466
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9467</b>, image '/C/M/CM9467-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9467
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9468</b>, image '/C/M/CM9468-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9468
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9469</b>, image '/C/M/CM9469-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9469
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9470</b>, image '/C/M/CM9470-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9470
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9471</b>, image '/C/M/CM9471-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9471
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9472</b>, image '/C/M/CM9472-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9472
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9473</b>, image '/C/M/CM9473-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9473
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9474</b>, image '/C/M/CM9474-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9474
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9475</b>, image '/C/M/CM9475-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9475
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9476</b>, image '/C/M/CM9476-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9476
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9477</b>, image '/C/M/CM9477-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9477
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9478</b>, image '/C/M/CM9478-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9478
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9479</b>, image '/C/M/CM9479-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9479
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9480</b>, image '/C/M/CM9480-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9480
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9481</b>, image '/C/M/CM9481-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9481
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9482</b>, image '/C/M/CM9482-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9482
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9483</b>, image '/C/M/CM9483-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9483
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9484</b>, image '/C/M/CM9484-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9484
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9485</b>, image '/C/M/CM9485-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9485
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9486</b>, image '/C/M/CM9486-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9486
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9487</b>, image '/C/M/CM9487-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9487
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9488</b>, image '/C/M/CM9488-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9488
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9489</b>, image '/C/M/CM9489-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9489
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9490</b>, image '/C/M/CM9490-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9490
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9491</b>, image '/C/M/CM9491-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9491
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9492</b>, image '/C/M/CM9492-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9492
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9493</b>, image '/C/M/CM9493-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9493
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9494</b>, image '/C/M/CM9494-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9494
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9495</b>, image '/C/M/CM9495-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9495
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9496</b>, image '/C/M/CM9496-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9496
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9497</b>, image '/C/M/CM9497-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9497
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9498</b>, image '/C/M/CM9498-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9498
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9499</b>, image '/C/M/CM9499-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9499
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9500</b>, image '/C/M/CM9500-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9500
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9501</b>, image '/C/M/CM9501-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9501
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9502</b>, image '/C/M/CM9502-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9502
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9503</b>, image '/C/M/CM9503-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9503
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9504</b>, image '/C/M/CM9504-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9504
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9505</b>, image '/C/M/CM9505-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9505
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9506</b>, image '/C/M/CM9506-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9506
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9507</b>, image '/C/M/CM9507-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9507
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9508</b>, image '/C/M/CM9508-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9508
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9509</b>, image '/C/M/CM9509-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9509
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM9510</b>, image '/C/M/CM9510-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM9510
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM12098</b>, image '/C/M/CM12098-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM12098
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM12099</b>, image '/C/M/CM12099-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM12099
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM12100</b>, image '/C/M/CM12100-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM12100
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM12101</b>, image '/C/M/CM12101-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM12101
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM12102</b>, image '/C/M/CM12102-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM12102
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM12103</b>, image '/C/M/CM12103-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM12103
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM15084</b>, image '/C/M/CM15084-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM15084
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM15085</b>, image '/C/M/CM15085-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM15085
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CM15086</b>, image '/C/M/CM15086-1-main-thickbox.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CM15086
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku CM16365
+ITIME:400 - 29.751650094986 - 7.5834920406342
+DBTIME:8901 - 4.5247807502747 - 0.81339597702026 - 8901
+WARNING:No datetime Attributes created for sku CM16367
+WARNING:No datetime Attributes created for sku CM16368
+WARNING:No datetime Attributes created for sku CM16372
+WARNING:No datetime Attributes created for sku CM16373
+WARNING:No datetime Attributes created for sku CM16374
+WARNING:No datetime Attributes created for sku CM16375
+WARNING:No datetime Attributes created for sku CM16376
+WARNING:No datetime Attributes created for sku CM16377
+WARNING:No datetime Attributes created for sku CM16378
+WARNING:No datetime Attributes created for sku CM16379
+WARNING:No datetime Attributes created for sku CM16380
+WARNING:No datetime Attributes created for sku CM16381
+WARNING:No datetime Attributes created for sku CM16382
+WARNING:No datetime Attributes created for sku CM16383
+WARNING:No datetime Attributes created for sku CM16384
+WARNING:No datetime Attributes created for sku CM16385
+WARNING:No datetime Attributes created for sku CM16386
+WARNING:No datetime Attributes created for sku CM16387
+WARNING:No datetime Attributes created for sku CM16388
+WARNING:No datetime Attributes created for sku CM16389
+WARNING:No datetime Attributes created for sku CM16390
+WARNING:No datetime Attributes created for sku CM16392
+WARNING:No datetime Attributes created for sku CM16393
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10782</b>, image '/n/o/novremote37slltd.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10782
+WARNING:No datetime Attributes created for sku Producte 1
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 9959
+WARNING:No datetime Attributes created for sku 9910
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 9869</b>, image '/1/0/10252.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 9695</b>, image '/1/0/10280.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 9695
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 9670</b>, image '/1/0/10299.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 9670
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 9664</b>, image '/r/o/rolandmicrocube.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 9664
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 9662</b>, image '/r/o/rolandmicrocube_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 9662
+WARNING:No datetime Attributes created for sku 9631
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 8870</b>, image '/1/0/10322.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 8870
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 9561</b>, image '/1/0/10346.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 9561
+WARNING:No datetime Attributes created for sku 9560
+WARNING:No datetime Attributes created for sku 11158
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 9429</b>, image '/h/r/hr-624-mkii.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 9429
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 9195</b>, image '/k/o/korgkm202.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 9195
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 9188</b>, image '/1/0/10419.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 9188
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 9050</b>, image '/b/a/bassfloor.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 9050
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 8956</b>, image '/f/i/file_26_17_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 8956
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 8929</b>, image '/m/i/microtrack10dbg_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 8929
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 8882</b>, image '/b/a/bagcr204big.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 8882
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 8800</b>, image '/l/e/lexiconalpha_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 8800
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 8754</b>, image '/r/o/roland-fp-4.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 8735</b>, image '/s/p/spvtb1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 8735
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 8734</b>, image '/s/p/sp-mpf_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 8504</b>, image '/d/i/digidesignmbox2profactory.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 8504
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 8485</b>, image '/d/a/da16g_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 8485
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: sincodad16x</b>, image '/a/p/apogee_ad-16x.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku sincodad16x
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 9039</b>, image '/l/i/line6pider330.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 9039
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 5859</b>, image '/p/r/proelkp555.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 5859
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7851</b>, image '/s/t/stanton_m505b.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 7851
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 7678</b>, image '/y/a/yamahamlan16e_yamaha_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 7678
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq8516</b>, image '/o/c/octamic_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq8516
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq7585</b>, image '/p/r/prokeys88g_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq7585
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq8821</b>, image '/f/i/file_65_17.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq8821
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq1843</b>, image '/m/-/m-audioozonic.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq1843
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq8261</b>, image '/e/u/eurekag_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq8261
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq8274</b>, image '/p/r/presonusm80.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq8274
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq8555</b>, image '/a/p/apogeeros800.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq8555
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq8557</b>, image '/x/h/xhdp_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq8557
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq8895</b>, image '/a/p/apogee_symphony_64_pci_e_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq8895
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq8550</b>, image '/a/p/apogee_synphonypcix.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq8550
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq8148</b>, image '/m/-/m-audioxsessionpro.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq8148
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq1722</b>, image '/m/a/maudiokeyrig25.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq1722
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liqkeyb</b>, image '/m/-/m-audiokeystation49e.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liqkeyb
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq3092</b>, image '/m/c/mc-control-v2_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq3092
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq8324</b>, image '/s/s/sslduende.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq8324
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq1629</b>, image '/m/a/maudiofw_410.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq1629
+WARNING:No datetime Attributes created for sku liq8567
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq7566</b>, image '/p/r/projectmixg_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq7566
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 12199</b>, image '/C/M/CM8098-1-main-thickbox_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 12199
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: liq9061</b>, image '/k/o/korgm3_2_1_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku liq9061
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku cableado
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 11683(LIQ)
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 10558(LIQ)
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 10792
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: PR/00201-copy</b>, image '/o/l/olympus-ls100-1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku PR/00201-copy
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 9217 (LIQ)</b>, image '/m/i/mixvibesdvsmk2u46dj.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 9217 (LIQ)
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 12216</b>, image '/U/l/Ultimate_DX-48B.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 12216
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 14662</b>, image '/U/l/Ultimate_JS-500_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 14662
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CMP-153</b>, image '/H/o/Hosa_CMP_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CMP-153
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: OPT-106</b>, image '/H/o/Hosa_OPT_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku OPT-106
+WARNING:No datetime Attributes created for sku CPE-112
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CPP-201</b>, image '/H/o/Hosa_CPP_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CPP-201
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CSS-115</b>, image '/H/o/Hosa_CSS_100_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CSS-115
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: GPM-103</b>, image '/H/o/Hosa_GPM-103_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku GPM-103
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: GPP-105</b>, image '/H/o/Hosa_GPP-105_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku GPP-105
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MID-325</b>, image '/H/o/Hosa_MID_300_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MID-325
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: OPT-103</b>, image '/H/o/Hosa_OPT_1.jpg_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku OPT-103
+WARNING:No datetime Attributes created for sku USM-422
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: YMP-233</b>, image '/H/o/Hosa_YMP-233_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku YMP-233
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CMP-159</b>, image '/H/o/Hosa_CMP_1.jpg_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CMP-159
+WARNING:No datetime Attributes created for sku CSS-405
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: FSC-384</b>, image '/H/o/Hosa_FSC_384_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku FSC-384
+WARNING:No datetime Attributes created for sku GPR-101
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: GRM-193</b>, image '/H/o/Hosa_GRM-193_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku GRM-193
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MID-320</b>, image '/H/o/Hosa_MID_300_1.jpg_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MID-320
+ITIME:500 - 37.684575080872 - 7.932806968689
+DBTIME:11088 - 5.432962179184 - 0.9081814289093 - 11088
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: PXF-105</b>, image '/H/o/Hosa_PXF_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku PXF-105
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: PXF-110</b>, image '/H/o/Hosa_PXF_1.jpg_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku PXF-110
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: YMR-197</b>, image '/H/o/Hosa_YMR-197_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku YMR-197
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: YRA-154</b>, image '/H/o/Hosa_YRA-154_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku YRA-154
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: CSS-403</b>, image '/H/o/Hosa_CSS_400_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku CSS-403
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: FSC-501</b>, image '/H/o/Hosa_FSC_501.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku FSC-501
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: GMP-112</b>, image '/H/o/Hosa_GMP-112_1.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku GMP-112
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: MID-315</b>, image '/H/o/Hosa_MID_300_1.jpg_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku MID-315
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 10012 (LIQ)</b>, image '/R/o/Roland-Cube-60D.jpg.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 10012 (LIQ)
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku CPP-204
+WARNING:No datetime Attributes created for sku CPE-118
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku YPR-102
+WARNING:No datetime Attributes created for sku CMR-203
+WARNING:No datetime Attributes created for sku PR/00714
+WARNING:No datetime Attributes created for sku PR/00715
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 11443_LIQ
+WARNING:No datetime Attributes created for sku IM/STUDIO3
+WARNING:No datetime Attributes created for sku 0807_LIQ
+WARNING:No datetime Attributes created for sku 10258_LIQ
+WARNING:No datetime Attributes created for sku 10259_LIQ
+WARNING:No datetime Attributes created for sku 10667_LIQ
+WARNING:No datetime Attributes created for sku 10668_LIQ
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 10983_LIQ
+WARNING:No datetime Attributes created for sku 11185_LIQ
+WARNING:No datetime Attributes created for sku 11683_LIQ
+WARNING:No datetime Attributes created for sku 6583_LIQ
+WARNING:No datetime Attributes created for sku 9670_LIQ
+WARNING:No datetime Attributes created for sku IM/IKLIP2
+WARNING:No datetime Attributes created for sku PR/00546
+WARNING:No datetime Attributes created for sku PR/00553
+WARNING:No datetime Attributes created for sku PR/00554
+WARNING:No datetime Attributes created for sku PR/00603
+WARNING:No datetime Attributes created for sku 11514_LIQ
+WARNING:No datetime Attributes created for sku 91971010
+WARNING:No datetime Attributes created for sku 92931010
+WARNING:No datetime Attributes created for sku 92973010
+WARNING:No datetime Attributes created for sku YMP-234
+WARNING:No datetime Attributes created for sku 0802
+WARNING:No datetime Attributes created for sku 11095_LIQ
+WARNING:No datetime Attributes created for sku 11334_LIQ
+WARNING:No datetime Attributes created for sku 11566_LIQ
+WARNING:No datetime Attributes created for sku 11707-COPIA
+WARNING:No datetime Attributes created for sku 11912
+WARNING:No datetime Attributes created for sku 200390_LIQ
+WARNING:No datetime Attributes created for sku 217947_LIQ
+WARNING:No datetime Attributes created for sku 217966_LIQ
+WARNING:No datetime Attributes created for sku 218423_LIQ
+WARNING:No datetime Attributes created for sku 218721_LIQ
+WARNING:No datetime Attributes created for sku 221183_LIQ
+WARNING:No datetime Attributes created for sku 222787_LIQ
+WARNING:No datetime Attributes created for sku 222788_LIQ
+WARNING:No datetime Attributes created for sku 222789_LIQ
+WARNING:No datetime Attributes created for sku 223373_LIQ
+WARNING:No datetime Attributes created for sku 223418_LIQ
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 331KG356
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 34274
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 7936_LIQ
+WARNING:No datetime Attributes created for sku 9286_LIQ
+WARNING:No datetime Attributes created for sku CMR-206
+WARNING:No datetime Attributes created for sku CMR-210
+WARNING:No datetime Attributes created for sku CPE-606
+WARNING:No datetime Attributes created for sku CPP-202
+WARNING:No datetime Attributes created for sku CPP-206
+WARNING:No datetime Attributes created for sku CPR-201
+WARNING:No datetime Attributes created for sku CPR-203
+WARNING:No datetime Attributes created for sku CPR-204
+WARNING:No datetime Attributes created for sku CPR-206
+WARNING:No datetime Attributes created for sku CRA-204
+WARNING:No datetime Attributes created for sku CRA-206
+WARNING:No datetime Attributes created for sku CRA-410
+WARNING:No datetime Attributes created for sku CRA-420
+WARNING:No datetime Attributes created for sku CSS-103
+WARNING:No datetime Attributes created for sku CSS-105
+WARNING:No datetime Attributes created for sku CSS-110
+WARNING:No datetime Attributes created for sku NCSA-0326
+WARNING:No datetime Attributes created for sku PR/00337
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku PR/00383
+WARNING:No datetime Attributes created for sku PRODUCTE_1
+WARNING:No datetime Attributes created for sku PRODUCTE_2
+WARNING:No datetime Attributes created for sku SINCOD_MULTIFACE
+WARNING:No datetime Attributes created for sku SINCOD_RELOOPPA
+WARNING:No datetime Attributes created for sku SIN_COD_MONO_3
+WARNING:No datetime Attributes created for sku SIN_COD_XONE_S2
+WARNING:No datetime Attributes created for sku YPP-117
+WARNING:No datetime Attributes created for sku YPP-136
+WARNING:No datetime Attributes created for sku YRA-104
+WARNING:No datetime Attributes created for sku AXIOMAIRMIN
+WARNING:No datetime Attributes created for sku 8238
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 170734
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 170519
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 173504
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 235
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 615
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 951
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 313
+WARNING:No datetime Attributes created for sku 777
+WARNING:No datetime Attributes created for sku 779
+WARNING:No datetime Attributes created for sku 782
+WARNING:No datetime Attributes created for sku 170510
+WARNING:No datetime Attributes created for sku 171129
+ITIME:600 - 44.528829097748 - 6.8440511226654
+DBTIME:13026 - 6.1055045127869 - 0.67254233360291 - 13026
+WARNING:No datetime Attributes created for sku BUNDLE5
+WARNING:No datetime Attributes created for sku MD033Z/A
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 9900-65308-08
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 709026
+WARNING:No datetime Attributes created for sku VIC00109
+WARNING:No datetime Attributes created for sku UDG9880SG/OR
+WARNING:No datetime Attributes created for sku V0000018
+WARNING:No datetime Attributes created for sku VIC00029
+WARNING:No datetime Attributes created for sku PR/00729
+WARNING:No datetime Attributes created for sku UDG8417BL
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 0620
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku SHBETA57A
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku SHM87S
+WARNING:No datetime Attributes created for sku 090642
+WARNING:No datetime Attributes created for sku 090922
+WARNING:No datetime Attributes created for sku 11873
+WARNING:No datetime Attributes created for sku PR/00556
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku PR/00559
+WARNING:No datetime Attributes created for sku 11618
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 8004_LIQ
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 207500
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 207501
+WARNING:No datetime Attributes created for sku ULTSIGNATUREDJ
+WARNING:No datetime Attributes created for sku 0250
+WARNING:No datetime Attributes created for sku 5857
+WARNING:No datetime Attributes created for sku 5858
+WARNING:No datetime Attributes created for sku 6986
+WARNING:No datetime Attributes created for sku CM3836
+WARNING:No datetime Attributes created for sku 12247
+WARNING:No datetime Attributes created for sku 8647
+WARNING:No datetime Attributes created for sku PR/00417
+WARNING:No datetime Attributes created for sku PR/00445
+WARNING:No datetime Attributes created for sku 330KG277
+WARNING:No datetime Attributes created for sku 330KG278
+WARNING:No datetime Attributes created for sku 330KG279
+WARNING:No datetime Attributes created for sku 331KG370
+WARNING:No datetime Attributes created for sku AMP16GBDD3MACMINI
+WARNING:No datetime Attributes created for sku MD388Y/A
+WARNING:No datetime Attributes created for sku 13588
+WARNING:No datetime Attributes created for sku 13589
+WARNING:No datetime Attributes created for sku 13590
+WARNING:No datetime Attributes created for sku 13591
+WARNING:No datetime Attributes created for sku 13592
+WARNING:No datetime Attributes created for sku 13593
+WARNING:No datetime Attributes created for sku 13594
+WARNING:No datetime Attributes created for sku 13595
+WARNING:No datetime Attributes created for sku 13596
+WARNING:No datetime Attributes created for sku 13597
+WARNING:No datetime Attributes created for sku 13598
+WARNING:No datetime Attributes created for sku 13599
+WARNING:No datetime Attributes created for sku 173643
+WARNING:No datetime Attributes created for sku HK5465
+WARNING:No datetime Attributes created for sku PR/00343
+WARNING:No datetime Attributes created for sku PR/00344
+WARNING:No datetime Attributes created for sku 10362
+WARNING:No datetime Attributes created for sku 11740
+WARNING:No datetime Attributes created for sku 12243
+WARNING:No datetime Attributes created for sku 12244
+WARNING:No datetime Attributes created for sku 9107
+WARNING:No datetime Attributes created for sku 9186
+WARNING:No datetime Attributes created for sku 9420
+WARNING:No datetime Attributes created for sku DAP-3X
+WARNING:No datetime Attributes created for sku PR/00040
+WARNING:No datetime Attributes created for sku PR/00664
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku TD-11KV+MDS-4V
+WARNING:No datetime Attributes created for sku 91551020
+WARNING:No datetime Attributes created for sku 91931010
+WARNING:No datetime Attributes created for sku STANCMP800
+WARNING:No datetime Attributes created for sku STANRM416
+WARNING:No datetime Attributes created for sku VDPHX1
+WARNING:No datetime Attributes created for sku VDWGX1
+WARNING:No datetime Attributes created for sku VR3
+WARNING:No datetime Attributes created for sku PR/00707
+WARNING:No datetime Attributes created for sku 12155
+WARNING:No datetime Attributes created for sku 15711
+WARNING:No datetime Attributes created for sku PR/00710
+WARNING:No datetime Attributes created for sku 750312
+WARNING:No datetime Attributes created for sku 752535
+WARNING:No datetime Attributes created for sku PR/00381
+WARNING:No datetime Attributes created for sku PR/00660
+WARNING:No datetime Attributes created for sku PR/00661
+WARNING:No datetime Attributes created for sku U9962BL
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 0466
+WARNING:No datetime Attributes created for sku 0467
+WARNING:No datetime Attributes created for sku 10484
+WARNING:No datetime Attributes created for sku 3148
+WARNING:No datetime Attributes created for sku 4195
+WARNING:No datetime Attributes created for sku 4456
+WARNING:No datetime Attributes created for sku 4699
+WARNING:No datetime Attributes created for sku 9102
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku SC_RW5764
+WARNING:No datetime Attributes created for sku 4196
+WARNING:No datetime Attributes created for sku 5966
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 8933
+WARNING:No datetime Attributes created for sku DX_1046
+WARNING:No datetime Attributes created for sku DX_1215
+WARNING:No datetime Attributes created for sku DX_266XS
+WARNING:No datetime Attributes created for sku DX_AFS224
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku PR/00656
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku SC_FX16II
+ITIME:700 - 51.268769025803 - 6.7398619651794
+DBTIME:14929 - 6.6328527927399 - 0.527348279953 - 14929
+WARNING:No datetime Attributes created for sku SC_RW5745
+WARNING:No datetime Attributes created for sku SC_RW5752
+WARNING:No datetime Attributes created for sku 10659
+WARNING:No datetime Attributes created for sku 3684
+WARNING:No datetime Attributes created for sku SC_M7
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku MA4090226
+WARNING:No datetime Attributes created for sku MA4090445
+WARNING:No datetime Attributes created for sku MA4090481
+WARNING:No datetime Attributes created for sku MA4090483
+WARNING:No datetime Attributes created for sku MA4090623
+WARNING:No datetime Attributes created for sku MA4090480
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 11406
+WARNING:No datetime Attributes created for sku 9531_LIQ
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 12001
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 10-CXSE1.00-10C
+WARNING:No datetime Attributes created for sku 10-CXSP1.00-10C
+WARNING:No datetime Attributes created for sku 10-CXSR1.00-10C
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+WARNING:No datetime Attributes created for sku 1180
+WARNING:No datetime Attributes created for sku 218
+WARNING:No datetime Attributes created for sku 397
+WARNING:No datetime Attributes created for sku 398
+WARNING:No datetime Attributes created for sku 399
+WARNING:No datetime Attributes created for sku 787
+WARNING:No datetime Attributes created for sku A-49-WH
+WARNING:No datetime Attributes created for sku A-500S-R
+WARNING:No datetime Attributes created for sku AC-33
+WARNING:No datetime Attributes created for sku AC-33-RW
+WARNING:No datetime Attributes created for sku AC-60
+WARNING:No datetime Attributes created for sku AC-60-RW
+WARNING:No datetime Attributes created for sku AC-90A
+WARNING:No datetime Attributes created for sku ARX-01
+WARNING:No datetime Attributes created for sku ARX-02
+WARNING:No datetime Attributes created for sku ARX-03
+WARNING:No datetime Attributes created for sku AT-100
+WARNING:No datetime Attributes created for sku AT-300
+WARNING:No datetime Attributes created for sku AT-350C
+WARNING:No datetime Attributes created for sku AT-500
+WARNING:No datetime Attributes created for sku AT-75
+WARNING:No datetime Attributes created for sku AT-800
+WARNING:No datetime Attributes created for sku AT-900C
+WARNING:No datetime Attributes created for sku AT-900P
+WARNING:No datetime Attributes created for sku ATUP-EX
+WARNING:No datetime Attributes created for sku AX-09-BK
+WARNING:No datetime Attributes created for sku AX-SYNTHBK
+WARNING:No datetime Attributes created for sku BA-55-WH
+WARNING:No datetime Attributes created for sku BA-55_N
+WARNING:No datetime Attributes created for sku BA-BR80S
+WARNING:No datetime Attributes created for sku BA-CB1
+WARNING:No datetime Attributes created for sku BA-CS10
+WARNING:No datetime Attributes created for sku BAG-FR-1
+WARNING:No datetime Attributes created for sku BAG-FR-3
+WARNING:No datetime Attributes created for sku BAG/FBC-7
+WARNING:No datetime Attributes created for sku BAG/FR
+WARNING:No datetime Attributes created for sku BC-2
+WARNING:No datetime Attributes created for sku BK-5_OR
+WARNING:No datetime Attributes created for sku BK-7M
+WARNING:No datetime Attributes created for sku BK-9
+WARNING:No datetime Attributes created for sku BNC-29
+WARNING:No datetime Attributes created for sku BR-1600CD
+WARNING:No datetime Attributes created for sku BT-1
+WARNING:No datetime Attributes created for sku C-200
+WARNING:No datetime Attributes created for sku C-230
+WARNING:No datetime Attributes created for sku C-30
+WARNING:No datetime Attributes created for sku C-330-DA
+WARNING:No datetime Attributes created for sku C-330-LA
+WARNING:No datetime Attributes created for sku C-380-DA
+WARNING:No datetime Attributes created for sku CB-120XL_E
+WARNING:No datetime Attributes created for sku CB-20XL_E
+WARNING:No datetime Attributes created for sku CB-60XL_E
+WARNING:No datetime Attributes created for sku CB-61-RL
+WARNING:No datetime Attributes created for sku CB-61W
+WARNING:No datetime Attributes created for sku CB-76-RL
+WARNING:No datetime Attributes created for sku CB-88-RL
+WARNING:No datetime Attributes created for sku CB-BA330
+WARNING:No datetime Attributes created for sku CB-MBC1
+WARNING:No datetime Attributes created for sku CB-MCC1B
+WARNING:No datetime Attributes created for sku CB-MCC1R
+WARNING:No datetime Attributes created for sku CB-TDP
+WARNING:No datetime Attributes created for sku CD-2I
+WARNING:No datetime Attributes created for sku CD-2U
+WARNING:No datetime Attributes created for sku CM-110-WH
+WARNING:No datetime Attributes created for sku CS-10EM
+WARNING:No datetime Attributes created for sku CS-15R
+WARNING:No datetime Attributes created for sku CS-15S
+WARNING:No datetime Attributes created for sku CUBE-20XLE
+WARNING:No datetime Attributes created for sku CUBE-40XLE
+WARNING:No datetime Attributes created for sku CUBE-80XLE
+WARNING:No datetime Attributes created for sku CUBE-LM-WH
+WARNING:No datetime Attributes created for sku CUBE-LT-BK
+WARNING:No datetime Attributes created for sku CUBE-LT-RD
+WARNING:No datetime Attributes created for sku CUBE-LT-WH
+WARNING:No datetime Attributes created for sku CV-20KX-BU
+WARNING:No datetime Attributes created for sku CY-12C
+WARNING:No datetime Attributes created for sku CY-12R/C
+WARNING:No datetime Attributes created for sku CY-13R
+WARNING:No datetime Attributes created for sku CY-14C
+WARNING:No datetime Attributes created for sku CY-14C-MG
+WARNING:No datetime Attributes created for sku CY-14C-SV
+WARNING:No datetime Attributes created for sku CY-15R
+WARNING:No datetime Attributes created for sku CY-15R-MG
+ITIME:800 - 58.761198043823 - 7.4923601150513
+DBTIME:16832 - 7.6170310974121 - 0.98417830467224 - 16832
+WARNING:No datetime Attributes created for sku CY-15R-SV
+WARNING:No datetime Attributes created for sku CY-5
+WARNING:No datetime Attributes created for sku CY-8
+WARNING:No datetime Attributes created for sku CYM-10
+WARNING:No datetime Attributes created for sku DA-2
+WARNING:No datetime Attributes created for sku DB-90
+WARNING:No datetime Attributes created for sku DP90-MC
+WARNING:No datetime Attributes created for sku DP90-SB
+WARNING:No datetime Attributes created for sku DP90S-PE
+WARNING:No datetime Attributes created for sku F-120-SB
+WARNING:No datetime Attributes created for sku F-120-WH
+WARNING:No datetime Attributes created for sku F-120R-PE
+WARNING:No datetime Attributes created for sku F-120R-PR
+WARNING:No datetime Attributes created for sku F-120R-PW
+WARNING:No datetime Attributes created for sku FANTOM-G6
+WARNING:No datetime Attributes created for sku FB-2
+WARNING:No datetime Attributes created for sku FD-8
+WARNING:No datetime Attributes created for sku FP-50-BK
+WARNING:No datetime Attributes created for sku FP-50-WH
+WARNING:No datetime Attributes created for sku FP-80-BK
+WARNING:No datetime Attributes created for sku FP-80-WH
+WARNING:No datetime Attributes created for sku FR-18_D_BK
+WARNING:No datetime Attributes created for sku FR-18_D_RD
+WARNING:No datetime Attributes created for sku FR-1XB_BK
+WARNING:No datetime Attributes created for sku FR-1XB_RD
+WARNING:No datetime Attributes created for sku FR-1X_BK
+WARNING:No datetime Attributes created for sku FR-1X_RD
+WARNING:No datetime Attributes created for sku FR-3XB_BK
+WARNING:No datetime Attributes created for sku FR-3X_BK
+WARNING:No datetime Attributes created for sku FR-3X_WH
+WARNING:No datetime Attributes created for sku FR-7XB_BK
+WARNING:No datetime Attributes created for sku FR-7XB_WH
+WARNING:No datetime Attributes created for sku FR-7X_BK
+WARNING:No datetime Attributes created for sku FR-7X_RED
+WARNING:No datetime Attributes created for sku FR-7X_WH
+WARNING:No datetime Attributes created for sku FR-8X-BK
+WARNING:No datetime Attributes created for sku FR-8X-RD
+WARNING:No datetime Attributes created for sku FR-8XB-BK
+WARNING:No datetime Attributes created for sku FR-8XB-RD
+WARNING:No datetime Attributes created for sku FRV-1
+WARNING:No datetime Attributes created for sku FS-5L
+WARNING:No datetime Attributes created for sku FS-5U
+WARNING:No datetime Attributes created for sku FS-6
+WARNING:No datetime Attributes created for sku FV-500H
+WARNING:No datetime Attributes created for sku FV-500L
+WARNING:No datetime Attributes created for sku G-5-3TS
+WARNING:No datetime Attributes created for sku G-5-BLK
+WARNING:No datetime Attributes created for sku G-5A-CAR
+WARNING:No datetime Attributes created for sku GA-112
+WARNING:No datetime Attributes created for sku GA-212
+WARNING:No datetime Attributes created for sku GA-FC
+WARNING:No datetime Attributes created for sku GC-1-BLK
+WARNING:No datetime Attributes created for sku GE-7
+WARNING:No datetime Attributes created for sku GP-7-PE
+WARNING:No datetime Attributes created for sku GR-55GK-BK
+WARNING:No datetime Attributes created for sku GR-55S
+WARNING:No datetime Attributes created for sku GR-55S-BK
+WARNING:No datetime Attributes created for sku GW-8E
+WARNING:No datetime Attributes created for sku GW-8L
+WARNING:No datetime Attributes created for sku HP503-RWA
+WARNING:No datetime Attributes created for sku HP503-SBA
+WARNING:No datetime Attributes created for sku HP505-PEA
+WARNING:No datetime Attributes created for sku HP505-RWA
+WARNING:No datetime Attributes created for sku HP505-SBA
+WARNING:No datetime Attributes created for sku HP507-PEA
+WARNING:No datetime Attributes created for sku HP507-RWA
+WARNING:No datetime Attributes created for sku HP507-SBA
+WARNING:No datetime Attributes created for sku HPI-50-RW
+WARNING:No datetime Attributes created for sku HPI-6F-RWA
+WARNING:No datetime Attributes created for sku HPI-6F-SBA
+WARNING:No datetime Attributes created for sku HPI-7F-RWA
+WARNING:No datetime Attributes created for sku HPI-7F-SBA
+WARNING:No datetime Attributes created for sku JC-120B
+WARNING:No datetime Attributes created for sku JM-5
+WARNING:No datetime Attributes created for sku JM-8
+WARNING:No datetime Attributes created for sku JS-10
+WARNING:No datetime Attributes created for sku K-RD700GX1
+WARNING:No datetime Attributes created for sku KC-110_N
+WARNING:No datetime Attributes created for sku KC-150_N
+WARNING:No datetime Attributes created for sku KD-120BKJ
+WARNING:No datetime Attributes created for sku KD-140
+WARNING:No datetime Attributes created for sku KD-140-BC
+WARNING:No datetime Attributes created for sku KD-85BK
+WARNING:No datetime Attributes created for sku KD-9
+WARNING:No datetime Attributes created for sku KS-18Z
+WARNING:No datetime Attributes created for sku KS-G8
+WARNING:No datetime Attributes created for sku KS-J8
+WARNING:No datetime Attributes created for sku KS-STG8
+WARNING:No datetime Attributes created for sku KS-V8
+WARNING:No datetime Attributes created for sku KSC-44-BKJ
+WARNING:No datetime Attributes created for sku KSC-44-WHJ
+WARNING:No datetime Attributes created for sku LX-15-PE
+WARNING:No datetime Attributes created for sku LX-15-PW
+WARNING:No datetime Attributes created for sku MCB-RXE
+WARNING:No datetime Attributes created for sku MCUBE-RXE
+WARNING:No datetime Attributes created for sku MDH-12
+WARNING:No datetime Attributes created for sku MDH-25
+WARNING:No datetime Attributes created for sku MDP-7
+WARNING:No datetime Attributes created for sku MDY-12
+WARNING:No datetime Attributes created for sku MDY-25
+ITIME:900 - 64.48232293129 - 5.720999956131
+DBTIME:18732 - 8.2483222484589 - 0.63129115104675 - 18732
+WARNING:No datetime Attributes created for sku ME-50B
+WARNING:No datetime Attributes created for sku ME-70
+WARNING:No datetime Attributes created for sku MO-2
+WARNING:No datetime Attributes created for sku MOBILE-AC
+WARNING:No datetime Attributes created for sku OP-MSA1
+WARNING:No datetime Attributes created for sku OP-R05C
+WARNING:No datetime Attributes created for sku OP-R05S
+WARNING:No datetime Attributes created for sku OP-R26CW
+WARNING:No datetime Attributes created for sku OP-RMP12
+WARNING:No datetime Attributes created for sku PCS-20A
+WARNING:No datetime Attributes created for sku PD-105BKJ
+WARNING:No datetime Attributes created for sku PD-105X
+WARNING:No datetime Attributes created for sku PD-108-BC
+WARNING:No datetime Attributes created for sku PD-125BKJ
+WARNING:No datetime Attributes created for sku PD-125X
+WARNING:No datetime Attributes created for sku PD-125XS
+WARNING:No datetime Attributes created for sku PD-128-BC
+WARNING:No datetime Attributes created for sku PD-128S-BC
+WARNING:No datetime Attributes created for sku PD-85BK
+WARNING:No datetime Attributes created for sku PDX-100
+WARNING:No datetime Attributes created for sku PDX-6
+WARNING:No datetime Attributes created for sku PDX-8
+WARNING:No datetime Attributes created for sku PK-25A
+WARNING:No datetime Attributes created for sku PK-5A
+WARNING:No datetime Attributes created for sku PK-6
+WARNING:No datetime Attributes created for sku PK-9
+WARNING:No datetime Attributes created for sku PM-03
+WARNING:No datetime Attributes created for sku PM-30
+WARNING:No datetime Attributes created for sku R-26
+WARNING:No datetime Attributes created for sku R-MIX
+WARNING:No datetime Attributes created for sku R-MIX_TAB
+WARNING:No datetime Attributes created for sku RC-505
+WARNING:No datetime Attributes created for sku RD-64
+WARNING:No datetime Attributes created for sku RG-3F-PE
+WARNING:No datetime Attributes created for sku RH-A7-BK
+WARNING:No datetime Attributes created for sku RH-A7-RD
+WARNING:No datetime Attributes created for sku RH-A7-WH
+WARNING:No datetime Attributes created for sku RMP-12
+WARNING:No datetime Attributes created for sku RMP-5A
+WARNING:No datetime Attributes created for sku RP301-RW
+WARNING:No datetime Attributes created for sku RP301-SB
+WARNING:No datetime Attributes created for sku RP301R-RW
+WARNING:No datetime Attributes created for sku RP301R-WH
+WARNING:No datetime Attributes created for sku RPU-3
+WARNING:No datetime Attributes created for sku RT-10K
+WARNING:No datetime Attributes created for sku RT-10S
+WARNING:No datetime Attributes created for sku RT-10T
+WARNING:No datetime Attributes created for sku SD-2U
+WARNING:No datetime Attributes created for sku SD-SH01
+WARNING:No datetime Attributes created for sku SONAR-X2-ESSENTIAL
+WARNING:No datetime Attributes created for sku SONAR-X2-STUDIO
+WARNING:No datetime Attributes created for sku SONAR_X1_PRODUCTIO
+WARNING:No datetime Attributes created for sku SONAR_X2_PRODUCER
+WARNING:No datetime Attributes created for sku SPD-30-BK
+WARNING:No datetime Attributes created for sku SRX-01
+WARNING:No datetime Attributes created for sku SRX-02
+WARNING:No datetime Attributes created for sku SRX-03
+WARNING:No datetime Attributes created for sku SRX-04
+WARNING:No datetime Attributes created for sku SRX-05
+WARNING:No datetime Attributes created for sku SRX-06
+WARNING:No datetime Attributes created for sku SRX-07
+WARNING:No datetime Attributes created for sku SRX-08
+WARNING:No datetime Attributes created for sku SRX-09
+WARNING:No datetime Attributes created for sku SRX-10
+WARNING:No datetime Attributes created for sku SRX-11
+WARNING:No datetime Attributes created for sku SRX-12
+WARNING:No datetime Attributes created for sku SS-PC1
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: ST-2</b>, image '/b/o/boss-st-2-power-stack.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku ST-2
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: ST-AX</b>, image '/r/o/roland_st-ax_600x480.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku ST-AX
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: TD-11</b>, image '/r/o/roland_td-11_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku TD-11
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: TD-11K</b>, image '/9/6/96630_l.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku TD-11K
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: TD-15</b>, image '/r/o/roland-td-15-sound-module.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku TD-15
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: TD-15K</b>, image '/t/d/td-15k_kit_gal.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku TD-15K
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: TD-15KV</b>, image '/t/d/td-15kv_kit_gal.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku TD-15KV
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: TD-30</b>, image '/r/o/roland-v-drums-td-30k-v-pro-electronic-drum--4feb882445b44f4af1a2_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku TD-30
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: TD-30K</b>, image '/t/d/td-30k_kit_gal_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku TD-30K
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: TD-30KV</b>, image '/r/o/roland-td30kv.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku TD-30KV
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: TD-4KP</b>, image '/t/d/td-4kp_kit_mesh_snare_gal.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku TD-4KP
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: TDM-1</b>, image '/t/d/tdm-1_f_075_fnl.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku TDM-1
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: TE-2</b>, image '/p/m/pmtonline-boss-st99921-31.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku TE-2
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: TU-10</b>, image '/t/u/tu-10_silver_angle_gal.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku TU-10
+WARNING:No datetime Attributes created for sku TU-12BW
+WARNING:No datetime Attributes created for sku TU-12EX
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: TU-3</b>, image '/b/o/boss-tu2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku TU-3
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: TU-80-WHE</b>, image '/t/u/tu-80-wh.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku TU-80-WHE
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: UA-1010</b>, image '/7/8/78369_l.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku UA-1010
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: UA-11_MK2</b>, image '/d/u/duo_capture_mk2_top_gal-addb3786ac240463a215b8944a073910.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku UA-11_MK2
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: UA-1610</b>, image '/r/o/rolandua1610.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku UA-1610
+WARNING:No datetime Attributes created for sku UM-ONE
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: UM-ONE-MKII</b>, image '/u/m/um-one_mk2_angle_gal.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku UM-ONE-MKII
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: V-PIA0</b>, image '/r/o/roland-v-piano.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku V-PIA0
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: VB-99</b>, image '/v/b/vb-99_1-big.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku VB-99
+WARNING:No datetime Attributes created for sku VH-11
+WARNING:No datetime Attributes created for sku VH-12
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: VH-12-SV</b>, image '/i/m/images_8.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku VH-12-SV
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: VH-13-MG</b>, image '/r/o/roland-vh-13_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku VH-13-MG
+WARNING:No datetime Attributes created for sku VM-RC
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: VP-770</b>, image '/r/o/rolandvp770gal-686x387.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku VP-770
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: VR-700</b>, image '/i/m/images_6.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku VR-700
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: VS-100</b>, image '/t/o/top_l.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku VS-100
+ITIME:1000 - 73.091656923294 - 8.609258890152
+DBTIME:20739 - 9.4092025756836 - 1.1608803272247 - 20739
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: VS-20</b>, image '/7/2/72919_l.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku VS-20
+WARNING:No datetime Attributes created for sku 100700090
+WARNING:No datetime Attributes created for sku JBJRX118SP
+WARNING:No datetime Attributes created for sku JBMTC2P
+WARNING:No datetime Attributes created for sku JBMTC50
+WARNING:No datetime Attributes created for sku JBMTC51
+WARNING:No datetime Attributes created for sku JBPRX618S-XLF
+WARNING:No datetime Attributes created for sku JBSS2BK
+WARNING:No datetime Attributes created for sku JBSS4BK
+WARNING:No datetime Attributes created for sku JB_C1PRO_WH
+WARNING:No datetime Attributes created for sku 008331
+WARNING:No datetime Attributes created for sku 297229
+WARNING:No datetime Attributes created for sku 397228
+WARNING:No datetime Attributes created for sku 397455
+WARNING:No datetime Attributes created for sku 8429
+WARNING:No datetime Attributes created for sku CC112V2
+WARNING:No datetime Attributes created for sku CC115V2
+WARNING:No datetime Attributes created for sku CCM10V2
+WARNING:No datetime Attributes created for sku CCM12V2
+WARNING:No datetime Attributes created for sku CCM15V2
+WARNING:No datetime Attributes created for sku CCW115VE
+WARNING:No datetime Attributes created for sku CMG206CUSBA
+WARNING:No datetime Attributes created for sku CMG3214FXYMMA
+WARNING:No datetime Attributes created for sku 0010004
+WARNING:No datetime Attributes created for sku 0010006
+WARNING:No datetime Attributes created for sku 0010007
+WARNING:No datetime Attributes created for sku 0010008
+WARNING:No datetime Attributes created for sku 0012618-90
+WARNING:No datetime Attributes created for sku 0012619-90
+WARNING:No datetime Attributes created for sku 0013733-90
+WARNING:No datetime Attributes created for sku 0013768-90
+WARNING:No datetime Attributes created for sku 0013772-90
+WARNING:No datetime Attributes created for sku 0017844-90
+WARNING:No datetime Attributes created for sku 0018509
+WARNING:No datetime Attributes created for sku 0018510
+WARNING:No datetime Attributes created for sku 0018511
+WARNING:No datetime Attributes created for sku 0018512
+WARNING:No datetime Attributes created for sku 0018513
+WARNING:No datetime Attributes created for sku 0018514
+WARNING:No datetime Attributes created for sku 0018515
+WARNING:No datetime Attributes created for sku 0018516
+WARNING:No datetime Attributes created for sku 0018517
+WARNING:No datetime Attributes created for sku 0018518
+WARNING:No datetime Attributes created for sku 0018519
+WARNING:No datetime Attributes created for sku 0018520
+WARNING:No datetime Attributes created for sku 0027773-90
+WARNING:No datetime Attributes created for sku 0027774-90
+WARNING:No datetime Attributes created for sku 0027777-90
+WARNING:No datetime Attributes created for sku 0027778-90
+WARNING:No datetime Attributes created for sku 0029899-90
+WARNING:No datetime Attributes created for sku 0031667
+WARNING:No datetime Attributes created for sku 0031668
+WARNING:No datetime Attributes created for sku 2034736-01-90
+WARNING:No datetime Attributes created for sku 2034800-01-90
+WARNING:No datetime Attributes created for sku 2037634-90
+WARNING:No datetime Attributes created for sku 2038059-90
+WARNING:No datetime Attributes created for sku 2038062-90
+WARNING:No datetime Attributes created for sku 2038843-90
+WARNING:No datetime Attributes created for sku 2038844-90
+WARNING:No datetime Attributes created for sku 2038845-90
+WARNING:No datetime Attributes created for sku 2038846-90
+WARNING:No datetime Attributes created for sku 2038847-90
+WARNING:No datetime Attributes created for sku 2038848-90
+WARNING:No datetime Attributes created for sku 2038849-90
+WARNING:No datetime Attributes created for sku 2039170
+WARNING:No datetime Attributes created for sku 2039171
+WARNING:No datetime Attributes created for sku 2039172
+WARNING:No datetime Attributes created for sku 2039173
+WARNING:No datetime Attributes created for sku 2039174
+WARNING:No datetime Attributes created for sku 2039175
+WARNING:No datetime Attributes created for sku 2039176
+WARNING:No datetime Attributes created for sku 2039177
+WARNING:No datetime Attributes created for sku 2039178
+WARNING:No datetime Attributes created for sku 2039727
+WARNING:No datetime Attributes created for sku 2039728
+WARNING:No datetime Attributes created for sku 2039729
+WARNING:No datetime Attributes created for sku 2039730
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40140</b>, image '/4/0/40140_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40140
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40150</b>, image '/4/0/40150_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40150
+WARNING:No datetime Attributes created for sku 40500
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40540</b>, image '/4/0/40540_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40540
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40855</b>, image '/4/0/40855_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40855
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40860</b>, image '/4/0/40860_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40860
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40876</b>, image '/4/0/40876_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40876
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40950</b>, image '/4/0/40950_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40950
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40951</b>, image '/4/0/40951_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40951
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40952</b>, image '/4/0/40951_large_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40952
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40953</b>, image '/4/0/40953_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40953
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40954</b>, image '/4/0/40953_large_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40954
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40955</b>, image '/4/0/40955_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40955
+WARNING:No datetime Attributes created for sku 40956
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40957</b>, image '/4/0/40957_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40957
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40958</b>, image '/4/0/40958_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40958
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40959</b>, image '/4/0/40959_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40959
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40960</b>, image '/4/0/40960_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40960
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40961</b>, image '/4/0/40961_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40961
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40962</b>, image '/4/0/40962_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40962
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40963</b>, image '/4/0/40963_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40963
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40964</b>, image '/4/0/40964_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40964
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 40965</b>, image '/4/0/40965_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 40965
+ITIME:1100 - 82.780026912689 - 9.6882610321045
+DBTIME:22738 - 10.526977539062 - 1.1177749633789 - 22738
+WARNING:No datetime Attributes created for sku 40966
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 41250</b>, image '/4/1/41250_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 41250
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 41450</b>, image '/4/1/41450_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 41450
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 41460</b>, image '/4/1/41460_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 41460
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 42640</b>, image '/4/2/42640_original.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 42640
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 42650</b>, image '/4/2/42650_original.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 42650
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 43010</b>, image '/4/3/43010_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 43010
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 44140</b>, image '/4/4/44140_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 44140
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 44150</b>, image '/4/4/44150_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 44150
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 44640</b>, image '/4/4/44640_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 44640
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 44650</b>, image '/4/4/44650_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 44650
+WARNING:No datetime Attributes created for sku 47250
+WARNING:No datetime Attributes created for sku 47350
+WARNING:No datetime Attributes created for sku 47600
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 47604</b>, image '/4/7/47604_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 47604
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 47610</b>, image '/4/7/47610_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 47610
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 47611</b>, image '/4/7/47611_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 47611
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 47620</b>, image '/4/7/47620_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 47620
+WARNING:No datetime Attributes created for sku 47664
+WARNING:No datetime Attributes created for sku 47674
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 47840</b>, image '/4/7/47840_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 47840
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 47860</b>, image '/4/7/47860_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 47860
+WARNING:No datetime Attributes created for sku 47870
+WARNING:No datetime Attributes created for sku 47871
+WARNING:No datetime Attributes created for sku 47872
+WARNING:No datetime Attributes created for sku 47880
+WARNING:No datetime Attributes created for sku 47884
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 47905</b>, image '/4/7/47905_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 47905
+WARNING:No datetime Attributes created for sku 47944
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 47946</b>, image '/4/7/47946_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 47946
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 47947</b>, image '/4/7/47947_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 47947
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 47948</b>, image '/4/7/47948_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 47948
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 47970</b>, image '/4/7/47970_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 47970
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 47971</b>, image '/4/7/47971_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 47971
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 47972</b>, image '/4/7/47972_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 47972
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 47973</b>, image '/4/7/47973_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 47973
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 47974</b>, image '/4/7/47974_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 47974
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 47975</b>, image '/4/7/47975_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 47975
+WARNING:No datetime Attributes created for sku 47976
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 48450</b>, image '/4/8/48450_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 48450
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 48455</b>, image '/4/8/48455_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 48455
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 48550</b>, image '/4/8/48550_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 48550
+WARNING:No datetime Attributes created for sku 48650
+WARNING:No datetime Attributes created for sku 49797
+WARNING:No datetime Attributes created for sku 49798
+WARNING:No datetime Attributes created for sku 49799
+WARNING:No datetime Attributes created for sku 60638
+WARNING:No datetime Attributes created for sku 60642
+WARNING:No datetime Attributes created for sku 60643
+WARNING:No datetime Attributes created for sku 60647
+WARNING:No datetime Attributes created for sku 60651
+WARNING:No datetime Attributes created for sku 60652
+WARNING:No datetime Attributes created for sku 60654
+WARNING:No datetime Attributes created for sku 60658
+WARNING:No datetime Attributes created for sku 60659
+WARNING:No datetime Attributes created for sku 60661
+WARNING:No datetime Attributes created for sku 60666
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 71017</b>, image '/7/1/71017_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 71017
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 71116</b>, image '/7/1/71116_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 71116
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 71117</b>, image '/7/1/71117_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 71117
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 71516</b>, image '/7/1/71516_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 71516
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 71517</b>, image '/7/1/71517_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 71517
+WARNING:No datetime Attributes created for sku 71717
+WARNING:No datetime Attributes created for sku 71818
+WARNING:No datetime Attributes created for sku 71819
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 75521</b>, image '/7/5/75521_large.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:No datetime Attributes created for sku 75521
+WARNING:No datetime Attributes created for sku 997107-0000-90
+WARNING:No datetime Attributes created for sku 997107-90
+ITIME:1167 - 90.012167930603 - 7.2320668697357
+DBTIME:24294 - 11.50288438797 - 0.97590684890747 - 24294
+SUCCESS:Skus imported OK:1167/1167
+INFO:Import Report Mail Notifier v1.0.0 - Sending report to : tecnico@theetailers.com ([DEV][microfusa] Hermes Super report)
+DEBUG:Strategy websites (Lexical_Websites) is not implemented for the lexical analizer <br>Strategy attribute_set (Lexical_AttributeSetSuper) is not implemented for the lexical analizer <br>Strategy sku (Lexical_SkuSuper) is not implemented for the lexical analizer <br>Strategy has_options (Lexical_HasOptions) is not implemented for the lexical analizer <br>Strategy manufacturer (Lexical_Manufacturer) is not implemented for the lexical analizer <br>Strategy enable_googlecheckout (Lexical_EnableGooglecheckout) is not implemented for the lexical analizer <br>Strategy home_page_featured (Lexical_HomePageFeatured) is not implemented for the lexical analizer <br>Strategy pack (Lexical_Pack) is not implemented for the lexical analizer <br>Strategy delivery (Lexical_Delivery) is not implemented for the lexical analizer <br>Strategy home_category (Lexical_HomeCategory) is not implemented for the lexical analizer <br>Strategy newsletter (Lexical_Newsletter) is not implemented for the lexical analizer <br>Strategy auto_outstock (Lexical_AutoOutstock) is not implemented for the lexical analizer <br>Strategy auto_instock (Lexical_AutoInstock) is not implemented for the lexical analizer <br>Strategy automatic_stock (Lexical_AutomaticStock) is not implemented for the lexical analizer <br>Strategy tiendas_externas (Lexical_TiendasExternas) is not implemented for the lexical analizer <br>Strategy bss_weight (Lexical_BssWeight) is not implemented for the lexical analizer <br>Strategy newsletter2 (Lexical_Newsletter2) is not implemented for the lexical analizer <br>Strategy newsletter3 (Lexical_Newsletter3) is not implemented for the lexical analizer <br>Strategy is_recurring (Lexical_IsRecurring) is not implemented for the lexical analizer <br>Strategy category_featured (Lexical_CategoryFeatured) is not implemented for the lexical analizer <br>Strategy auto_instock_proveidor (Lexical_AutoInstockProveidor) is not implemented for the lexical analizer <br>Strategy name (Lexical_NameSuper) is not implemented for the lexical analizer <br>Strategy meta_title (Lexical_MetaTitle) is not implemented for the lexical analizer <br>Strategy meta_description (Lexical_MetaDescription) is not implemented for the lexical analizer <br>Strategy small_image (Lexical_SmallImage) is not implemented for the lexical analizer <br>Strategy thumbnail (Lexical_Thumbnail) is not implemented for the lexical analizer <br>Strategy gallery (Lexical_Gallery) is not implemented for the lexical analizer <br>Strategy url_key (Lexical_UrlKey) is not implemented for the lexical analizer <br>Strategy url_path (Lexical_UrlPath) is not implemented for the lexical analizer <br>Strategy custom_design (Lexical_CustomDesign) is not implemented for the lexical analizer <br>Strategy page_layout (Lexical_PageLayout) is not implemented for the lexical analizer <br>Strategy options_container (Lexical_OptionsContainer) is not implemented for the lexical analizer <br>Strategy image_label (Lexical_ImageLabel) is not implemented for the lexical analizer <br>Strategy small_image_label (Lexical_SmallImageLabel) is not implemented for the lexical analizer <br>Strategy thumbnail_label (Lexical_ThumbnailLabel) is not implemented for the lexical analizer <br>Strategy gift_message_available (Lexical_GiftMessageAvailable) is not implemented for the lexical analizer <br>Strategy nombre_sage (Lexical_NombreSage) is not implemented for the lexical analizer <br>Strategy com_store (Lexical_ComStore) is not implemented for the lexical analizer <br>Strategy com_idwholesaler (Lexical_ComIdwholesaler) is not implemented for the lexical analizer <br>Strategy country_of_manufacture (Lexical_CountryOfManufacture) is not implemented for the lexical analizer <br>Strategy msrp_enabled (Lexical_MsrpEnabled) is not implemented for the lexical analizer <br>Strategy msrp_display_actual_price_type (Lexical_MsrpDisplayActualPriceType) is not implemented for the lexical analizer <br>Strategy price (Lexical_PriceSuper) is not implemented for the lexical analizer <br>Strategy cost (Lexical_Cost) is not implemented for the lexical analizer <br>Strategy msrp (Lexical_Msrp) is not implemented for the lexical analizer <br>Strategy meta_keyword (Lexical_MetaKeyword) is not implemented for the lexical analizer <br>Strategy custom_layout_update (Lexical_CustomLayoutUpdate) is not implemented for the lexical analizer <br>Strategy meta_robots (Lexical_MetaRobots) is not implemented for the lexical analizer <br>Strategy special_from_date (Lexical_SpecialFromDate) is not implemented for the lexical analizer <br>Strategy special_to_date (Lexical_SpecialToDate) is not implemented for the lexical analizer <br>Strategy news_from_date (Lexical_NewsFromDate) is not implemented for the lexical analizer <br>Strategy news_to_date (Lexical_NewsToDate) is not implemented for the lexical analizer <br>Strategy custom_design_from (Lexical_CustomDesignFrom) is not implemented for the lexical analizer <br>Strategy custom_design_to (Lexical_CustomDesignTo) is not implemented for the lexical analizer <br>Strategy qty (Lexical_QtySuper) is not implemented for the lexical analizer <br>Strategy min_qty (Lexical_MinQty) is not implemented for the lexical analizer <br>Strategy use_config_min_qty (Lexical_UseConfigMinQty) is not implemented for the lexical analizer <br>Strategy is_qty_decimal (Lexical_IsQtyDecimal) is not implemented for the lexical analizer <br>Strategy backorders (Lexical_Backorders) is not implemented for the lexical analizer <br>Strategy use_config_backorders (Lexical_UseConfigBackorders) is not implemented for the lexical analizer <br>Strategy min_sale_qty (Lexical_MinSaleQty) is not implemented for the lexical analizer <br>Strategy use_config_min_sale_qty (Lexical_UseConfigMinSaleQty) is not implemented for the lexical analizer <br>Strategy max_sale_qty (Lexical_MaxSaleQty) is not implemented for the lexical analizer <br>Strategy use_config_max_sale_qty (Lexical_UseConfigMaxSaleQty) is not implemented for the lexical analizer <br>Strategy is_in_stock (Lexical_IsInStock) is not implemented for the lexical analizer <br>Strategy low_stock_date (Lexical_LowStockDate) is not implemented for the lexical analizer <br>Strategy notify_stock_qty (Lexical_NotifyStockQty) is not implemented for the lexical analizer <br>Strategy use_config_notify_stock_qty (Lexical_UseConfigNotifyStockQty) is not implemented for the lexical analizer <br>Strategy manage_stock (Lexical_ManageStock) is not implemented for the lexical analizer <br>Strategy use_config_manage_stock (Lexical_UseConfigManageStock) is not implemented for the lexical analizer <br>Strategy stock_status_changed_auto (Lexical_StockStatusChangedAuto) is not implemented for the lexical analizer <br>Strategy use_config_qty_increments (Lexical_UseConfigQtyIncrements) is not implemented for the lexical analizer <br>Strategy qty_increments (Lexical_QtyIncrements) is not implemented for the lexical analizer <br>Strategy use_config_enable_qty_inc (Lexical_UseConfigEnableQtyInc) is not implemented for the lexical analizer <br>Strategy enable_qty_increments (Lexical_EnableQtyIncrements) is not implemented for the lexical analizer <br>Strategy is_decimal_divided (Lexical_IsDecimalDivided) is not implemented for the lexical analizer <br>Strategy stock_status_changed_automatically (Lexical_StockStatusChangedAutomatically) is not implemented for the lexical analizer <br>Strategy use_config_enable_qty_increments (Lexical_UseConfigEnableQtyIncrements) is not implemented for the lexical analizer <br>Strategy product_name (Lexical_ProductName) is not implemented for the lexical analizer <br>Strategy store_id (Lexical_StoreId) is not implemented for the lexical analizer <br>Strategy product_type_id (Lexical_ProductTypeId) is not implemented for the lexical analizer <br>Strategy product_status_changed (Lexical_ProductStatusChanged) is not implemented for the lexical analizer <br>Strategy product_changed_websites (Lexical_ProductChangedWebsites) is not implemented for the lexical analizer <br>Strategy stock_proveidor (Lexical_StockProveidor) is not implemented for the lexical analizer <br>Strategy cod_proveidor (Lexical_CodProveidor) is not implemented for the lexical analizer <br>Strategy codi_ean (Lexical_CodiEan) is not implemented for the lexical analizer <br>Strategy attribute_set (Semantic_AttributeSetSuper) is not implemented for the semantic analizer <br>Strategy sku (Semantic_SkuSuper) is not implemented for the semantic analizer <br>Strategy tax_class_id (Semantic_TaxClassIdSuper) is not implemented for the semantic analizer <br>Strategy image (Semantic_ImageSuper) is not implemented for the semantic analizer <br>Strategy price (Semantic_PriceSuper) is not implemented for the semantic analizer <br>

@@ -1,0 +1,23 @@
+You need to install phpunit and test_helpers extension in order to execute the tests.
+INSTALLATION INSTRUCTIONS:
+pear channel-discover pear.phpunit.de
+pear install phpunit/PHPUnit
+pecl install phpunit/test_helpers
+
+You need to enable the test_helpers extension on your php.ini file. (extension=test_helpers.so)
+Note: If you are using xdebug extension, you might need to add the following line AFTER loading xdebug extension:
+zend_extension=/full/path/to/test_helpers.so
+
+In order to get the semantic integration tests working you need to import the create_database.sql file. (TBD).
+
+In order to generate a coverage report, run the following command:
+phpunit --coverage-html ./report .
+
+In order to run separated testsuites, you can run:
+sh run_tests.sh
+
+In order to add a pre-commit hook to prevent commits that would break the tests:
+1. Go to hermes root
+2. Create a symlink on the hooks folder pointing to the test runner:
+    ln -s ../../tests/run_tests.sh .git/hooks/pre-commit
+3. You are done, now before you can commit all the tests will be executed no test can fail.

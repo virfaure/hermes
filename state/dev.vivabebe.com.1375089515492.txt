@@ -1,0 +1,345 @@
+DEBUG:Running lexical analyzer: update  on file: /var/www/vivabebe/hermes/upload/proveidors_enric.csv
+DEBUG:Running semantic analyzer update
+SUCCESS:The lexical analysis has successfully passed all validations for the update profile.<br>Time taken: 0.076514005661011 seconds<br>The semantic analysis has successfully passed all validations for the update profile.<br>Time taken: 0.042249917984009 seconds<br>
+DEBUG:Importing...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Import Report Mail Notifier-1.0.0-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Import_report_mail_notifier 
+PLUGINHELLO:Magmi Optimizer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Optimizer 
+PLUGINHELLO:Automatic Product Processor-0.0.1-Javier- 
+PLUGINHELLO:On the fly category creator/importer-0.1.7-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_category_creator/importer 
+PLUGINHELLO:Image attributes processor-1.0.22-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Image_attributes_processor 
+STD:Image attributes processor v1.0.22 - IMG SOURCE FOLDER:../ftp/media
+PLUGINHELLO:On the fly indexer-0.1.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_indexer 
+PLUGINHELLO:Generic mapper-0.0.6a-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Generic_mapper 
+PLUGINHELLO:Configurable Item processor-1.3.6-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Configurable_Item_processor 
+PLUGINHELLO:Cross/Upsell Importer-1.0.3-Dweeves-https://sourceforge.net/apps/mediawiki/magmi/index.php?title=Cross/Upsell_Importer 
+PLUGINHELLO:Product relater-1.0.3-Dweeves,jwtechniek-https://sourceforge.net/apps/mediawiki/magmi/index.php?title=Product_relater 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:100 - 7.0398328304291 - 7.0398328304291
+DBTIME:1876 - 1.390617609024 - 1.390617609024 - 1876
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BLE10508 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BLE10513 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BLE10310 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BLE10707 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BLE10300 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BLE10703 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BLE10702 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BLE10701 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BLE10602 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BLE10311 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BLE10608 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BLE10305 cannot link simples.
+ITIME:200 - 14.332124948502 - 7.2922189235687
+DBTIME:3479 - 2.7478227615356 - 1.3572051525116 - 3479
+ITIME:300 - 21.873170852661 - 7.5409760475159
+DBTIME:5379 - 4.2807569503784 - 1.5329341888428 - 5379
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: KK92700 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: LAS26 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: MIMS1101 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: MIN1101 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: MIN0803 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: J3683 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: J 368377 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 1000 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: PA6049 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: PA6035 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: PA6020 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: PA6032 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: PA6055 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: PA60 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: PA-60 cannot link simples.
+ITIME:400 - 28.055979967117 - 6.1826980113983
+DBTIME:6929 - 5.250462770462 - 0.96970582008362 - 6929
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: PA603 cannot link simples.
+ITIME:500 - 36.158808946609 - 8.1027071475983
+DBTIME:8759 - 6.7366187572479 - 1.4861559867859 - 8759
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX5132020 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX5132020- cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX5131020 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX5131050 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX5131190 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX5131090 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX5131110 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX5131150 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX5121170 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX51330200 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX51330300 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX5133010 cannot link simples.
+ITIME:600 - 43.894623994827 - 7.7356221675873
+DBTIME:10139 - 7.6046724319458 - 0.86805367469788 - 10139
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX51330400 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX51320600 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX5132040 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX5122070 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CYBEX5132070 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: PLAY106450 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: PLAY106161 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL106502 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL106460 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL705106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL116106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL115106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL106111 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL118106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL106046 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL630106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUALPLAY350106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL805106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL106209 cannot link simples.
+ITIME:700 - 50.003347873688 - 6.1086339950562
+DBTIME:11415 - 8.1329429149628 - 0.52827048301697 - 11415
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL106212 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL885106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL215106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL886106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL806106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL105702 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL010106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL750106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL106741501 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUAL106841-501 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CASUALPLAY106846-501 cannot link simples.
+ITIME:800 - 57.548202991486 - 7.5447790622711
+DBTIME:12873 - 9.2090699672699 - 1.0761270523071 - 12873
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC106209 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC106105 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC106111 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC116106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC118106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC750106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC106870 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC106876 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC106460 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC108145 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC30260 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC30182 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC66201M cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC66202 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC66100 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC66175 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: DESC66185 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 856106 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 66300 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 2000371 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: PLAY144 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 90007PLAY cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 200147 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 32681 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL452 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL812 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL459 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL447 cannot link simples.
+ITIME:900 - 63.998371839523 - 6.4500448703766
+DBTIME:14481 - 10.064233779907 - 0.85516381263733 - 14481
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL890 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL833 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL850 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL855 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL856 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL870 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL871 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL874 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL759 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL763PG cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL754PG cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL755 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL834 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL227 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL822 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL825 cannot link simples.
+ITIME:1000 - 70.916613817215 - 6.9181649684906
+DBTIME:15849 - 11.009146928787 - 0.94491314888 - 15849
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 580311 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 85300 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 80210 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 581313 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 580311- cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BUG580311- cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CAM868 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CAM896 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CAM887 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CAM891 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CAM-848 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CAM 888 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CAM 898 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: CAM- S344 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: NE09 cannot link simples.
+ITIME:1100 - 77.493795871735 - 6.5771079063416
+DBTIME:17221 - 11.770150899887 - 0.76100397109985 - 17221
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: QX093 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: NASC09 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: HMO093 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: HDV093 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: FU09 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: FASL09 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: WD09 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: HDV0-93 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: AI-093 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: TFM93 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0010 cannot link simples.
+ITIME:1200 - 83.999037027359 - 6.5051112174988
+DBTIME:18543 - 12.629437685013 - 0.85928678512573 - 18543
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 2224 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 5220 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 5246 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 5247 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 5248 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 6242 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 6829 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 6614 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 060241 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JAN2144 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JAN5138 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JAN5264 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JAN5266 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JAN3502 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE5319 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE5320 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE5318 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JAN6431 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JAN5333 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JAN5330 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JAN5331 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE5317 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE4560 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE4555 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE6427 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE4554 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE4559 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE2180 cannot link simples.
+ITIME:1300 - 91.936272859573 - 7.9371130466461
+DBTIME:20087 - 13.73755979538 - 1.1081221103668 - 20087
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE2181 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE2286 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE2287 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE5311 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE5312 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE4558 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE5313 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JAN4561 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE5324 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE5325 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE5326 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE5327 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE5328 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE 5329 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JAN5332 cannot link simples.
+ITIME:1400 - 97.829855918884 - 5.8934609889984
+DBTIME:21315 - 14.194041728973 - 0.45648193359375 - 21315
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE2288 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE6280 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE6277 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE6240 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE6202 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE6111 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE6620 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE6603 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE 6429 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE6423 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE6424 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE6125 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE6827 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE6010 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE6834 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE6268 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE60243 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE60241 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE60242 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE80477 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE80250 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE80251 cannot link simples.
+ITIME:1500 - 108.06636881828 - 10.236389875412
+DBTIME:22623 - 14.897940158844 - 0.70389842987061 - 22623
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE80229 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE80145 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE80146 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE50311 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE50305 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE40525 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE40522 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE40311 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE40312 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE40330 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: jane50258 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: JANE50270 cannot link simples.
+ITIME:1600 - 115.26890897751 - 7.2024121284485
+DBTIME:24291 - 16.215223073959 - 1.3172829151154 - 24291
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: MITAYA NIÑO BORLA cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: MITAYA NIÑO BORLA SENTADO BASIC cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: MITAYA NIÑA BASIC cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: MITAYA NIÑO BASIC cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: LIENZO NIÑO SENTADO BASIC cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: LIENZO NIÑA SENTADA BASIC cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: Mitaya60x120 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: Mitaya70x140 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 637 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 820 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 810 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: NUR349 cannot link simples.
+ITIME:1700 - 121.91821694374 - 6.6492381095886
+DBTIME:25603 - 16.799444675446 - 0.58422160148621 - 25603
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: NUR394 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: NUR344 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: NUR397 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: NUR365 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: NUR384 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: NUR224 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: NUR227 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: NUR561 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: NUR242 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: NUR615 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse145 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse148 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse170 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse112 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse126 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse115 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse232 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse224 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse288 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse297 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse294 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse289 cannot link simples.
+ITIME:1800 - 129.51126885414 - 7.5929169654846
+DBTIME:27207 - 17.854452848434 - 1.0550081729889 - 27207
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse713P cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse713S cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse790S cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse770P cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse791S cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: nurse768P cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: red00 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: RED1406 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: MA01 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: RECARO55142 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: RECARO61352 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: RECARO62072 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: RECARO62022 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 61432 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL887 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: BECOOL886 cannot link simples.
+ITIME:1900 - 137.08811092377 - 7.5767180919647
+DBTIME:28571 - 18.668335199356 - 0.81388235092163 - 28571
+ITIME:2000 - 142.91111397743 - 5.8229320049286
+DBTIME:30139 - 19.512849807739 - 0.84451460838318 - 30139
+ITIME:2100 - 149.66872787476 - 6.757542848587
+DBTIME:31847 - 20.872006893158 - 1.3591570854187 - 31847
+ITIME:2200 - 157.22690391541 - 7.557981967926
+DBTIME:33675 - 22.427103281021 - 1.5550963878632 - 33675
+ITIME:2300 - 164.47194981575 - 7.24494099617
+DBTIME:35197 - 23.559606313705 - 1.1325030326843 - 35197
+ITIME:2400 - 173.01603794098 - 8.5439839363098
+DBTIME:36893 - 25.094228744507 - 1.5346224308014 - 36893
+ITIME:2500 - 182.51421189308 - 9.4980680942535
+DBTIME:38685 - 26.582149505615 - 1.4879207611084 - 38685
+ITIME:2570 - 187.3192589283 - 4.8048939704895
+DBTIME:39889 - 27.198724746704 - 0.61657524108887 - 39889
+SUCCESS:Skus imported OK:2570/2570
+INFO:Import Report Mail Notifier v1.0.0 - Sending report to : tecnico@theetailers.com ([DEV][vivabebe] Hermes Update report)
+INFO:Automatic Product Processor v0.0.1 - Automatic Product Processor
+DEBUG:Strategy sku (Lexical_SkuUpdate) is not implemented for the lexical analizer <br>Strategy distribuidor (Lexical_Distribuidor) is not implemented for the lexical analizer <br>

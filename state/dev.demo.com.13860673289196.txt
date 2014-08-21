@@ -1,0 +1,1 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/demo2/hermes/upload/2_Style BARCELONA - Cambra de Comerç de Barcelona - Lista de PRODUCTOS-1.csv

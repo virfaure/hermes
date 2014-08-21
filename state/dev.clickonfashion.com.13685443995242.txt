@@ -1,0 +1,3 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/clickonfashion/hermes/upload/20130513_TORRAS_ok.CSV
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>
+ERROR:Error found at item TORRAS_Y85735:<br>Column: weight, numeric value between 0.001 and 9999, but "0.000000" provided.<br>

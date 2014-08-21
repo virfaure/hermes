@@ -1,0 +1,2 @@
+DEBUG:Running lexical analyzer: super  on file: /var/www/microfusa/hermes/upload/FUSA_products_active.csv
+DEBUG:Running semantic analyzer super

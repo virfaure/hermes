@@ -1,0 +1,15 @@
+DEBUG:Running lexical analyzer
+DEBUG:Running semantic analyzer
+SUCCESS:The lexical analysis has successfully passed all validations for the update profile.<br>Time taken: 0.00039315223693848 seconds<br>The semantic analysis has successfully passed all validations for the update profile.<br>Time taken: 0.00061607360839844 seconds<br>
+DEBUG:Actualizando...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+ERROR:cannot create category id:6, no attribute_set defined
+ERROR:cannot create category id:18, no attribute_set defined
+ITIME:2 - 28.156901836395 - 28.156901836395
+DBTIME:3 - 0.00096631050109863 - 0.00096631050109863 - 3
+SUCCESS:Categories imported OK:0/2
+WARNING:Categories imported KO:2/2

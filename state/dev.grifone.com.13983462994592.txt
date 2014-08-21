@@ -1,0 +1,3 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/grifone/hermes/upload/import_product_vir.csv
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>
+ERROR:Error found at item A4P012D:<br>Column: weight, numeric value between 0 and 9999, but "" provided.<br>

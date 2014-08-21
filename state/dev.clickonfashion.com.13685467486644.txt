@@ -1,0 +1,5 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/clickonfashion/hermes/upload/20130513_TORRAS_okI.csv
+DEBUG:Running lexical analyzer: update  on file: /var/www/clickonfashion/hermes/upload/20130513_TORRAS_okU.csv
+DEBUG:Running semantic analyzer import
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>Strategy sku (Lexical_SkuUpdate) is not implemented for the lexical analizer <br>
+ERROR:Error found at column image<br>Image field can't be empty at product(s) TORRAS_Y87621, TORRAS_B87603, TORRAS_B87605_2360navy, TORRAS_B87605_2475brown, TORRAS_B87607_2311cherry, TORRAS_B87607_2419camel, TORRAS_B87611_7290camel, TORRAS_B87614_7191cherry, TORRAS_B87615_7190navy, TORRAS_B87616_7190navy, TORRAS_B87696_7790black, TORRAS_V85790_4954whisky, TORRAS_Y87626, TORRAS_B83623, TORRAS_B81628, TORRAS_V85790-4953blue, TORRAS_A82819, TORRAS_Y87630, TORRAS_Y87631, TORRAS_Y87632, TORRAS_Y87637, TORRAS_C82504, TORRAS_E89203, TORRAS_E89205, TORRAS_E808S5, TORRAS_A87652R, TORRAS_A47604R, TORRAS_A47612R, TORRAS_A47611R, TORRAS_A27605R, TORRAS_A27601R, TORRAS_A27604R, TORRAS_Y87647, TORRAS_Y87648

@@ -1,0 +1,25 @@
+DEBUG:Running lexical analyzer
+DEBUG:Running semantic analyzer
+SUCCESS:The lexical analysis has successfully passed all validations for the update_category profile.<br>Time taken: 0.02344799041748 seconds<br>The semantic analysis has successfully passed all validations for the update_category profile.<br>Time taken: 0.0015430450439453 seconds<br>
+DEBUG:Actualizando...
+STARTUP:Import Mode:update_category
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+ITIME:100 - 5.6948430538177 - 5.6948430538177
+DBTIME:399 - 0.10846185684204 - 0.10846185684204 - 399
+ITIME:200 - 11.250569105148 - 5.5556461811066
+DBTIME:799 - 0.34673070907593 - 0.23826885223389 - 799
+ITIME:300 - 16.348052978516 - 5.097375869751
+DBTIME:1199 - 0.45058250427246 - 0.10385179519653 - 1199
+ITIME:400 - 20.778239965439 - 4.4301059246063
+DBTIME:1599 - 0.55444836616516 - 0.1038658618927 - 1599
+ITIME:500 - 26.620343923569 - 5.8420248031616
+DBTIME:1999 - 0.78185033798218 - 0.22740197181702 - 1999
+ITIME:600 - 31.358824014664 - 4.7383940219879
+DBTIME:2399 - 0.8926477432251 - 0.11079740524292 - 2399
+ITIME:662 - 35.419176101685 - 4.060268163681
+DBTIME:2651 - 1.2071073055267 - 0.31445956230164 - 2651
+SUCCESS:Categories imported OK:662/662
+WARNING:Strategy url_key (Lexical_UrlKey) is not implemented for the lexical analizer <br>

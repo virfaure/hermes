@@ -1,0 +1,56 @@
+DEBUG:Running lexical analyzer: super  on file: /var/www/accesoriosdecoches2/hermes/upload/2 - Import_Product_Disabled.csv
+DEBUG:Running semantic analyzer super
+SUCCESS:The lexical analysis has successfully passed all validations for the super profile.<br>Time taken: 0.19026303291321 seconds<br>The semantic analysis has successfully passed all validations for the super profile.<br>Time taken: 0.01819896697998 seconds<br>
+DEBUG:Importing...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Import Report Mail Notifier-1.0.0-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Import_report_mail_notifier 
+PLUGINHELLO:Magmi Optimizer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Optimizer 
+PLUGINHELLO:On the fly category creator/importer-0.1.7-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_category_creator/importer 
+PLUGINHELLO:Image attributes processor-1.0.22-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Image_attributes_processor 
+STD:Image attributes processor v1.0.22 - IMG SOURCE FOLDER:../ftp/media
+PLUGINHELLO:On the fly indexer-0.1.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_indexer 
+PLUGINHELLO:Generic mapper-0.0.6a-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Generic_mapper 
+PLUGINHELLO:Configurable Item processor-1.3.6-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Configurable_Item_processor 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:100 - 2.7743489742279 - 2.7743489742279
+DBTIME:2559 - 1.8306243419647 - 1.8306243419647 - 2559
+ITIME:200 - 4.3129570484161 - 1.5384981632233
+DBTIME:5159 - 2.8427248001099 - 1.0121004581451 - 5159
+ITIME:300 - 5.9178130626678 - 1.6047470569611
+DBTIME:7759 - 3.8985042572021 - 1.0557794570923 - 7759
+ITIME:400 - 7.5419800281525 - 1.6240539550781
+DBTIME:10359 - 4.9660348892212 - 1.067530632019 - 10359
+ITIME:500 - 9.237056016922 - 1.694962978363
+DBTIME:12959 - 6.0979962348938 - 1.1319613456726 - 12959
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:531 - 9.8212850093842 - 0.58411312103271
+DBTIME:13872 - 6.4822733402252 - 0.38427710533142 - 13872
+SUCCESS:Skus imported OK:531/531
+INFO:Import Report Mail Notifier v1.0.0 - Sending report to : tecnico@theetailers.com ([DEV][accesoriosdecoches2] Hermes Super report)
+DEBUG:Strategy entity_id (Lexical_EntityId) is not implemented for the lexical analizer <br>Strategy sku (Lexical_SkuSuper) is not implemented for the lexical analizer <br>Strategy name (Lexical_NameSuper) is not implemented for the lexical analizer <br>Strategy attribute_set (Lexical_AttributeSetSuper) is not implemented for the lexical analizer <br>Strategy price (Lexical_PriceSuper) is not implemented for the lexical analizer <br>Strategy qty (Lexical_QtySuper) is not implemented for the lexical analizer <br>Strategy is_in_stock (Lexical_IsInStock) is not implemented for the lexical analizer <br>Strategy barras (Lexical_Barras) is not implemented for the lexical analizer <br>Strategy code_erp (Lexical_CodeErp) is not implemented for the lexical analizer <br>Strategy comision (Lexical_Comision) is not implemented for the lexical analizer <br>Strategy cost (Lexical_Cost) is not implemented for the lexical analizer <br>Strategy diametro (Lexical_Diametro) is not implemented for the lexical analizer <br>Strategy distribuidor (Lexical_Distribuidor) is not implemented for the lexical analizer <br>Strategy fundas_cubrecoches (Lexical_FundasCubrecoches) is not implemented for the lexical analizer <br>Strategy fundas_cubrecoches_premium (Lexical_FundasCubrecochesPremium) is not implemented for the lexical analizer <br>Strategy fundatextil (Lexical_Fundatextil) is not implemented for the lexical analizer <br>Strategy internal_name (Lexical_InternalName) is not implemented for the lexical analizer <br>Strategy longitud (Lexical_Longitud) is not implemented for the lexical analizer <br>Strategy manufacturer (Lexical_Manufacturer) is not implemented for the lexical analizer <br>Strategy medida_cadena_nieve (Lexical_MedidaCadenaNieve) is not implemented for the lexical analizer <br>Strategy parasoles (Lexical_Parasoles) is not implemented for the lexical analizer <br>Strategy product_ean (Lexical_ProductEan) is not implemented for the lexical analizer <br>Strategy product_static_block (Lexical_ProductStaticBlock) is not implemented for the lexical analizer <br>Strategy share (Lexical_Share) is not implemented for the lexical analizer <br>Strategy talla_casco (Lexical_TallaCasco) is not implemented for the lexical analizer <br>Strategy transporte_gratuito (Lexical_TransporteGratuito) is not implemented for the lexical analizer <br>Strategy universal (Lexical_Universal) is not implemented for the lexical analizer <br>Strategy volumen (Lexical_Volumen) is not implemented for the lexical analizer <br>Strategy sku (Semantic_SkuSuper) is not implemented for the semantic analizer <br>Strategy attribute_set (Semantic_AttributeSetSuper) is not implemented for the semantic analizer <br>Strategy price (Semantic_PriceSuper) is not implemented for the semantic analizer <br>Strategy tax_class_id (Semantic_TaxClassIdSuper) is not implemented for the semantic analizer <br>Strategy configurable_attributes (Semantic_ConfigurableAttributesSuper) is not implemented for the semantic analizer <br>

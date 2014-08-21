@@ -1,0 +1,23 @@
+DEBUG:Running lexical analyzer
+DEBUG:Running semantic analyzer
+SUCCESS:The lexical analysis has successfully passed all validations for the update profile.<br>Time taken: 0.048970937728882 seconds<br>The semantic analysis has successfully passed all validations for the update profile.<br>Time taken: 0.049796104431152 seconds<br>
+DEBUG:Actualizando...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+ITIME:100 - 6.9439878463745 - 6.9439878463745
+DBTIME:385 - 0.13905930519104 - 0.13905930519104 - 385
+ITIME:200 - 12.894874811172 - 5.9508028030396
+DBTIME:727 - 0.56879687309265 - 0.42973756790161 - 727
+ITIME:300 - 17.695209026337 - 4.8002550601959
+DBTIME:1030 - 0.6586971282959 - 0.089900255203247 - 1030
+ITIME:400 - 24.239949941635 - 6.5446090698242
+DBTIME:1386 - 0.99726247787476 - 0.33856534957886 - 1386
+ITIME:500 - 30.006283998489 - 5.7662401199341
+DBTIME:1778 - 1.1135947704315 - 0.11633229255676 - 1778
+ITIME:513 - 30.674752950668 - 0.66838812828064
+DBTIME:1826 - 1.1255233287811 - 0.011928558349609 - 1826
+SUCCESS:Categories imported OK:513/513
+WARNING:Strategy category_id (Lexical_CategoryId) is not implemented for the lexical analizer <br>Strategy meta_description (Lexical_MetaDescription) is not implemented for the lexical analizer <br>Strategy meta_keywords (Lexical_MetaKeywords) is not implemented for the lexical analizer <br>Strategy meta_title (Lexical_MetaTitle) is not implemented for the lexical analizer <br>Strategy url_key (Lexical_UrlKey) is not implemented for the lexical analizer <br>Strategy url_path (Lexical_UrlPath) is not implemented for the lexical analizer <br>Strategy category_id (Semantic_CategoryId) is not implemented for the semantic analizer <br>

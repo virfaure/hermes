@@ -1,0 +1,32 @@
+DEBUG:Running lexical analyzer: super  on file: /var/www/accesoriosdecoches2/hermes/upload/Import_Product_Disabled_Without_Category.csv
+DEBUG:Running semantic analyzer super
+SUCCESS:The lexical analysis has successfully passed all validations for the super profile.<br>Time taken: 0.16979813575745 seconds<br>The semantic analysis has successfully passed all validations for the super profile.<br>Time taken: 0.010964870452881 seconds<br>
+DEBUG:Importing...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Import Report Mail Notifier-1.0.0-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Import_report_mail_notifier 
+PLUGINHELLO:Magmi Optimizer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Optimizer 
+PLUGINHELLO:On the fly category creator/importer-0.1.7-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_category_creator/importer 
+PLUGINHELLO:Image attributes processor-1.0.22-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Image_attributes_processor 
+STD:Image attributes processor v1.0.22 - IMG SOURCE FOLDER:../ftp/media
+PLUGINHELLO:On the fly indexer-0.1.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_indexer 
+PLUGINHELLO:Generic mapper-0.0.6a-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Generic_mapper 
+PLUGINHELLO:Configurable Item processor-1.3.6-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Configurable_Item_processor 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+STARTUP:Image attributes processor v1.0.22 - no image attributes found in datasource, disabling image processor
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+ITIME:100 - 1.3792059421539 - 1.3792059421539
+DBTIME:2570 - 0.891117811203 - 0.891117811203 - 2570
+ITIME:200 - 2.905837059021 - 1.5264890193939
+DBTIME:5170 - 1.8992121219635 - 1.0080943107605 - 5170
+ITIME:300 - 4.3487660884857 - 1.4428231716156
+DBTIME:7770 - 2.8388798236847 - 0.93966770172119 - 7770
+ITIME:400 - 5.8604769706726 - 1.5116019248962
+DBTIME:10370 - 3.8239843845367 - 0.98510456085205 - 10370
+ITIME:449 - 6.6286089420319 - 0.76801085472107
+DBTIME:11670 - 4.3304395675659 - 0.50645518302917 - 11670
+SUCCESS:Skus imported OK:449/449
+INFO:Import Report Mail Notifier v1.0.0 - Sending report to : tecnico@theetailers.com ([DEV][accesoriosdecoches2] Hermes Super report)
+DEBUG:Strategy sku (Lexical_SkuSuper) is not implemented for the lexical analizer <br>Strategy name (Lexical_NameSuper) is not implemented for the lexical analizer <br>Strategy attribute_set (Lexical_AttributeSetSuper) is not implemented for the lexical analizer <br>Strategy price (Lexical_PriceSuper) is not implemented for the lexical analizer <br>Strategy qty (Lexical_QtySuper) is not implemented for the lexical analizer <br>Strategy is_in_stock (Lexical_IsInStock) is not implemented for the lexical analizer <br>Strategy barras (Lexical_Barras) is not implemented for the lexical analizer <br>Strategy code_erp (Lexical_CodeErp) is not implemented for the lexical analizer <br>Strategy comision (Lexical_Comision) is not implemented for the lexical analizer <br>Strategy cost (Lexical_Cost) is not implemented for the lexical analizer <br>Strategy diametro (Lexical_Diametro) is not implemented for the lexical analizer <br>Strategy distribuidor (Lexical_Distribuidor) is not implemented for the lexical analizer <br>Strategy fundas_cubrecoches (Lexical_FundasCubrecoches) is not implemented for the lexical analizer <br>Strategy fundas_cubrecoches_premium (Lexical_FundasCubrecochesPremium) is not implemented for the lexical analizer <br>Strategy fundatextil (Lexical_Fundatextil) is not implemented for the lexical analizer <br>Strategy internal_name (Lexical_InternalName) is not implemented for the lexical analizer <br>Strategy longitud (Lexical_Longitud) is not implemented for the lexical analizer <br>Strategy manufacturer (Lexical_Manufacturer) is not implemented for the lexical analizer <br>Strategy medida_cadena_nieve (Lexical_MedidaCadenaNieve) is not implemented for the lexical analizer <br>Strategy parasoles (Lexical_Parasoles) is not implemented for the lexical analizer <br>Strategy product_ean (Lexical_ProductEan) is not implemented for the lexical analizer <br>Strategy product_static_block (Lexical_ProductStaticBlock) is not implemented for the lexical analizer <br>Strategy share (Lexical_Share) is not implemented for the lexical analizer <br>Strategy talla_casco (Lexical_TallaCasco) is not implemented for the lexical analizer <br>Strategy transporte_gratuito (Lexical_TransporteGratuito) is not implemented for the lexical analizer <br>Strategy universal (Lexical_Universal) is not implemented for the lexical analizer <br>Strategy volumen (Lexical_Volumen) is not implemented for the lexical analizer <br>Strategy sku (Semantic_SkuSuper) is not implemented for the semantic analizer <br>Strategy attribute_set (Semantic_AttributeSetSuper) is not implemented for the semantic analizer <br>Strategy price (Semantic_PriceSuper) is not implemented for the semantic analizer <br>Strategy tax_class_id (Semantic_TaxClassIdSuper) is not implemented for the semantic analizer <br>Strategy configurable_attributes (Semantic_ConfigurableAttributesSuper) is not implemented for the semantic analizer <br>

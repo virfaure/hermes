@@ -1,0 +1,4 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/clickonfashion/hermes/upload/MAGMI-import_product_demo.csv
+DEBUG:Running semantic analyzer import
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>
+ERROR:Error found at column categories<br>Every category path must exist, but the following invalid paths were provided: "test / maman","test / papa".

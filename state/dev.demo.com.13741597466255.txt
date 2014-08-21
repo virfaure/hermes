@@ -1,0 +1,4 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/demo2/hermes/upload/test-super.csv
+DEBUG:Running semantic analyzer import
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>
+ERROR:Error found at column configurable_attributes<br>Configurable attribute column can't be empty for the following product: 407

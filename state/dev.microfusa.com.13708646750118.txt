@@ -1,0 +1,23 @@
+DEBUG:Running lexical analyzer
+DEBUG:Running semantic analyzer
+SUCCESS:The lexical analysis has successfully passed all validations for the update profile.<br>Time taken: 0.051963090896606 seconds<br>The semantic analysis has successfully passed all validations for the update profile.<br>Time taken: 0.003856897354126 seconds<br>
+DEBUG:Actualizando...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+ITIME:100 - 5.3377809524536 - 5.3377809524536
+DBTIME:484 - 0.15878534317017 - 0.15878534317017 - 484
+ITIME:200 - 10.927525997162 - 5.5896668434143
+DBTIME:925 - 0.44495558738708 - 0.28617024421692 - 925
+ITIME:300 - 16.052917957306 - 5.1252679824829
+DBTIME:1328 - 0.57198214530945 - 0.12702655792236 - 1328
+ITIME:400 - 20.959979057312 - 4.9069299697876
+DBTIME:1785 - 0.71938157081604 - 0.14739942550659 - 1785
+ITIME:500 - 27.747833013535 - 6.7877180576324
+DBTIME:2277 - 1.4713423252106 - 0.75196075439453 - 2277
+ITIME:512 - 28.533957004547 - 0.78604698181152
+DBTIME:2334 - 1.4843413829803 - 0.012999057769775 - 2334
+SUCCESS:Categories imported OK:512/512
+WARNING:Strategy category_id (Lexical_CategoryId) is not implemented for the lexical analizer <br>Strategy include_in_menu (Lexical_IncludeInMenu) is not implemented for the lexical analizer <br>Strategy is_active (Lexical_IsActive) is not implemented for the lexical analizer <br>Strategy meta_description (Lexical_MetaDescription) is not implemented for the lexical analizer <br>Strategy meta_keywords (Lexical_MetaKeywords) is not implemented for the lexical analizer <br>Strategy meta_title (Lexical_MetaTitle) is not implemented for the lexical analizer <br>Strategy url_key (Lexical_UrlKey) is not implemented for the lexical analizer <br>Strategy url_path (Lexical_UrlPath) is not implemented for the lexical analizer <br>Strategy category_id (Semantic_CategoryId) is not implemented for the semantic analizer <br>

@@ -1,0 +1,4 @@
+DEBUG:Running lexical analyzer: update  on file: /var/www/clickonfashion/hermes/upload/CLICKONFASHION_Massana.csv
+DEBUG:Running semantic analyzer update
+DEBUG:Strategy sku (Lexical_SkuUpdate) is not implemented for the lexical analizer <br>
+ERROR:Error found at column configurable_attributes<br>Configurable attribute(s): "" must belong to the Attribute Set specified: Producto con talla y color, at sku MASSANA_B621112-BLANCO-12

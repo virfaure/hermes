@@ -1,0 +1,2 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/clickonfashion/hermes/upload/import_torras_CAS_12_04_13_cof.csv
+DEBUG:Running semantic analyzer import

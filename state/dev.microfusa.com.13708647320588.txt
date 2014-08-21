@@ -1,0 +1,23 @@
+DEBUG:Running lexical analyzer
+DEBUG:Running semantic analyzer
+SUCCESS:The lexical analysis has successfully passed all validations for the update profile.<br>Time taken: 0.053564071655273 seconds<br>The semantic analysis has successfully passed all validations for the update profile.<br>Time taken: 0.0029029846191406 seconds<br>
+DEBUG:Actualizando...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+ITIME:100 - 5.4325740337372 - 5.4325740337372
+DBTIME:484 - 0.16421151161194 - 0.16421151161194 - 484
+ITIME:200 - 10.615442991257 - 5.1827628612518
+DBTIME:925 - 0.41970825195312 - 0.25549674034119 - 925
+ITIME:300 - 15.60547208786 - 4.989844083786
+DBTIME:1328 - 0.55931186676025 - 0.13960361480713 - 1328
+ITIME:400 - 20.851290941238 - 5.2456889152527
+DBTIME:1785 - 0.72019362449646 - 0.16088175773621 - 1785
+ITIME:500 - 27.262295007706 - 6.4109239578247
+DBTIME:2277 - 1.2199819087982 - 0.49978828430176 - 2277
+ITIME:512 - 27.988711118698 - 0.72628808021545
+DBTIME:2334 - 1.2410836219788 - 0.021101713180542 - 2334
+SUCCESS:Categories imported OK:512/512
+WARNING:Strategy category_id (Lexical_CategoryId) is not implemented for the lexical analizer <br>Strategy include_in_menu (Lexical_IncludeInMenu) is not implemented for the lexical analizer <br>Strategy is_active (Lexical_IsActive) is not implemented for the lexical analizer <br>Strategy meta_description (Lexical_MetaDescription) is not implemented for the lexical analizer <br>Strategy meta_keywords (Lexical_MetaKeywords) is not implemented for the lexical analizer <br>Strategy meta_title (Lexical_MetaTitle) is not implemented for the lexical analizer <br>Strategy url_key (Lexical_UrlKey) is not implemented for the lexical analizer <br>Strategy url_path (Lexical_UrlPath) is not implemented for the lexical analizer <br>Strategy category_id (Semantic_CategoryId) is not implemented for the semantic analizer <br>

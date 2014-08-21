@@ -1,0 +1,15 @@
+DEBUG:Running lexical analyzer
+DEBUG:Running semantic analyzer
+SUCCESS:The lexical analysis has successfully passed all validations for the update_category profile.<br>Time taken: 0.00081610679626465 seconds<br>The semantic analysis has successfully passed all validations for the update_category profile.<br>Time taken: 0.00086808204650879 seconds<br>
+DEBUG:Actualizando...
+STARTUP:Import Mode:update_category
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+SKIP:skipping unknown category_id:6 - update mode set
+SKIP:skipping unknown category_id:18 - update mode set
+ITIME:2 - 13.986529111862 - 13.986529111862
+DBTIME:4 - 0.0012490749359131 - 0.0012490749359131 - 4
+SUCCESS:Categories imported OK:0/2
+WARNING:Categories imported KO:2/2

@@ -1,0 +1,2 @@
+DEBUG:Running lexical analyzer: super  on file: /var/www/microfusa/hermes/upload/export_all_etailers_inactive_without_cat.csv
+ERROR:The following columns are duplicated on the CSV: "no", "no", "no", "disponible", "sí", "no", "no", "no", "no", "no", "disponible", "/u/l/ultrasone_icans.jpg", "/u/l/ultrasone_icans.jpg", "no", "usar configuración", "0.0000", "0.0000", "1", "1", "0.0000", "1", "1", "0.0000", "1", "1", "1", "0.0000", "1", "1", "ultrasone - icans", "simple".<br>

@@ -1,0 +1,4 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/motorstoreshop/hermes/upload/ImportaciónCascosNolanxlsx2_utf8.csv
+DEBUG:Running semantic analyzer import
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>Strategy cost (Lexical_Cost) is not implemented for the lexical analizer <br>Strategy provider (Lexical_Provider) is not implemented for the lexical analizer <br>
+ERROR:Error found at column configurable_attributes<br>Configurable attribute "talla" can't be empty for the following product: N91CLASSIC002XS

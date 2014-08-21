@@ -1,0 +1,4 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/aita/hermes/upload/HERMES_import_product_TEST.csv
+DEBUG:Running semantic analyzer import
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>
+ERROR:Error found at column tax_class_id<br>TaxClassId(s) "IVA 16%" must exist on the database.

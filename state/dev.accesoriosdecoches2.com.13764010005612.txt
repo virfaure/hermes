@@ -1,0 +1,141 @@
+DEBUG:Running lexical analyzer: update  on file: /var/www/accesoriosdecoches2/hermes/upload/Import_Product_Image_Enabled.csv
+DEBUG:Running semantic analyzer update
+SUCCESS:The lexical analysis has successfully passed all validations for the update profile.<br>Time taken: 0.19288802146912 seconds<br>The semantic analysis has successfully passed all validations for the update profile.<br>Time taken: 43.145509958267 seconds<br>
+DEBUG:Importing...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Import Report Mail Notifier-1.0.0-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Import_report_mail_notifier 
+PLUGINHELLO:Magmi Optimizer-1.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Optimizer 
+PLUGINHELLO:Automatic Product Processor-0.0.1-Javier- 
+PLUGINHELLO:On the fly category creator/importer-0.1.7-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_category_creator/importer 
+PLUGINHELLO:Image attributes processor-1.0.22-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Image_attributes_processor 
+STD:Image attributes processor v1.0.22 - IMG SOURCE FOLDER:../ftp/media
+PLUGINHELLO:On the fly indexer-0.1.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_indexer 
+PLUGINHELLO:Generic mapper-0.0.6a-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Generic_mapper 
+PLUGINHELLO:Configurable Item processor-1.3.6-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Configurable_Item_processor 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+STARTUP:Configurable Item processor v1.3.6 - no options_container set, defaulting to :Block after product info
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0301.XXXXXXX cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0301.XXXXXX2 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0301.300XXXX cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0302.400XXXX cannot link simples.
+ITIME:100 - 23.66804599762 - 23.66804599762
+DBTIME:4502 - 2.8252227306366 - 2.8252227306366 - 4502
+ITIME:200 - 39.097813129425 - 15.429628133774
+DBTIME:8377 - 5.210031747818 - 2.3848090171814 - 8377
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0410.1110032</b>, image 'noimage.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+ITIME:300 - 62.565150976181 - 23.467221021652
+DBTIME:13064 - 7.8075077533722 - 2.5974760055542 - 13064
+ITIME:400 - 86.906307935715 - 24.34104180336
+DBTIME:17579 - 10.431897163391 - 2.6243894100189 - 17579
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0200.XXXXXX1 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0200.XXXXXX2 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0200.XXXXXX9 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0200.XXXXX10 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0200.XXXXX11 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0200.XXXXX12 cannot link simples.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000108</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000108-F01_1_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000108</b>, image 'noimage.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000111</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000111-F01_1_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000111</b>, image 'noimage.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000114</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000114-F01_1_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000114</b>, image 'noimage.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000123</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000123-F01_1_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000123</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000123-F01_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000126</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000126-F01_1_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000126</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000126-F01_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000128</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000128-F01_1_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000128</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000128-F01_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000130</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000130-F01_1_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000130</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000130-F01_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000133</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000133-F01_1_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000133</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000133-F01_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000137</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000137-F01_1_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000137</b>, image 'noimage.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000144</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000144-F01_1_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000144</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000144-F01_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000147</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000147-F01_1_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000147</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000147-F01_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000150</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000150-F01_1_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000150</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000150-F01_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000152</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000152-F01_1_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000152</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000152-F01_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000154</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000154-F01_1_2.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000154</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/0/1/0115-0000154-F01_3.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 0115.0000100</b>, image 'noimage.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.XXXXXX1 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.XXXXXX2 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.XXXXXX3 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.XXXXXX4 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.XXXXXX5 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.XXXXXX7 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.XXXXXX8 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.XXXXXX9 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.XXXXX10 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.XXXXX11 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.XXXXX12 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.XXXXX13 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.XXXXX16 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.XXXXX18 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.XXXXX17 cannot link simples.
+ITIME:500 - 98.272016048431 - 11.36559009552
+DBTIME:20792 - 12.261606454849 - 1.8297092914581 - 20792
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0106.00009xx cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0106.00001XX cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0106.000012X cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 20106.00001XX cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.000027x cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.000046X cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.000037X cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0115.00004xx cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0109.0000000 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0109.0000100 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0119.0000xxx cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0119.000000 cannot link simples.
+WARNING:Configurable Item processor v1.3.6 - No configurable attributes found for configurable sku: 0119.00002xx cannot link simples.
+ITIME:600 - 114.30984210968 - 16.037755012512
+DBTIME:23644 - 15.882117033005 - 3.6205105781555 - 23644
+ITIME:700 - 131.15365099907 - 16.843693971634
+DBTIME:27929 - 18.79887676239 - 2.9167597293854 - 27929
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 963-689000</b>, image 'http://www.accesoriosdecoches.com/media/catalog/product/1/0/100_-gris-_1.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+WARNING:Image attributes processor v1.0.22 - <b>For product with sku: 961-694500</b>, image 'noimage.jpg' not found, this product might be shown <b>WITHOUT</b> image.
+ITIME:800 - 151.03126192093 - 19.877542972565
+DBTIME:32358 - 20.96591258049 - 2.1670358181 - 32358
+ITIME:900 - 173.28546309471 - 22.254085063934
+DBTIME:37343 - 23.216693878174 - 2.2507812976837 - 37343
+ITIME:1000 - 197.66474795341 - 24.379168987274
+DBTIME:42798 - 25.420597791672 - 2.2039039134979 - 42798
+ITIME:1100 - 220.86465907097 - 23.199784994125
+DBTIME:48268 - 27.705052137375 - 2.2844543457031 - 48268
+ITIME:1200 - 245.78210997581 - 24.917333841324
+DBTIME:53733 - 30.048321723938 - 2.3432695865631 - 53733
+ITIME:1300 - 270.6426179409 - 24.86038184166
+DBTIME:59313 - 32.491747140884 - 2.4434254169464 - 59313
+ITIME:1400 - 297.93890404701 - 27.296170949936
+DBTIME:64958 - 34.746975183487 - 2.2552280426025 - 64958
+ITIME:1500 - 325.3845140934 - 27.445487976074
+DBTIME:70573 - 37.031337022781 - 2.2843618392944 - 70573
+ITIME:1600 - 345.77830791473 - 20.393671989441
+DBTIME:75498 - 38.876789569855 - 1.8454525470734 - 75498
+ITIME:1700 - 368.11374998093 - 22.33532500267
+DBTIME:80568 - 40.954845905304 - 2.0780563354492 - 80568
+ITIME:1800 - 388.46576404572 - 20.351897954941
+DBTIME:85268 - 42.586292266846 - 1.6314463615417 - 85268
+ITIME:1900 - 413.22932505608 - 24.76344704628
+DBTIME:90718 - 44.595472574234 - 2.0091803073883 - 90718
+ITIME:2000 - 439.06077504158 - 25.83115196228
+DBTIME:96028 - 46.650180101395 - 2.0547075271606 - 96028
+ITIME:2100 - 464.64184713364 - 25.580986022949
+DBTIME:101478 - 48.820019245148 - 2.1698391437531 - 101478
+ITIME:2200 - 483.70979595184 - 19.067822933197
+DBTIME:106248 - 50.704916000366 - 1.8848967552185 - 106248
+ITIME:2300 - 512.73491501808 - 29.025002002716
+DBTIME:111478 - 53.779803752899 - 3.074887752533 - 111478
+ITIME:2357 - 531.00323605537 - 18.268193006516
+DBTIME:114748 - 56.995431423187 - 3.2156276702881 - 114748
+SUCCESS:Skus imported OK:2357/2357
+INFO:Import Report Mail Notifier v1.0.0 - Sending report to : tecnico@theetailers.com ([DEV][accesoriosdecoches2] Hermes Update report)
+INFO:Automatic Product Processor v0.0.1 - Automatic Product Processor
+DEBUG:Strategy sku (Lexical_SkuUpdate) is not implemented for the lexical analizer <br>Strategy small_image (Lexical_SmallImage) is not implemented for the lexical analizer <br>Strategy thumbnail (Lexical_Thumbnail) is not implemented for the lexical analizer <br>Strategy gallery (Lexical_Gallery) is not implemented for the lexical analizer <br>

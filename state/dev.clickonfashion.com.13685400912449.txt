@@ -1,0 +1,3 @@
+DEBUG:Running lexical analyzer: import  on file: /var/www/clickonfashion/hermes/upload/import_torras_CAS_12_04_13_cofI.csv
+DEBUG:Strategy sku (Lexical_SkuImport) is not implemented for the lexical analizer <br>Strategy xre_skus (Lexical_XreSkus) is not implemented for the lexical analizer <br>
+ERROR:Error found at item TORRAS_Y87626_7832off-white_38:<br>Column: status, allowed values: (Habilitado|Deshabilitado), numeric value between 1 and 2, but "" provided.<br>

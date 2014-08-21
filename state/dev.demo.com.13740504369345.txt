@@ -1,0 +1,12 @@
+DEBUG:Running lexical analyzer
+DEBUG:Running semantic analyzer
+SUCCESS:The lexical analysis has successfully passed all validations for the update profile.<br>Time taken: 0.00092601776123047 seconds<br>The semantic analysis has successfully passed all validations for the update profile.<br>Time taken: 0.00070691108703613 seconds<br>
+DEBUG:Actualizando...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+ITIME:2 - 39.562606811523 - 39.562606811523
+DBTIME:12 - 0.060925722122192 - 0.060925722122192 - 12
+SUCCESS:Categories imported OK:2/2

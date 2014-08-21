@@ -1,0 +1,13 @@
+DEBUG:Running lexical analyzer
+DEBUG:Running semantic analyzer
+SUCCESS:The lexical analysis has successfully passed all validations for the update profile.<br>Time taken: 0.00037288665771484 seconds<br>The semantic analysis has successfully passed all validations for the update profile.<br>Time taken: 0.057947158813477 seconds<br>
+DEBUG:Actualizando...
+STARTUP:Import Mode:create
+TITLE:MAGMI by dweeves - version:0.7.17
+STEP:step:0.5%
+PLUGINHELLO:DataPump Datasource-1.0.0-Dweeves- 
+PLUGINHELLO:Standard Attribute Import-1.0.2-Dweeves- 
+ITIME:8 - 1.0059008598328 - 1.0059008598328
+DBTIME:27 - 0.03214430809021 - 0.03214430809021 - 27
+SUCCESS:Categories imported OK:8/8
+WARNING:Strategy category_id (Lexical_CategoryId) is not implemented for the lexical analizer <br>Strategy is_highlight_home (Lexical_IsHighlightHome) is not implemented for the lexical analizer <br>Strategy category_id (Semantic_CategoryId) is not implemented for the semantic analizer <br>

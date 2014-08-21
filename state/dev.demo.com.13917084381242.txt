@@ -1,0 +1,1 @@
+DEBUG:Running lexical analyzer: update  on file: /var/www/demo2/hermes/upload/MAGMI-import_product_demo.csv

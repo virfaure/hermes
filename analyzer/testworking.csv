@@ -1,0 +1,12 @@
+sku;name;attribute_set;visibility;type;store;categories;short_description;description;status;price;special_price;weight;tax_class_id;qty;ean;image;configurable_attributes;simples_skus;talla;color;kg
+sku00S1;producto blanco de talla S;Producto con talla y color;1;simple;es;"hombre/mujer;;mujer/bolsos";Descripción corta;Descripción larga;Habilitado;10;;0.3;IVA 21%;5;;image1.jpg, image2.jpg;talla,color;;S;Blanco;1
+sku00S2;producto azul de talla XL;Producto con talla y color;1;simple;es;"hombre/mujer;;mujer/bolsos";Descripción corta;Descripción larga;Habilitado;10;;0.3;IVA 21%;6;;image11.jpg, image21.jpg;talla,color,;;XL;Azul;2
+sku00C;producto configurable;Producto con talla y color;4;configurable;es;"hombre/mujer;;mujer/bolsos";Descripción corta;Descripción larga;Habilitado;10;;0.3;IVA 21%;;;image1.jpg, image2.jpg, image11.jpg, image21.jpg;talla,color;sku00S1, sku00S2;L;Negro;3
+sku01S1;producto de talla S;Default;1;simple;es;"hombre/mujer;;mujer/bolsos";Descripción corta;Descripción larga;Habilitado;10;;0.3;IVA 21%;4;;Ejemplo19-Strpos.jpg, image2.jpg;talla;;S;;
+sku01S2;producto de talla M;Producto con talla;1;simple;en;"hombre/mujer;;mujer/bolsos";Descripción corta;Descripción larga;Habilitado;10;;0.3;IVA 21%;5;;image12.jpg, image22.jpg;talla;;M;;4
+sku01C;producto configurable;Producto con talla;4;configurable;es;"hombre/mujer;;mujer/bolsos";Descripción corta;Descripción larga;Habilitado;10;;0.3;IVA 21%;;;image1.jpg, image2.jpg,image12.jpg, image22.jpg;talla;sku01S1, sku01S2;L;;5
+BASI_BDM0570s;producto blanco;Producto con color;1;simple;es;"hombre/mujer;;mujer/bolsos";Descripción corta;Descripción larga;Habilitado;10;;0.3;IVA 21%;52;;image1.jpg, image2.jpg;talla;;XL;Blanco;
+sku02S1;producto blanco;Producto con color;1;simple;es;"hombre/mujer;;mujer/bolsos";Descripción corta;Descripción larga;Habilitado;10;;0.3;IVA 21%;52;;image1.jpg, ;talla;;M;Blanco;6
+sku02S2;producto azul;Producto con color;1;simple;en;"hombre/mujer;;mujer/bolsos";Descripción corta;Descripción larga;Habilitado;10;;0.3;IVA 21%;25;;image12.jpg, image22.jpg;talla;;S;Azul;7
+sku02C;producto configurable;Producto con color;4;configurable;es;"hombre/mujer;;mujer/bolsos";Descripción corta;Descripción larga;Habilitado;10;;0.3;IVA 21%;;;image1.jpg, image2.jpg,image12.png, image22.gif;color;sku02S1, sku02S2;;Blanco;7
+skuSIMPLE;Producto simple;Producto con talla;4;simple;es;"hombre/mujer;;mujer/bolsos";Descripción corta;Descripción larga;Habilitado;20;;0.1;IVA 21%;10;;image3.jpg, Everywhere_new_logo.jpg;;;;;
